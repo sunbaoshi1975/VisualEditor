@@ -1,0 +1,12 @@
+[I] 2011-06-25 09:03:18.592 (0x17DC):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.7
+[I] 2011-06-25 09:03:19.672 (0x17DC):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2011-06-25 09:03:30.860 (0x17DC):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:226 Callflow Name:NB Fotile
+[I] 2011-06-25 09:03:30.920 (0x17DC):ErrorCode[0]_Open Resource Record...,Project ID:226
+[I] 2011-06-25 09:03:46.624 (0x17DC):ErrorCode[0]_Add a new node,Node Index:154
+[I] 2011-06-25 09:04:14.280 (0x17DC):ErrorCode[0]_Delete a node,Node Index:154
+[I] 2011-06-25 09:04:27.264 (0x17DC):ErrorCode[0]_Add a new node,Node Index:155
+[I] 2011-06-25 09:04:41.640 (0x17DC):ErrorCode[0]_Delete a node,Node Index:155
+[I] 2011-06-25 09:04:52.764 (0x17DC):ErrorCode[0]_Add a new node,Node Index:156
+[I] 2011-06-25 09:05:21.672 (0x17DC):ErrorCode[0]_Delete a node,Node Index:156
+[I] 2011-06-25 21:06:35.216 (0x17DC):ErrorCode[0]_Callflow Closed!,Callflow ID:226 Callflow Name:NB Fotile
+[I] 2011-06-25 21:06:35.264 (0x17DC):ErrorCode[0]_Visual IVR Editor Shutdown....

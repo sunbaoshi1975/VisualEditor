@@ -1,0 +1,30 @@
+[I] 2010-10-18 10:44:53.292 (0x152C):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.7
+[I] 2010-10-18 10:44:54.936 (0x152C):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2010-10-18 11:25:57.088 (0x152C):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:12 Callflow Name:ACCSOB
+[E] 2010-10-18 11:25:57.136 (0x152C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 12,使用 Null 无效
+[I] 2010-10-18 11:25:57.216 (0x152C):ErrorCode[0]_Open Resource Record...,Project ID:11
+[E] 2010-10-18 11:25:57.232 (0x152C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 12,使用 Null 无效
+[E] 2010-10-18 11:25:57.232 (0x152C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 12,使用 Null 无效
+[E] 2010-10-18 11:25:57.248 (0x152C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 12,使用 Null 无效
+[E] 2010-10-18 11:25:57.248 (0x152C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 12,使用 Null 无效
+[E] 2010-10-18 11:25:57.264 (0x152C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 12,使用 Null 无效
+[E] 2010-10-18 11:25:57.264 (0x152C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 12,使用 Null 无效
+[E] 2010-10-18 11:25:57.276 (0x152C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 12,使用 Null 无效
+[E] 2010-10-18 11:25:57.276 (0x152C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 12,使用 Null 无效
+[I] 2010-10-18 11:27:49.668 (0x152C):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2010-10-18 11:27:57.012 (0x152C):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:12 Callflow Name:ACCSOB
+[I] 2010-10-18 11:27:58.528 (0x152C):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:13 Callflow Name:Read WorkNo
+[I] 2010-10-18 11:27:59.416 (0x152C):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:14 Callflow Name:PCS_Demo
+[I] 2010-10-18 11:27:59.980 (0x152C):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:15 Callflow Name:CISCO_Demo
+[I] 2010-10-18 11:28:00.512 (0x152C):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:16 Callflow Name:
+[I] 2010-10-18 11:28:00.576 (0x152C):ErrorCode[0]_Create a new Callflow,CallFlow ID:16
+[E] 2010-10-18 11:28:00.608 (0x152C):ErrorCode[0]_Get callflow date file information failed when import a callflow!,
+[I] 2010-10-18 11:28:00.620 (0x152C):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2010-10-18 11:28:21.700 (0x152C):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:16 Callflow Name:ACCSOB
+[I] 2010-10-18 11:28:21.760 (0x152C):ErrorCode[0]_ImportFlowData(C:\Documents and Settings\tonysun\桌面\CallingCard_OB.PVC) successful!.
+[E] 2010-10-18 11:28:21.760 (0x152C):ErrorCode[0]_ImportFlowData(C:\Documents and Settings\tonysun\桌面\CallingCard_OB.PVC) got error,,
+[I] 2010-10-18 11:28:21.808 (0x152C):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:16 Callflow Name:ACCSOB
+[I] 2010-10-18 11:28:21.824 (0x152C):ErrorCode[0]_Open Resource Record...,Project ID:11
+[I] 2010-10-18 11:29:20.668 (0x152C):ErrorCode[0]_Callflow Closed!,Callflow ID:12 Callflow Name:ACCSOB
+[I] 2010-10-18 11:29:20.792 (0x152C):ErrorCode[0]_Callflow Closed!,Callflow ID:16 Callflow Name:ACCSOB
+[I] 2010-10-18 11:29:20.808 (0x152C):ErrorCode[0]_Visual IVR Editor Shutdown....

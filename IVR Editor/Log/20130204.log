@@ -1,0 +1,13 @@
+[I] 2013-02-04 20:01:11.424 (0x0840):ErrorCode[0]_Visual IVR Editor Started...,Version:6.10.4
+[I] 2013-02-04 20:01:13.768 (0x0840):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2013-02-04 20:03:15.184 (0x0840):ErrorCode[0]_Callflow Closed!,Callflow ID:0 Callflow Name:
+[I] 2013-02-04 20:03:15.216 (0x0840):ErrorCode[0]_Option changed successful! .
+[I] 2013-02-04 20:03:17.264 (0x0840):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=dbtest;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter
+[I] 2013-02-04 20:03:19.808 (0x0840):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:204 Callflow Name:IVR Survey for Pfizer
+[I] 2013-02-04 20:03:19.888 (0x0840):ErrorCode[0]_Open Resource Record...,Project ID:204
+[I] 2013-02-04 20:54:41.656 (0x0840):ErrorCode[0]_Add a new node,Node Index:20
+[I] 2013-02-04 20:56:10.704 (0x0840):ErrorCode[0]_Update node info,Node ID:271
+[I] 2013-02-04 20:56:24.184 (0x0840):ErrorCode[0]_Add a new node,Node Index:21
+[I] 2013-02-04 20:56:34.408 (0x0840):ErrorCode[0]_Callflow saved successful!,Callflow ID:204
+[I] 2013-02-04 21:30:54.408 (0x0840):ErrorCode[0]_Callflow Closed!,Callflow ID:204 Callflow Name:IVR Survey for Pfizer
+[I] 2013-02-04 21:30:54.496 (0x0840):ErrorCode[0]_Visual IVR Editor Shutdown....

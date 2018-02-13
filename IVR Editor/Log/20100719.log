@@ -1,0 +1,2 @@
+[I] 2010-07-19 15:27:02.232 (0x1714):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.7
+[E] 2010-07-19 15:28:06.048 (0x1714):ErrorCode[-2147467259]_Connect to Database failed! ConnectionString:DSN=IVRDemo;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter,[Microsoft][ODBC SQL Server Driver][DBNETLIB]SQL Server 不存在或访问被拒绝

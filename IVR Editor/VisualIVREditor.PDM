@@ -1,0 +1,140 @@
+[Root]
+Most Recent Package=Visual Editor
+
+
+[Package|Visual Editor|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\PCS_Works\NewPCS\Package\Editor
+
+[Package|Visual Editor|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Visual Editor|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Visual Editor|Files Found]
+
+[Package|Visual Editor|Files Released]
+NCTAudioInformatiom.dll=
+
+[Package|Visual Editor|Missing Dependency Information]
+D:\PCS_Works\NewPCS\EDITOR\OutLookBar.ocx=
+C:\Program Files\Common Files\System\ado\msado25.tlb=
+C:\Program Files\Common Files\Microsoft Shared\DAO\dao360.dll=
+
+[Package|Visual Editor|Out-of-Date Dependency Information]
+C:\WINNT\system32\MSCOMCTL.OCX=
+C:\WINNT\system32\msvcrt.dll=
+
+[Package|Visual Editor|Files Added]
+
+[Package|Visual Editor|Files Removed]
+
+[Package|Visual Editor|Files In Project]
+D:\PCS_Works\NewPCS\EDITOR\VisualIVREditor.exe=Yes
+C:\WINNT\system32\MSVBVM60.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\system32\VB6CHS.DLL=Yes
+C:\WINNT\system32\MSSTDFMT.DLL=Yes
+C:\WINNT\system32\STDFTCHS.DLL=Yes
+C:\Program Files\Common Files\Microsoft Shared\DAO\dao360.dll=Yes
+C:\Program Files\Common Files\System\ado\msado25.tlb=Yes
+C:\Program Files\NCT\AudioConvert2\NCTAudioConvert.exe=Yes
+C:\Program Files\NCT\AudioConvert2\NCTAudioFile.dll=Yes
+C:\WINNT\system32\msvcrt.dll=Yes
+D:\PCS_Works\NewPCS\EDITOR\OutLookBar.ocx=Yes
+C:\WINNT\system32\MSCOMCTL.OCX=Yes
+C:\WINNT\system32\MSCMCCHS.DLL=Yes
+C:\WINNT\system32\MSWINSCK.OCX=Yes
+C:\WINNT\system32\WINSKCHS.DLL=Yes
+C:\WINNT\system32\COMCT232.OCX=Yes
+C:\WINNT\system32\CMCT2CHS.DLL=Yes
+C:\WINNT\system32\PICCLP32.OCX=Yes
+C:\WINNT\system32\PCCLPCHS.DLL=Yes
+C:\WINNT\system32\Comdlg32.ocx=Yes
+C:\WINNT\system32\CMDLGCHS.DLL=Yes
+C:\Program Files\Spread30\BIN\SPR32X30.ocx=Yes
+C:\WINNT\system32\mfc42.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Visual Editor|Configure Registry Files]
+Applicable=No
+
+[Package|Visual Editor|Configure Remote Servers]
+Applicable=No
+
+[Package|Visual Editor|Install Locations]
+D:\PCS_Works\NewPCS\EDITOR\VisualIVREditor.exe=$(AppPath)
+C:\WINNT\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB6CHS.DLL=$(WinSysPath)
+C:\WINNT\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINNT\system32\STDFTCHS.DLL=$(WinSysPath)
+C:\Program Files\Common Files\Microsoft Shared\DAO\dao360.dll=$(WinSysPath)
+C:\Program Files\Common Files\System\ado\msado25.tlb=$(WinSysPath)
+C:\Program Files\NCT\AudioConvert2\NCTAudioConvert.exe=$(AppPath)
+C:\Program Files\NCT\AudioConvert2\NCTAudioFile.dll=$(AppPath)
+C:\WINNT\system32\msvcrt.dll=$(WinSysPathSysFile)
+D:\PCS_Works\NewPCS\EDITOR\OutLookBar.ocx=$(WinSysPath)
+C:\WINNT\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINNT\system32\MSCMCCHS.DLL=$(WinSysPath)
+C:\WINNT\system32\MSWINSCK.OCX=$(WinSysPath)
+C:\WINNT\system32\WINSKCHS.DLL=$(WinSysPath)
+C:\WINNT\system32\COMCT232.OCX=$(WinSysPath)
+C:\WINNT\system32\CMCT2CHS.DLL=$(WinSysPath)
+C:\WINNT\system32\PICCLP32.OCX=$(WinSysPath)
+C:\WINNT\system32\PCCLPCHS.DLL=$(WinSysPath)
+C:\WINNT\system32\Comdlg32.ocx=$(WinSysPath)
+C:\WINNT\system32\CMDLGCHS.DLL=$(WinSysPath)
+C:\Program Files\Spread30\BIN\SPR32X30.ocx=$(WinSysPath)
+C:\WINNT\system32\mfc42.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Visual Editor|Configure Shared Files]
+Applicable=Yes
+D:\PCS_Works\NewPCS\EDITOR\VisualIVREditor.exe=No
+C:\Program Files\NCT\AudioConvert2\NCTAudioConvert.exe=No
+C:\Program Files\NCT\AudioConvert2\NCTAudioFile.dll=No
+
+[Package|Visual Editor|Distribution]
+Type=single
+Size=
+Title=可视化IVR流程编辑系统
+
+[Package|Visual Editor|IconGroups]
+Group0=可视化IVR流程编辑系统
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Visual Editor|可视化IVR流程编辑系统]
+Icon1=VisualIVREditor.exe
+Title1=可视化IVR流程编辑系统
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Visual Editor|Package]
+PackageFolder=D:\PCS_Works\NewPCS\Package\Editor
+ProjectFolder=D:\PCS_Works\NewPCS\EDITOR
+ServerSideCab=
+File1=D:\PCS_Works\NewPCS\Package\Editor\setup.exe
+File2=D:\PCS_Works\NewPCS\Package\Editor\Setup.Lst
+File3=D:\PCS_Works\NewPCS\Package\Editor\VisualIVREditor.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

@@ -1,0 +1,4 @@
+[I] 2008-12-04 16:50:38.888 (0x10C0):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.6
+[I] 2008-12-04 16:50:41.108 (0x10C0):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2008-12-04 17:35:18.656 (0x10C0):ErrorCode[0]_Callflow Closed!,Callflow ID:0 Callflow Name:
+[I] 2008-12-04 17:35:18.688 (0x10C0):ErrorCode[0]_Visual IVR Editor Shutdown....

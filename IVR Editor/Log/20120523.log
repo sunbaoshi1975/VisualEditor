@@ -1,0 +1,15 @@
+[I] 2012-05-23 18:32:42.160 (0x07A0):ErrorCode[0]_Visual IVR Editor Started...,Version:6.10.2
+[I] 2012-05-23 18:33:06.816 (0x07BC):ErrorCode[0]_Visual IVR Editor Started...,Version:6.10.2
+[I] 2012-05-23 18:33:19.784 (0x0920):ErrorCode[0]_Visual IVR Editor Started...,Version:6.10.2
+[E] 2012-05-23 18:33:28.348 (0x07A0):ErrorCode[-2147467259]_Connect to Database failed! ConnectionString:DSN=test;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter_t,[Microsoft][ODBC SQL Server Driver][DBNETLIB]SQL Server 不存在或访问被拒绝
+[I] 2012-05-23 18:34:04.832 (0x07A0):ErrorCode[0]_Callflow Closed!,Callflow ID:0 Callflow Name:
+[I] 2012-05-23 18:34:04.960 (0x07A0):ErrorCode[0]_Option changed successful! .
+[E] 2012-05-23 18:34:07.612 (0x07A0):ErrorCode[-2147467259]_Connect to Database failed! ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter_t,无法打开登录所请求的数据库 "dbCallcenter_t"。登录失败。
+[I] 2012-05-23 18:34:20.772 (0x07A0):ErrorCode[0]_Callflow Closed!,Callflow ID:0 Callflow Name:
+[I] 2012-05-23 18:34:20.816 (0x07A0):ErrorCode[0]_Option changed successful! .
+[I] 2012-05-23 18:34:22.660 (0x07A0):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2012-05-23 18:34:26.144 (0x07A0):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:1 Callflow Name:Test Demo
+[I] 2012-05-23 18:34:26.300 (0x07A0):ErrorCode[0]_Open Resource Record...,Project ID:1
+[I] 2012-05-23 18:34:34.644 (0x07A0):ErrorCode[0]_Add a new node,Node Index:29
+[I] 2012-05-23 18:44:55.128 (0x07A0):ErrorCode[0]_Callflow Closed!,Callflow ID:1 Callflow Name:Test Demo
+[I] 2012-05-23 18:44:55.208 (0x07A0):ErrorCode[0]_Visual IVR Editor Shutdown....

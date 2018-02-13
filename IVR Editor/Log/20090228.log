@@ -1,0 +1,48 @@
+[I] 2009-02-28 00:20:53.265 (0x1618):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.6
+[I] 2009-02-28 00:20:54.421 (0x1618):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2009-02-28 00:21:26.921 (0x1618):ErrorCode[0]_Callflow Closed!,Callflow ID:0 Callflow Name:
+[I] 2009-02-28 00:21:26.953 (0x1618):ErrorCode[0]_Option changed successful! .
+[I] 2009-02-28 00:21:29.000 (0x1618):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=microcall;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter
+[I] 2009-02-28 00:22:19.859 (0x1618):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:220 Callflow Name:Microcall for Volvo
+[I] 2009-02-28 00:22:20.359 (0x1618):ErrorCode[0]_Open Resource Record...,Project ID:220
+[I] 2009-02-28 00:22:31.671 (0x1618):ErrorCode[0]_Successful Synchronized CallFlow! CallFlow ID:220.
+[I] 2009-02-28 00:22:37.765 (0x1618):ErrorCode[0]_Resource synchronized Successful! Project ID:220.
+[I] 2009-02-28 00:22:49.093 (0x1618):ErrorCode[0]_Callflow Closed!,Callflow ID:220 Callflow Name:Microcall for Volvo
+[I] 2009-02-28 00:22:49.109 (0x1618):ErrorCode[0]_Option changed successful! .
+[I] 2009-02-28 00:22:50.359 (0x1618):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2009-02-28 00:23:05.687 (0x1618):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:220 Callflow Name:Microcall for Volvo
+[I] 2009-02-28 00:23:05.703 (0x1618):ErrorCode[0]_Open Resource Record...,Project ID:220
+[I] 2009-02-28 00:23:58.828 (0x1618):ErrorCode[0]_Callflow Closed!,Callflow ID:220 Callflow Name:Microcall for Volvo
+[I] 2009-02-28 00:23:58.843 (0x1618):ErrorCode[0]_Option changed successful! .
+[I] 2009-02-28 00:24:00.359 (0x1618):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=microcall;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter
+[I] 2009-02-28 00:25:02.484 (0x1618):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:218 Callflow Name:MicroCall For HandPay
+[I] 2009-02-28 00:25:03.375 (0x1618):ErrorCode[0]_Open Resource Record...,Project ID:218
+[I] 2009-02-28 00:25:11.312 (0x1618):ErrorCode[0]_Successful Synchronized CallFlow! CallFlow ID:218.
+[I] 2009-02-28 00:25:17.546 (0x1618):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=microcall;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter
+[I] 2009-02-28 00:25:29.375 (0x1618):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:216 Callflow Name:MicroCall-Sales
+[I] 2009-02-28 00:25:29.796 (0x1618):ErrorCode[0]_Open Resource Record...,Project ID:216
+[I] 2009-02-28 00:25:38.328 (0x1618):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=microcall;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter
+[I] 2009-02-28 00:25:38.984 (0x1618):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:219 Callflow Name:HandPay User Check
+[I] 2009-02-28 00:25:40.375 (0x1618):ErrorCode[0]_Open Resource Record...,Project ID:218
+[I] 2009-02-28 00:25:48.000 (0x1618):ErrorCode[0]_Successful Synchronized CallFlow! CallFlow ID:219.
+[I] 2009-02-28 00:25:54.937 (0x1618):ErrorCode[0]_Callflow Closed!,Callflow ID:218 Callflow Name:MicroCall For HandPay
+[I] 2009-02-28 00:25:54.968 (0x1618):ErrorCode[0]_Callflow Closed!,Callflow ID:216 Callflow Name:MicroCall-Sales
+[I] 2009-02-28 00:25:54.984 (0x1618):ErrorCode[0]_Callflow Closed!,Callflow ID:219 Callflow Name:HandPay User Check
+[I] 2009-02-28 00:25:55.000 (0x1618):ErrorCode[0]_Option changed successful! .
+[I] 2009-02-28 00:25:56.359 (0x1618):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2009-02-28 00:26:17.281 (0x1618):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:219 Callflow Name:HandPay User Check
+[I] 2009-02-28 00:26:17.296 (0x1618):ErrorCode[0]_Open Resource Record...,Project ID:218
+[I] 2009-02-28 00:26:47.625 (0x1618):ErrorCode[0]_Open Resource Record...,Project ID:1
+[I] 2009-02-28 00:26:49.328 (0x1618):ErrorCode[0]_Callflow Closed!,Callflow ID:219 Callflow Name:HandPay User Check
+[I] 2009-02-28 00:26:49.359 (0x1618):ErrorCode[0]_Option changed successful! .
+[I] 2009-02-28 00:26:51.125 (0x1618):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=microcall;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter
+[I] 2009-02-28 00:27:08.046 (0x1618):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:218 Callflow Name:MicroCall For HandPay
+[I] 2009-02-28 00:27:09.578 (0x1618):ErrorCode[0]_Open Resource Record...,Project ID:218
+[I] 2009-02-28 00:27:14.968 (0x1618):ErrorCode[0]_Resource synchronized Successful! Project ID:218.
+[I] 2009-02-28 00:27:21.234 (0x1618):ErrorCode[0]_Callflow Closed!,Callflow ID:218 Callflow Name:MicroCall For HandPay
+[I] 2009-02-28 00:27:21.250 (0x1618):ErrorCode[0]_Option changed successful! .
+[I] 2009-02-28 00:27:22.421 (0x1618):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2009-02-28 00:27:41.218 (0x1618):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:219 Callflow Name:HandPay User Check
+[I] 2009-02-28 00:27:41.234 (0x1618):ErrorCode[0]_Open Resource Record...,Project ID:218
+[I] 2009-02-28 13:35:47.500 (0x1618):ErrorCode[0]_Callflow Closed!,Callflow ID:219 Callflow Name:HandPay User Check
+[I] 2009-02-28 13:35:47.592 (0x1618):ErrorCode[0]_Visual IVR Editor Shutdown....

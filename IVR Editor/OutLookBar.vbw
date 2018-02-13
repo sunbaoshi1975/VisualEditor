@@ -1,0 +1,10 @@
+VerticalMenu = 60, 30, 667, 474, , 420, 154, 638, 311, C
+MenuItem = -11, 8, 696, 608, 
+MenuItems = 176, 176, 750, 620, C
+VMenu = 198, 198, 772, 642, C
+Menus = 4, 69, 578, 513, C
+MenuObjects = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+Menues = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+MenuItemObjects = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+Arrow = 0, 0, 0, 0, C
+dlgAbout = 0, 0, 0, 0, C, 0, 0, 0, 0, C

@@ -1,0 +1,29 @@
+[I] 2010-11-22 15:51:47.096 (0x1444):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.7
+[I] 2010-11-22 15:51:48.328 (0x1444):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2010-11-22 15:52:12.328 (0x1444):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:7 Callflow Name:VMS_Demo
+[E] 2010-11-22 15:52:12.376 (0x1444):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 7,使用 Null 无效
+[I] 2010-11-22 15:52:12.408 (0x1444):ErrorCode[0]_Open Resource Record...,Project ID:98
+[E] 2010-11-22 15:52:12.408 (0x1444):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 7,使用 Null 无效
+[E] 2010-11-22 15:52:12.408 (0x1444):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 7,使用 Null 无效
+[E] 2010-11-22 15:52:12.408 (0x1444):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 7,使用 Null 无效
+[E] 2010-11-22 15:52:12.424 (0x1444):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 7,使用 Null 无效
+[E] 2010-11-22 15:52:12.424 (0x1444):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 7,使用 Null 无效
+[E] 2010-11-22 15:52:12.424 (0x1444):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 7,使用 Null 无效
+[I] 2010-11-22 15:52:20.408 (0x1444):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2010-11-22 15:52:41.472 (0x1444):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:9 Callflow Name:录音流程
+[E] 2010-11-22 15:52:41.472 (0x1444):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 9,使用 Null 无效
+[I] 2010-11-22 15:52:41.472 (0x1444):ErrorCode[0]_Open Resource Record...,Project ID:98
+[E] 2010-11-22 15:52:41.472 (0x1444):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 9,使用 Null 无效
+[E] 2010-11-22 15:52:41.488 (0x1444):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 9,使用 Null 无效
+[E] 2010-11-22 15:52:41.488 (0x1444):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 9,使用 Null 无效
+[E] 2010-11-22 15:52:41.488 (0x1444):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 9,使用 Null 无效
+[E] 2010-11-22 15:52:41.488 (0x1444):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 9,使用 Null 无效
+[E] 2010-11-22 15:52:41.488 (0x1444):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 9,使用 Null 无效
+[E] 2010-11-22 15:52:41.504 (0x1444):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 9,使用 Null 无效
+[E] 2010-11-22 15:52:41.504 (0x1444):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 9,使用 Null 无效
+[I] 2010-11-22 15:53:39.176 (0x1444):ErrorCode[0]_Add a new node,Node Index:10
+[I] 2010-11-22 15:54:36.720 (0x1444):ErrorCode[0]_Add a new node,Node Index:11
+[I] 2010-11-22 15:58:36.736 (0x1444):ErrorCode[0]_Add a new node,Node Index:12
+[I] 2010-11-22 16:01:49.596 (0x1444):ErrorCode[0]_Callflow Closed!,Callflow ID:7 Callflow Name:VMS_Demo
+[I] 2010-11-22 16:01:49.628 (0x1444):ErrorCode[0]_Callflow Closed!,Callflow ID:9 Callflow Name:录音流程
+[I] 2010-11-22 16:01:49.644 (0x1444):ErrorCode[0]_Visual IVR Editor Shutdown....

@@ -1,0 +1,44 @@
+[I] 2011-12-02 20:58:03.008 (0x12DC):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.7
+[I] 2011-12-02 20:58:05.648 (0x12DC):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2011-12-02 21:19:59.304 (0x12DC):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:227 Callflow Name:Fotile BC
+[I] 2011-12-02 21:19:59.376 (0x12DC):ErrorCode[0]_Open Resource Record...,Project ID:227
+[I] 2011-12-06 22:49:14.672 (0x12DC):ErrorCode[0]_Update node info,Node ID:296
+[I] 2011-12-06 22:49:51.216 (0x12DC):ErrorCode[0]_Callflow saved successful!,Callflow ID:227
+[I] 2011-12-06 22:54:39.328 (0x12DC):ErrorCode[0]_Callflow Closed!,Callflow ID:227 Callflow Name:Fotile BC
+[I] 2011-12-06 22:54:39.376 (0x12DC):ErrorCode[0]_Option changed successful! .
+[I] 2011-12-06 22:54:42.544 (0x12DC):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=t;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter_t
+[I] 2011-12-06 22:54:58.720 (0x12DC):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:227 Callflow Name:Fotile BC
+[I] 2011-12-06 22:55:09.560 (0x12DC):ErrorCode[0]_Open Resource Record...,Project ID:227
+[I] 2011-12-06 22:55:32.840 (0x12DC):ErrorCode[0]_Update node info,Node ID:263
+[I] 2011-12-06 22:55:36.592 (0x12DC):ErrorCode[0]_Callflow saved successful!,Callflow ID:227
+[I] 2011-12-06 22:58:05.904 (0x12DC):ErrorCode[0]_Update node info,Node ID:296
+[W] 2011-12-06 22:59:01.688 (0x12DC):ErrorCode[0]_Can not save the callflow, Changes has been Rollback!.
+[W] 2011-12-06 22:59:10.872 (0x12DC):ErrorCode[0]_Can not save the callflow, Changes has been Rollback!.
+[I] 2011-12-06 22:59:13.344 (0x12DC):ErrorCode[0]_Callflow Closed!,Callflow ID:227 Callflow Name:Fotile BC
+[I] 2011-12-06 22:59:15.984 (0x12DC):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=t;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter_t
+[I] 2011-12-06 22:59:24.888 (0x12DC):ErrorCode[0]_Callflow Closed!,Callflow ID:0 Callflow Name:
+[I] 2011-12-06 22:59:26.456 (0x12DC):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=t;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter_t
+[I] 2011-12-06 22:59:32.248 (0x12DC):ErrorCode[0]_Callflow Closed!,Callflow ID:0 Callflow Name:
+[I] 2011-12-06 22:59:32.280 (0x12DC):ErrorCode[0]_Visual IVR Editor Shutdown....
+[I] 2011-12-06 22:59:32.720 (0x12DC):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=t;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter_t
+[I] 2011-12-06 22:59:39.672 (0x12DC):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=t;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter_t
+[I] 2011-12-06 22:59:43.048 (0x12DC):ErrorCode[0]_Callflow Closed!,Callflow ID:0 Callflow Name:
+[I] 2011-12-06 22:59:43.112 (0x12DC):ErrorCode[0]_Callflow Closed!,Callflow ID:0 Callflow Name:
+[I] 2011-12-06 22:59:43.152 (0x12DC):ErrorCode[0]_Visual IVR Editor Shutdown....
+[I] 2011-12-06 22:59:43.736 (0x12DC):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=t;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter_t
+[I] 2011-12-06 22:59:47.840 (0x12DC):ErrorCode[0]_Callflow Closed!,Callflow ID:0 Callflow Name:
+[I] 2011-12-06 22:59:47.920 (0x12DC):ErrorCode[0]_Callflow Closed!,Callflow ID:0 Callflow Name:
+[I] 2011-12-06 22:59:47.936 (0x12DC):ErrorCode[0]_Visual IVR Editor Shutdown....
+[I] 2011-12-06 22:59:47.968 (0x12DC):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=t;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter_t
+[I] 2011-12-06 22:59:48.232 (0x12DC):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=t;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter_t
+[I] 2011-12-06 22:59:52.800 (0x12DC):ErrorCode[0]_Callflow Closed!,Callflow ID:0 Callflow Name:
+[I] 2011-12-06 22:59:52.952 (0x12DC):ErrorCode[0]_Callflow Closed!,Callflow ID:0 Callflow Name:
+[I] 2011-12-06 22:59:52.968 (0x12DC):ErrorCode[0]_Visual IVR Editor Shutdown....
+[I] 2011-12-06 22:59:53.000 (0x12DC):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=t;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter_t
+[I] 2011-12-06 22:59:53.280 (0x12DC):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=t;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter_t
+[I] 2011-12-06 22:59:56.264 (0x12DC):ErrorCode[0]_Callflow Closed!,Callflow ID:0 Callflow Name:
+[I] 2011-12-06 22:59:56.312 (0x12DC):ErrorCode[0]_Callflow Closed!,Callflow ID:0 Callflow Name:
+[I] 2011-12-06 22:59:56.328 (0x12DC):ErrorCode[0]_Visual IVR Editor Shutdown....
+[I] 2011-12-06 22:59:56.360 (0x12DC):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=t;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter_t
+[I] 2011-12-06 22:59:56.640 (0x12DC):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=t;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter_t
+[I] 2011-12-06 23:00:00.480 (0x12DC):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=t;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter_t

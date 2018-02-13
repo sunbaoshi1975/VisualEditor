@@ -1,0 +1,46 @@
+[I] 2009-05-06 09:00:30.984 (0x0634):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.6
+[I] 2009-05-06 09:00:33.078 (0x0634):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2009-05-06 09:01:38.952 (0x0634):ErrorCode[0]_Callflow Closed!,Callflow ID:0 Callflow Name:
+[I] 2009-05-06 09:01:39.000 (0x0634):ErrorCode[0]_Option changed successful! .
+[I] 2009-05-06 09:01:41.968 (0x0634):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=ciscodemo;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter
+[I] 2009-05-06 09:01:45.532 (0x0634):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:16 Callflow Name:CISCO_Demo
+[I] 2009-05-06 09:01:45.764 (0x0634):ErrorCode[0]_Open Resource Record...,Project ID:99
+[I] 2009-05-06 09:02:18.624 (0x0634):ErrorCode[0]_Update node info,Node ID:257
+[I] 2009-05-06 09:02:21.296 (0x0634):ErrorCode[0]_Callflow saved successful!,Callflow ID:16
+[I] 2009-05-06 09:06:43.078 (0x0634):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=ciscodemo;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter
+[I] 2009-05-06 09:06:43.264 (0x0634):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:109 Callflow Name:PowerDISA
+[I] 2009-05-06 09:06:43.312 (0x0634):ErrorCode[0]_Open Resource Record...,Project ID:108
+[I] 2009-05-06 09:27:23.248 (0x0634):ErrorCode[0]_Delete Resource item:00000 from Project:99.
+[I] 2009-05-06 09:29:56.952 (0x0634):ErrorCode[0]_Update node info,Node ID:329
+[I] 2009-05-06 09:29:57.844 (0x0634):ErrorCode[0]_Callflow saved successful!,Callflow ID:16
+[I] 2009-05-06 09:36:44.736 (0x0634):ErrorCode[0]_Update node info,Node ID:329
+[I] 2009-05-06 09:36:46.000 (0x0634):ErrorCode[0]_Callflow saved successful!,Callflow ID:16
+[I] 2009-05-06 13:15:12.032 (0x0634):ErrorCode[0]_Option changed successful! .
+[W] 2009-05-06 13:21:16.280 (0x0634):ErrorCode[0]_Can not save the callflow, Changes has been Rollback!.
+[I] 2009-05-06 13:21:16.436 (0x0634):ErrorCode[0]_Callflow Closed!,Callflow ID:16 Callflow Name:CISCO_Demo
+[I] 2009-05-06 13:21:20.248 (0x0634):ErrorCode[0]_Callflow Closed!,Callflow ID:109 Callflow Name:PowerDISA
+[I] 2009-05-06 13:21:20.264 (0x0634):ErrorCode[0]_Visual IVR Editor Shutdown....
+[I] 2009-05-06 13:21:44.328 (0x1468):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.6
+[I] 2009-05-06 13:21:44.720 (0x1468):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=ciscodemo;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter
+[I] 2009-05-06 13:21:50.736 (0x1468):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:16 Callflow Name:CISCO_Demo
+[I] 2009-05-06 13:21:50.780 (0x1468):ErrorCode[0]_Open Resource Record...,Project ID:99
+[I] 2009-05-06 13:26:33.408 (0x1468):ErrorCode[0]_Update node info,Node ID:330
+[I] 2009-05-06 13:26:35.048 (0x1468):ErrorCode[0]_Callflow saved successful!,Callflow ID:16
+[I] 2009-05-06 13:30:43.000 (0x1468):ErrorCode[0]_Update node info,Node ID:330
+[I] 2009-05-06 13:30:51.204 (0x1468):ErrorCode[0]_Update node info,Node ID:330
+[I] 2009-05-06 13:30:55.780 (0x1468):ErrorCode[0]_Update node info,Node ID:330
+[I] 2009-05-06 13:31:18.764 (0x1468):ErrorCode[0]_Update node info,Node ID:330
+[I] 2009-05-06 13:31:21.736 (0x1468):ErrorCode[0]_Callflow saved successful!,Callflow ID:16
+[I] 2009-05-06 13:31:59.376 (0x1468):ErrorCode[0]_Update node info,Node ID:330
+[I] 2009-05-06 13:32:23.264 (0x1468):ErrorCode[0]_Callflow saved successful!,Callflow ID:16
+[I] 2009-05-06 15:57:49.828 (0x1468):ErrorCode[0]_Update node info,Node ID:329
+[I] 2009-05-06 15:57:51.172 (0x1468):ErrorCode[0]_Callflow saved successful!,Callflow ID:16
+[I] 2009-05-06 15:58:29.264 (0x1468):ErrorCode[0]_Update node info,Node ID:330
+[I] 2009-05-06 15:58:30.376 (0x1468):ErrorCode[0]_Callflow saved successful!,Callflow ID:16
+[I] 2009-05-06 16:01:07.968 (0x1468):ErrorCode[0]_Update node info,Node ID:258
+[I] 2009-05-06 16:01:09.092 (0x1468):ErrorCode[0]_Callflow saved successful!,Callflow ID:16
+[I] 2009-05-06 16:01:42.888 (0x1468):ErrorCode[0]_Update node info,Node ID:329
+[I] 2009-05-06 16:01:48.752 (0x1468):ErrorCode[0]_Update node info,Node ID:330
+[I] 2009-05-06 16:01:49.920 (0x1468):ErrorCode[0]_Callflow saved successful!,Callflow ID:16
+[I] 2009-05-06 16:02:49.312 (0x1468):ErrorCode[0]_Callflow Closed!,Callflow ID:16 Callflow Name:CISCO_Demo
+[I] 2009-05-06 16:02:49.376 (0x1468):ErrorCode[0]_Visual IVR Editor Shutdown....

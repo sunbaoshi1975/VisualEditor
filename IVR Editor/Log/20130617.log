@@ -1,0 +1,203 @@
+[I] 2013-06-17 17:16:14.764 (0x0E50):ErrorCode[0]_Visual IVR Editor Started...,Version:6.10.4
+[I] 2013-06-17 17:16:17.892 (0x0E50):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=dbCallcenter;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter
+[I] 2013-06-17 17:17:02.624 (0x0E50):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=dbCallcenter;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter
+[I] 2013-06-17 17:17:04.920 (0x0E50):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:27 Callflow Name:
+[I] 2013-06-17 17:17:05.216 (0x0E50):ErrorCode[0]_Create a new Callflow,CallFlow ID:27
+[E] 2013-06-17 17:17:05.312 (0x0E50):ErrorCode[0]_Get callflow date file information failed when import a callflow!,
+[I] 2013-06-17 17:17:05.360 (0x0E50):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:27 Callflow Name:HermesMainCallFlow
+[I] 2013-06-17 17:17:06.048 (0x0E50):ErrorCode[0]_ImportFlowData(C:\Documents and Settings\Administrator\桌面\Hermes\27.PVC) successful!.
+[E] 2013-06-17 17:17:06.064 (0x0E50):ErrorCode[0]_ImportFlowData(C:\Documents and Settings\Administrator\桌面\Hermes\27.PVC) got error,,
+[I] 2013-06-17 17:17:06.172 (0x0E50):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:27 Callflow Name:HermesMainCallFlow
+[I] 2013-06-17 17:17:06.720 (0x0E50):ErrorCode[0]_Open Resource Record...,Project ID:27
+[I] 2013-06-17 17:17:13.720 (0x0E50):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=dbCallcenter;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter
+[I] 2013-06-17 17:17:14.876 (0x0E50):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:28 Callflow Name:
+[I] 2013-06-17 17:17:14.924 (0x0E50):ErrorCode[0]_Create a new Callflow,CallFlow ID:28
+[E] 2013-06-17 17:17:14.956 (0x0E50):ErrorCode[0]_Get callflow date file information failed when import a callflow!,
+[I] 2013-06-17 17:17:15.016 (0x0E50):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=dbCallcenter;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter
+[I] 2013-06-17 17:17:15.176 (0x0E50):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:28 Callflow Name:HermesCallFlow
+[I] 2013-06-17 17:17:15.424 (0x0E50):ErrorCode[0]_ImportFlowData(C:\Documents and Settings\Administrator\桌面\Hermes\28.PVC) successful!.
+[E] 2013-06-17 17:17:15.440 (0x0E50):ErrorCode[0]_ImportFlowData(C:\Documents and Settings\Administrator\桌面\Hermes\28.PVC) got error,,
+[I] 2013-06-17 17:17:15.456 (0x0E50):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:28 Callflow Name:HermesCallFlow
+[I] 2013-06-17 17:17:15.456 (0x0E50):ErrorCode[0]_Open Resource Record...,Project ID:27
+[I] 2013-06-17 17:17:26.912 (0x0E50):ErrorCode[0]_Open Resource Record...,Project ID:27
+[I] 2013-06-17 17:17:26.944 (0x0E50):ErrorCode[0]_Open Resource Record...,Project ID:27
+[I] 2013-06-17 17:19:05.224 (0x0E50):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=dbCallcenter;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter
+[I] 2013-06-17 17:19:05.440 (0x0E50):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:52 Callflow Name:锦江外拨流程
+[E] 2013-06-17 17:19:05.440 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[I] 2013-06-17 17:19:05.488 (0x0E50):ErrorCode[0]_Open Resource Record...,Project ID:51
+[E] 2013-06-17 17:19:05.504 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2013-06-17 17:19:05.520 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2013-06-17 17:19:05.536 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2013-06-17 17:19:05.536 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2013-06-17 17:19:05.552 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2013-06-17 17:19:05.568 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2013-06-17 17:19:05.568 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2013-06-17 17:19:05.584 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2013-06-17 17:19:05.584 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2013-06-17 17:19:05.600 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2013-06-17 17:19:05.600 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2013-06-17 17:19:05.616 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2013-06-17 17:19:05.616 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2013-06-17 17:19:05.632 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2013-06-17 17:19:05.632 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2013-06-17 17:19:05.644 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2013-06-17 17:19:05.644 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2013-06-17 17:19:05.660 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2013-06-17 17:19:05.660 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2013-06-17 17:19:05.676 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2013-06-17 17:19:05.692 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2013-06-17 17:19:05.692 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2013-06-17 17:19:05.708 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2013-06-17 17:19:05.708 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2013-06-17 17:19:05.708 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2013-06-17 17:19:05.724 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[I] 2013-06-17 17:19:47.344 (0x0E50):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=dbCallcenter;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter
+[I] 2013-06-17 17:19:47.876 (0x0E50):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:140 Callflow Name:大众外拨流程
+[I] 2013-06-17 17:19:48.048 (0x0E50):ErrorCode[0]_Open Resource Record...,Project ID:12
+[I] 2013-06-17 17:20:17.292 (0x0E50):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=dbCallcenter;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter
+[I] 2013-06-17 17:20:17.728 (0x0E50):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:69 Callflow Name:Fujitsu VIP
+[E] 2013-06-17 17:20:17.792 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[I] 2013-06-17 17:20:17.840 (0x0E50):ErrorCode[0]_Open Resource Record...,Project ID:69
+[E] 2013-06-17 17:20:17.840 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:18.088 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:18.088 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:18.104 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:18.840 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:19.308 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:19.324 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:19.340 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:19.356 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:19.372 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:19.372 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:19.388 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:19.388 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:19.400 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:19.416 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:19.416 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:19.432 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:19.432 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:19.448 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:19.448 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:19.464 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:19.480 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:19.480 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:19.496 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:19.496 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:20.592 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:20.608 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:20.608 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:20.620 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:20.636 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:20.636 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:20.652 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:20.668 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:20.668 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:20.684 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:20.684 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:20.700 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:20.700 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:20.716 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:20.716 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:20.732 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:20.732 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:20.744 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:20.744 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:20.760 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:20.776 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:20.792 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:20.792 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:20.808 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:20.808 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:20.824 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:20.824 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:20.840 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:20.856 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:20.872 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:20.888 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:20.888 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:20.904 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:20.920 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:20.920 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:20.936 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:20.952 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:20.964 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:20.964 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:20.964 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:20.980 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:20.996 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:21.012 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:21.012 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:21.028 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:21.028 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:21.044 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:21.044 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:21.060 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:21.060 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:21.076 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:21.076 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:21.088 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:21.088 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:21.104 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:21.104 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:21.120 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:21.136 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:21.136 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:21.152 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:21.168 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:21.168 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:21.184 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:21.184 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:21.200 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:21.200 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:21.216 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:21.216 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:21.232 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:21.248 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:21.248 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:21.264 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:21.264 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:21.280 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:21.280 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:21.292 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:21.292 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:21.308 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:21.308 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:21.324 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:21.340 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:21.340 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:21.356 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:21.356 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:21.372 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:21.372 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:21.388 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:21.388 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:21.404 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:21.404 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:21.404 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:21.416 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:21.432 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:21.448 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:21.448 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:21.464 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:21.480 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:21.480 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:21.496 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:21.528 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:21.528 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:21.544 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:21.544 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:21.560 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:21.560 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:21.576 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:21.576 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:21.592 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:21.592 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:21.608 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[E] 2013-06-17 17:20:21.608 (0x0E50):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 69,使用 Null 无效
+[I] 2013-06-17 17:20:57.336 (0x0E50):ErrorCode[0]_Add a new node,Node Index:130
+[I] 2013-06-17 17:24:50.564 (0x0E50):ErrorCode[0]_Callflow Closed!,Callflow ID:27 Callflow Name:HermesMainCallFlow
+[I] 2013-06-17 17:24:50.800 (0x0E50):ErrorCode[0]_Callflow Closed!,Callflow ID:28 Callflow Name:HermesCallFlow
+[I] 2013-06-17 17:24:50.860 (0x0E50):ErrorCode[0]_Callflow Closed!,Callflow ID:52 Callflow Name:锦江外拨流程
+[I] 2013-06-17 17:24:50.908 (0x0E50):ErrorCode[0]_Callflow Closed!,Callflow ID:140 Callflow Name:大众外拨流程
+[I] 2013-06-17 17:24:51.096 (0x0E50):ErrorCode[0]_Callflow Closed!,Callflow ID:69 Callflow Name:Fujitsu VIP
+[I] 2013-06-17 17:24:51.220 (0x0E50):ErrorCode[0]_Visual IVR Editor Shutdown....

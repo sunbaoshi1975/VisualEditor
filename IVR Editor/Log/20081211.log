@@ -1,0 +1,20 @@
+[I] 2008-12-11 19:10:48.688 (0x14F0):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.6
+[I] 2008-12-11 19:10:50.048 (0x14F0):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2008-12-11 19:10:59.808 (0x14F0):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:15 Callflow Name:CISCO_Demo
+[I] 2008-12-11 19:10:59.936 (0x14F0):ErrorCode[0]_Open Resource Record...,Project ID:99
+[I] 2008-12-11 19:11:20.784 (0x14F0):ErrorCode[0]_Add a new node,Node Index:58
+[I] 2008-12-11 19:11:27.720 (0x14F0):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2008-12-11 19:11:27.888 (0x14F0):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:1 Callflow Name:Test Demo
+[I] 2008-12-11 19:11:27.904 (0x14F0):ErrorCode[0]_Open Resource Record...,Project ID:1
+[I] 2008-12-11 19:11:33.704 (0x14F0):ErrorCode[0]_Add a new node,Node Index:32
+[I] 2008-12-11 19:12:42.376 (0x14F0):ErrorCode[0]_Callflow Closed!,Callflow ID:15 Callflow Name:CISCO_Demo
+[I] 2008-12-11 19:12:42.408 (0x14F0):ErrorCode[0]_Callflow Closed!,Callflow ID:1 Callflow Name:Test Demo
+[I] 2008-12-11 19:12:42.424 (0x14F0):ErrorCode[0]_Visual IVR Editor Shutdown....
+[I] 2008-12-11 19:14:43.112 (0x0C20):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.6
+[I] 2008-12-11 19:14:43.504 (0x0C20):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2008-12-11 19:14:47.440 (0x0C20):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:1 Callflow Name:Test Demo
+[I] 2008-12-11 19:14:47.456 (0x0C20):ErrorCode[0]_Open Resource Record...,Project ID:1
+[I] 2008-12-11 19:15:12.752 (0x0C20):ErrorCode[0]_Add a new node,Node Index:32
+[I] 2008-12-11 19:15:29.856 (0x0C20):ErrorCode[0]_Add a new node,Node Index:33
+[I] 2008-12-11 19:17:40.640 (0x0C20):ErrorCode[0]_Callflow Closed!,Callflow ID:1 Callflow Name:Test Demo
+[I] 2008-12-11 19:17:40.704 (0x0C20):ErrorCode[0]_Visual IVR Editor Shutdown....

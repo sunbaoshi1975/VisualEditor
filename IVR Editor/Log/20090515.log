@@ -1,0 +1,6 @@
+[I] 2009-05-15 16:40:44.468 (0x1414):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.6
+[I] 2009-05-15 16:40:47.064 (0x1414):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=dbCallcenter;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter
+[I] 2009-05-15 16:41:09.984 (0x1414):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:240 Callflow Name:IKEAMainCallFlow
+[I] 2009-05-15 16:41:10.092 (0x1414):ErrorCode[0]_Open Resource Record...,Project ID:240
+[I] 2009-05-17 21:20:21.216 (0x1414):ErrorCode[0]_Callflow Closed!,Callflow ID:240 Callflow Name:IKEAMainCallFlow
+[I] 2009-05-17 21:20:21.248 (0x1414):ErrorCode[0]_Visual IVR Editor Shutdown....

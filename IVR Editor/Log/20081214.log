@@ -1,0 +1,82 @@
+[I] 2008-12-14 14:40:18.000 (0x1354):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.6
+[I] 2008-12-14 14:40:19.280 (0x1354):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2008-12-14 14:40:43.860 (0x1354):ErrorCode[0]_Callflow Closed!,Callflow ID:0 Callflow Name:
+[I] 2008-12-14 14:40:43.860 (0x1354):ErrorCode[0]_Option changed successful! .
+[I] 2008-12-14 14:40:45.780 (0x1354):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=IKEA_WUXI;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter
+[I] 2008-12-14 14:42:21.188 (0x1354):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:240 Callflow Name:IKEAMainCallFlow
+[I] 2008-12-14 14:42:21.264 (0x1354):ErrorCode[0]_Open Resource Record...,Project ID:240
+[I] 2008-12-14 14:42:31.532 (0x1354):ErrorCode[0]_Successful Synchronized CallFlow! CallFlow ID:240.
+[I] 2008-12-14 14:42:40.920 (0x1354):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=IKEA_WUXI;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter
+[I] 2008-12-14 14:42:51.264 (0x1354):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:241 Callflow Name:IKEA_UMS
+[I] 2008-12-14 14:42:51.312 (0x1354):ErrorCode[0]_Open Resource Record...,Project ID:240
+[E] 2008-12-14 14:42:51.328 (0x1354):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 241,使用 Null 无效
+[I] 2008-12-14 14:42:56.592 (0x1354):ErrorCode[0]_Successful Synchronized CallFlow! CallFlow ID:241.
+[I] 2008-12-14 14:44:02.124 (0x1354):ErrorCode[0]_Callflow Closed!,Callflow ID:240 Callflow Name:IKEAMainCallFlow
+[I] 2008-12-14 14:46:52.720 (0x1354):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=IKEA_WUXI;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter
+[I] 2008-12-14 14:47:03.000 (0x1354):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:240 Callflow Name:IKEAMainCallFlow
+[I] 2008-12-14 14:47:03.048 (0x1354):ErrorCode[0]_Open Resource Record...,Project ID:240
+[I] 2008-12-14 15:21:17.544 (0x1354):ErrorCode[0]_Callflow Closed!,Callflow ID:241 Callflow Name:IKEA_UMS
+[I] 2008-12-14 15:21:17.688 (0x1354):ErrorCode[0]_Callflow Closed!,Callflow ID:240 Callflow Name:IKEAMainCallFlow
+[I] 2008-12-14 15:21:17.704 (0x1354):ErrorCode[0]_Option changed successful! .
+[I] 2008-12-14 15:21:19.688 (0x1354):ErrorCode[0]_Visual IVR Editor Shutdown....
+[I] 2008-12-14 15:29:18.328 (0x0CAC):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.6
+[I] 2008-12-14 15:29:18.672 (0x0CAC):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2008-12-14 15:32:30.080 (0x0CAC):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:240 Callflow Name:IKEAMainCallFlow
+[I] 2008-12-14 15:32:30.156 (0x0CAC):ErrorCode[0]_Open Resource Record...,Project ID:240
+[I] 2008-12-14 15:34:25.876 (0x0CAC):ErrorCode[0]_Successful Synchronized CallFlow! CallFlow ID:240.
+[I] 2008-12-14 15:51:08.156 (0x0CAC):ErrorCode[0]_Update node info,Node ID:417
+[I] 2008-12-14 15:51:29.936 (0x0CAC):ErrorCode[0]_Update node info,Node ID:417
+[I] 2008-12-14 15:51:31.560 (0x0CAC):ErrorCode[0]_Callflow saved successful!,Callflow ID:240
+[I] 2008-12-14 15:51:57.764 (0x0CAC):ErrorCode[0]_Update node info,Node ID:421
+[I] 2008-12-14 15:52:17.328 (0x0CAC):ErrorCode[0]_Update node info,Node ID:419
+[I] 2008-12-14 15:52:22.032 (0x0CAC):ErrorCode[0]_Update node info,Node ID:421
+[I] 2008-12-14 15:52:27.232 (0x0CAC):ErrorCode[0]_Update node info,Node ID:422
+[I] 2008-12-14 15:52:48.140 (0x0CAC):ErrorCode[0]_Update node info,Node ID:279
+[I] 2008-12-14 15:52:49.888 (0x0CAC):ErrorCode[0]_Callflow saved successful!,Callflow ID:240
+[I] 2008-12-14 15:52:57.248 (0x0CAC):ErrorCode[0]_Update node info,Node ID:450
+[I] 2008-12-14 15:53:03.360 (0x0CAC):ErrorCode[0]_Update node info,Node ID:291
+[I] 2008-12-14 15:53:05.500 (0x0CAC):ErrorCode[0]_Callflow saved successful!,Callflow ID:240
+[I] 2008-12-14 15:53:16.656 (0x0CAC):ErrorCode[0]_Update node info,Node ID:344
+[I] 2008-12-14 15:53:18.344 (0x0CAC):ErrorCode[0]_Callflow saved successful!,Callflow ID:240
+[I] 2008-12-14 15:53:30.048 (0x0CAC):ErrorCode[0]_Update node info,Node ID:380
+[I] 2008-12-14 15:54:13.264 (0x0CAC):ErrorCode[0]_Update node info,Node ID:413
+[I] 2008-12-14 15:54:16.484 (0x0CAC):ErrorCode[0]_Callflow saved successful!,Callflow ID:240
+[I] 2008-12-14 15:54:35.436 (0x0CAC):ErrorCode[0]_Update node info,Node ID:403
+[I] 2008-12-14 15:54:38.500 (0x0CAC):ErrorCode[0]_Callflow saved successful!,Callflow ID:240
+[I] 2008-12-14 15:54:53.780 (0x0CAC):ErrorCode[0]_Update node info,Node ID:415
+[I] 2008-12-14 15:54:55.092 (0x0CAC):ErrorCode[0]_Callflow saved successful!,Callflow ID:240
+[I] 2008-12-14 15:55:04.140 (0x0CAC):ErrorCode[0]_Update node info,Node ID:316
+[I] 2008-12-14 15:55:09.936 (0x0CAC):ErrorCode[0]_Update node info,Node ID:318
+[I] 2008-12-14 15:55:14.704 (0x0CAC):ErrorCode[0]_Update node info,Node ID:326
+[I] 2008-12-14 15:55:19.704 (0x0CAC):ErrorCode[0]_Update node info,Node ID:327
+[I] 2008-12-14 15:55:23.796 (0x0CAC):ErrorCode[0]_Update node info,Node ID:332
+[I] 2008-12-14 15:55:27.328 (0x0CAC):ErrorCode[0]_Update node info,Node ID:333
+[I] 2008-12-14 15:55:33.376 (0x0CAC):ErrorCode[0]_Update node info,Node ID:340
+[I] 2008-12-14 15:55:40.904 (0x0CAC):ErrorCode[0]_Update node info,Node ID:392
+[I] 2008-12-14 15:55:44.092 (0x0CAC):ErrorCode[0]_Update node info,Node ID:394
+[I] 2008-12-14 15:55:49.232 (0x0CAC):ErrorCode[0]_Update node info,Node ID:396
+[I] 2008-12-14 15:55:53.232 (0x0CAC):ErrorCode[0]_Update node info,Node ID:398
+[I] 2008-12-14 15:56:06.904 (0x0CAC):ErrorCode[0]_Update node info,Node ID:307
+[I] 2008-12-14 15:56:11.080 (0x0CAC):ErrorCode[0]_Update node info,Node ID:308
+[I] 2008-12-14 15:56:15.032 (0x0CAC):ErrorCode[0]_Update node info,Node ID:310
+[I] 2008-12-14 15:56:20.984 (0x0CAC):ErrorCode[0]_Update node info,Node ID:311
+[I] 2008-12-14 15:56:42.048 (0x0CAC):ErrorCode[0]_Update node info,Node ID:362
+[I] 2008-12-14 15:56:46.420 (0x0CAC):ErrorCode[0]_Update node info,Node ID:363
+[I] 2008-12-14 15:56:49.532 (0x0CAC):ErrorCode[0]_Update node info,Node ID:372
+[I] 2008-12-14 15:56:53.796 (0x0CAC):ErrorCode[0]_Update node info,Node ID:373
+[I] 2008-12-14 15:56:57.936 (0x0CAC):ErrorCode[0]_Update node info,Node ID:386
+[I] 2008-12-14 15:57:02.688 (0x0CAC):ErrorCode[0]_Update node info,Node ID:387
+[I] 2008-12-14 15:57:08.640 (0x0CAC):ErrorCode[0]_Update node info,Node ID:401
+[I] 2008-12-14 15:57:11.436 (0x0CAC):ErrorCode[0]_Update node info,Node ID:402
+[I] 2008-12-14 15:57:43.436 (0x0CAC):ErrorCode[0]_Update node info,Node ID:383
+[I] 2008-12-14 15:57:47.968 (0x0CAC):ErrorCode[0]_Update node info,Node ID:382
+[I] 2008-12-14 15:57:53.688 (0x0CAC):ErrorCode[0]_Update node info,Node ID:370
+[I] 2008-12-14 15:57:59.092 (0x0CAC):ErrorCode[0]_Update node info,Node ID:360
+[I] 2008-12-14 15:58:43.000 (0x0CAC):ErrorCode[0]_Update node info,Node ID:356
+[I] 2008-12-14 15:58:46.436 (0x0CAC):ErrorCode[0]_Update node info,Node ID:352
+[I] 2008-12-14 15:58:50.688 (0x0CAC):ErrorCode[0]_Update node info,Node ID:306
+[I] 2008-12-14 15:58:55.232 (0x0CAC):ErrorCode[0]_Update node info,Node ID:348
+[I] 2008-12-14 15:59:03.984 (0x0CAC):ErrorCode[0]_Callflow saved successful!,Callflow ID:240
+[I] 2008-12-14 15:59:43.140 (0x0CAC):ErrorCode[0]_Successful Synchronized CallFlow! CallFlow ID:240.
+[I] 2008-12-15 18:57:45.360 (0x0CAC):ErrorCode[0]_Callflow Closed!,Callflow ID:240 Callflow Name:IKEAMainCallFlow
+[I] 2008-12-15 18:57:45.424 (0x0CAC):ErrorCode[0]_Visual IVR Editor Shutdown....

@@ -1,0 +1,67 @@
+[I] 2010-03-18 01:36:28.937 (0x185C):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.7
+[I] 2010-03-18 01:36:30.687 (0x185C):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2010-03-18 02:52:24.750 (0x185C):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:1 Callflow Name:Test Demo
+[I] 2010-03-18 02:52:24.796 (0x185C):ErrorCode[0]_Open Resource Record...,Project ID:1
+[I] 2010-03-18 02:53:26.125 (0x185C):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2010-03-18 02:53:47.296 (0x185C):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:4 Callflow Name:
+[I] 2010-03-18 02:53:47.406 (0x185C):ErrorCode[0]_Create a new Callflow,CallFlow ID:4
+[I] 2010-03-18 02:53:47.437 (0x185C):ErrorCode[0]_Create Default System Node 1,2,256 for Callflow4.
+[E] 2010-03-18 02:53:47.453 (0x185C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 4,使用 Null 无效
+[I] 2010-03-18 02:53:47.468 (0x185C):ErrorCode[0]_Open Resource Record...,Project ID:0
+[E] 2010-03-18 02:53:47.468 (0x185C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 4,使用 Null 无效
+[E] 2010-03-18 02:53:47.484 (0x185C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 4,使用 Null 无效
+[E] 2010-03-18 02:53:47.484 (0x185C):ErrorCode[3021]_Show Call flow on Screen got error, Callflow ID: 4,BOF 或 EOF 中有一个是“真”，或者当前的记录已被删除，所需的操作要求一个当前的记录。
+[E] 2010-03-18 02:53:47.484 (0x185C):ErrorCode[3021]_Show Call flow on Screen got error, Callflow ID: 4,BOF 或 EOF 中有一个是“真”，或者当前的记录已被删除，所需的操作要求一个当前的记录。
+[E] 2010-03-18 02:53:47.500 (0x185C):ErrorCode[3021]_Show Call flow on Screen got error, Callflow ID: 4,BOF 或 EOF 中有一个是“真”，或者当前的记录已被删除，所需的操作要求一个当前的记录。
+[E] 2010-03-18 02:53:47.500 (0x185C):ErrorCode[3021]_Show Call flow on Screen got error, Callflow ID: 4,BOF 或 EOF 中有一个是“真”，或者当前的记录已被删除，所需的操作要求一个当前的记录。
+[E] 2010-03-18 02:53:47.500 (0x185C):ErrorCode[3021]_Show Call flow on Screen got error, Callflow ID: 4,BOF 或 EOF 中有一个是“真”，或者当前的记录已被删除，所需的操作要求一个当前的记录。
+[E] 2010-03-18 02:53:47.500 (0x185C):ErrorCode[3021]_Show Call flow on Screen got error, Callflow ID: 4,BOF 或 EOF 中有一个是“真”，或者当前的记录已被删除，所需的操作要求一个当前的记录。
+[E] 2010-03-18 02:53:47.515 (0x185C):ErrorCode[3021]_Show Call flow on Screen got error, Callflow ID: 4,BOF 或 EOF 中有一个是“真”，或者当前的记录已被删除，所需的操作要求一个当前的记录。
+[E] 2010-03-18 02:53:47.515 (0x185C):ErrorCode[3021]_Show Call flow on Screen got error, Callflow ID: 4,BOF 或 EOF 中有一个是“真”，或者当前的记录已被删除，所需的操作要求一个当前的记录。
+[E] 2010-03-18 02:53:47.515 (0x185C):ErrorCode[3021]_Show Call flow on Screen got error, Callflow ID: 4,BOF 或 EOF 中有一个是“真”，或者当前的记录已被删除，所需的操作要求一个当前的记录。
+[E] 2010-03-18 02:53:47.531 (0x185C):ErrorCode[3021]_Show Call flow on Screen got error, Callflow ID: 4,BOF 或 EOF 中有一个是“真”，或者当前的记录已被删除，所需的操作要求一个当前的记录。
+[E] 2010-03-18 02:53:47.531 (0x185C):ErrorCode[3021]_Show Call flow on Screen got error, Callflow ID: 4,BOF 或 EOF 中有一个是“真”，或者当前的记录已被删除，所需的操作要求一个当前的记录。
+[E] 2010-03-18 02:53:47.531 (0x185C):ErrorCode[3021]_Show Call flow on Screen got error, Callflow ID: 4,BOF 或 EOF 中有一个是“真”，或者当前的记录已被删除，所需的操作要求一个当前的记录。
+[I] 2010-03-18 03:02:59.453 (0x185C):ErrorCode[0]_Add a new Resource Project:4.
+[I] 2010-03-18 03:03:02.984 (0x185C):ErrorCode[0]_Open Resource Record...,Project ID:4
+[I] 2010-03-18 03:04:31.984 (0x185C):ErrorCode[0]_Add resource item:1001 to Project:4.
+[I] 2010-03-18 03:04:58.625 (0x185C):ErrorCode[0]_Add resource item:1002 to Project:4.
+[I] 2010-03-18 03:05:03.218 (0x185C):ErrorCode[0]_Open Resource Record...,Project ID:4
+[I] 2010-03-18 03:05:34.718 (0x185C):ErrorCode[0]_Callflow saved successful!,Callflow ID:4
+[I] 2010-03-18 03:05:41.765 (0x185C):ErrorCode[0]_Update node info,Node ID:256
+[I] 2010-03-18 03:05:47.968 (0x185C):ErrorCode[0]_Update node info,Node ID:256
+[I] 2010-03-18 03:05:50.531 (0x185C):ErrorCode[0]_Add a new node,Node Index:5
+[I] 2010-03-18 03:05:52.468 (0x185C):ErrorCode[0]_Add a new node,Node Index:6
+[I] 2010-03-18 03:06:24.593 (0x185C):ErrorCode[0]_Update node info,Node ID:257
+[I] 2010-03-18 03:06:45.796 (0x185C):ErrorCode[0]_Add a new node,Node Index:7
+[I] 2010-03-18 03:06:47.125 (0x185C):ErrorCode[0]_Callflow saved successful!,Callflow ID:4
+[I] 2010-03-18 03:06:52.093 (0x185C):ErrorCode[0]_Update node info,Node ID:257
+[I] 2010-03-18 03:06:53.671 (0x185C):ErrorCode[0]_Callflow saved successful!,Callflow ID:4
+[I] 2010-03-18 03:07:00.703 (0x185C):ErrorCode[0]_Add a new node,Node Index:8
+[I] 2010-03-18 03:09:48.859 (0x185C):ErrorCode[0]_Add resource item:1003 to Project:4.
+[I] 2010-03-18 03:11:23.468 (0x185C):ErrorCode[0]_Add a new node,Node Index:9
+[I] 2010-03-18 03:11:45.062 (0x185C):ErrorCode[0]_Update node info,Node ID:260
+[I] 2010-03-18 03:11:53.890 (0x185C):ErrorCode[0]_Update node info,Node ID:260
+[I] 2010-03-18 03:11:55.468 (0x185C):ErrorCode[0]_Callflow saved successful!,Callflow ID:4
+[I] 2010-03-18 03:12:00.031 (0x185C):ErrorCode[0]_Update node info,Node ID:259
+[I] 2010-03-18 03:12:01.234 (0x185C):ErrorCode[0]_Callflow saved successful!,Callflow ID:4
+[I] 2010-03-18 03:12:07.125 (0x185C):ErrorCode[0]_Update node info,Node ID:257
+[I] 2010-03-18 03:12:08.265 (0x185C):ErrorCode[0]_Callflow saved successful!,Callflow ID:4
+[I] 2010-03-18 03:13:24.437 (0x185C):ErrorCode[0]_Add a new node,Node Index:10
+[I] 2010-03-18 03:13:26.250 (0x185C):ErrorCode[0]_Add a new node,Node Index:11
+[I] 2010-03-18 03:13:38.562 (0x185C):ErrorCode[0]_Update node info,Node ID:262
+[I] 2010-03-18 03:13:42.640 (0x185C):ErrorCode[0]_Update node info,Node ID:257
+[I] 2010-03-18 03:13:44.671 (0x185C):ErrorCode[0]_Callflow saved successful!,Callflow ID:4
+[I] 2010-03-18 03:14:15.281 (0x185C):ErrorCode[0]_Add resource item:1004 to Project:4.
+[I] 2010-03-18 03:14:33.125 (0x185C):ErrorCode[0]_Add resource item:1005 to Project:4.
+[I] 2010-03-18 03:15:03.343 (0x185C):ErrorCode[0]_Add resource item:1006 to Project:4.
+[I] 2010-03-18 03:15:24.203 (0x185C):ErrorCode[0]_Add resource item:1007 to Project:4.
+[I] 2010-03-18 03:15:52.906 (0x185C):ErrorCode[0]_Add resource item:1008 to Project:4.
+[I] 2010-03-18 03:16:08.312 (0x185C):ErrorCode[0]_Add resource item:1009 to Project:4.
+[I] 2010-03-18 03:16:49.687 (0x185C):ErrorCode[0]_Update node info,Node ID:261
+[I] 2010-03-18 03:16:51.031 (0x185C):ErrorCode[0]_Callflow saved successful!,Callflow ID:4
+[I] 2010-03-18 15:59:33.780 (0x185C):ErrorCode[0]_Update Resource item:1001 in Project:4.
+[I] 2010-03-19 00:34:35.593 (0x185C):ErrorCode[0]_Callflow saved successful!,Callflow ID:4
+[I] 2010-03-19 00:34:35.703 (0x185C):ErrorCode[0]_Callflow Closed!,Callflow ID:1 Callflow Name:Test Demo
+[I] 2010-03-19 00:34:35.765 (0x185C):ErrorCode[0]_Callflow Closed!,Callflow ID:4 Callflow Name:CME Demo
+[I] 2010-03-19 00:34:35.812 (0x185C):ErrorCode[0]_Visual IVR Editor Shutdown....

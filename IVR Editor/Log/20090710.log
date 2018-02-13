@@ -1,0 +1,6 @@
+[I] 2009-07-10 10:37:20.484 (0x0F70):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.6
+[I] 2009-07-10 10:37:22.952 (0x0F70):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=dbCallcenter;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter
+[I] 2009-07-10 10:37:44.560 (0x0F70):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:15 Callflow Name:CISCO_Demo
+[I] 2009-07-10 10:37:44.752 (0x0F70):ErrorCode[0]_Open Resource Record...,Project ID:99
+[I] 2009-07-10 10:40:04.248 (0x0F70):ErrorCode[0]_Callflow Closed!,Callflow ID:15 Callflow Name:CISCO_Demo
+[I] 2009-07-10 10:40:04.296 (0x0F70):ErrorCode[0]_Visual IVR Editor Shutdown....

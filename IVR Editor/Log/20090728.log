@@ -1,0 +1,122 @@
+[I] 2009-07-28 12:31:29.516 (0x1E64):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.7
+[I] 2009-07-28 12:31:31.048 (0x1E64):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2009-07-28 12:31:44.312 (0x1E64):ErrorCode[0]_Callflow Closed!,Callflow ID:0 Callflow Name:
+[I] 2009-07-28 12:31:44.452 (0x1E64):ErrorCode[0]_Option changed successful! .
+[I] 2009-07-28 12:31:46.156 (0x1E64):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=IVRDemo;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter
+[I] 2009-07-28 12:31:48.468 (0x1E64):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:3 Callflow Name:SCB_Demo
+[I] 2009-07-28 12:31:48.640 (0x1E64):ErrorCode[0]_Open Resource Record...,Project ID:3
+[I] 2009-07-28 12:40:35.420 (0x1E64):ErrorCode[0]_Update node info,Node ID:259
+[I] 2009-07-28 12:41:27.204 (0x1E64):ErrorCode[0]_Add a new node,Node Index:26
+[I] 2009-07-28 12:41:32.780 (0x1E64):ErrorCode[0]_Add a new node,Node Index:27
+[I] 2009-07-28 12:41:53.764 (0x1E64):ErrorCode[0]_Update node info,Node ID:260
+[I] 2009-07-28 12:43:00.420 (0x1E64):ErrorCode[0]_Update node info,Node ID:278
+[I] 2009-07-28 12:44:01.828 (0x1E64):ErrorCode[0]_Add resource item:1008 to Project:3.
+[I] 2009-07-28 12:44:14.436 (0x1E64):ErrorCode[0]_Update node info,Node ID:278
+[I] 2009-07-28 12:44:16.216 (0x1E64):ErrorCode[0]_Callflow saved successful!,Callflow ID:3
+[I] 2009-07-28 12:51:11.936 (0x1E64):ErrorCode[0]_Update node info,Node ID:259
+[I] 2009-07-28 12:51:13.204 (0x1E64):ErrorCode[0]_Callflow saved successful!,Callflow ID:3
+[I] 2009-07-28 12:54:44.376 (0x1E64):ErrorCode[0]_Update node info,Node ID:259
+[I] 2009-07-28 12:54:45.736 (0x1E64):ErrorCode[0]_Callflow saved successful!,Callflow ID:3
+[I] 2009-07-28 14:17:18.532 (0x0954):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.7
+[I] 2009-07-28 14:17:19.876 (0x0954):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=IVRDemo;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter
+[I] 2009-07-28 14:17:24.016 (0x0954):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:3 Callflow Name:SCB_Demo
+[I] 2009-07-28 14:17:24.064 (0x0954):ErrorCode[0]_Open Resource Record...,Project ID:3
+[I] 2009-07-28 15:38:01.780 (0x0954):ErrorCode[0]_Update node info,Node ID:259
+[I] 2009-07-28 15:38:03.452 (0x0954):ErrorCode[0]_Callflow saved successful!,Callflow ID:3
+[I] 2009-07-28 15:45:02.344 (0x0954):ErrorCode[0]_Update node info,Node ID:259
+[I] 2009-07-28 15:45:03.452 (0x0954):ErrorCode[0]_Callflow saved successful!,Callflow ID:3
+[I] 2009-07-28 15:45:15.608 (0x0954):ErrorCode[0]_Callflow Closed!,Callflow ID:3 Callflow Name:SCB_Demo
+[I] 2009-07-28 15:45:15.640 (0x0954):ErrorCode[0]_Visual IVR Editor Shutdown....
+[I] 2009-07-28 15:48:24.828 (0x144C):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.7
+[I] 2009-07-28 15:48:25.204 (0x144C):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=IVRDemo;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter
+[I] 2009-07-28 15:48:29.500 (0x144C):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:3 Callflow Name:SCB_Demo
+[I] 2009-07-28 15:48:29.532 (0x144C):ErrorCode[0]_Open Resource Record...,Project ID:3
+[I] 2009-07-28 15:48:39.468 (0x144C):ErrorCode[0]_Update node info,Node ID:259
+[I] 2009-07-28 15:48:49.264 (0x144C):ErrorCode[0]_Update node info,Node ID:259
+[I] 2009-07-28 15:48:51.204 (0x144C):ErrorCode[0]_Callflow saved successful!,Callflow ID:3
+[I] 2009-07-28 15:50:33.468 (0x144C):ErrorCode[0]_Update node info,Node ID:259
+[I] 2009-07-28 15:50:34.828 (0x144C):ErrorCode[0]_Callflow saved successful!,Callflow ID:3
+[I] 2009-07-28 16:00:03.764 (0x144C):ErrorCode[0]_Update node info,Node ID:259
+[I] 2009-07-28 16:00:04.904 (0x144C):ErrorCode[0]_Callflow saved successful!,Callflow ID:3
+[I] 2009-07-28 16:45:19.904 (0x144C):ErrorCode[0]_Callflow Closed!,Callflow ID:3 Callflow Name:SCB_Demo
+[I] 2009-07-28 16:45:19.952 (0x144C):ErrorCode[0]_Visual IVR Editor Shutdown....
+[I] 2009-07-28 17:25:45.904 (0x1748):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.7
+[I] 2009-07-28 17:25:46.640 (0x1748):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=IVRDemo;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter
+[I] 2009-07-28 17:25:53.140 (0x1748):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:3 Callflow Name:SCB_Demo
+[I] 2009-07-28 17:25:53.248 (0x1748):ErrorCode[0]_Open Resource Record...,Project ID:3
+[I] 2009-07-28 17:26:16.796 (0x1748):ErrorCode[0]_Successful Synchronized CallFlow! CallFlow ID:3.
+[I] 2009-07-28 17:26:28.264 (0x1748):ErrorCode[0]_Resource synchronized Successful! Project ID:3.
+[I] 2009-07-28 17:26:33.232 (0x1748):ErrorCode[0]_Callflow Closed!,Callflow ID:3 Callflow Name:SCB_Demo
+[I] 2009-07-28 17:27:04.420 (0x1748):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=IVRDemo;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter
+[I] 2009-07-28 17:27:07.264 (0x1748):ErrorCode[0]_Callflow Closed!,Callflow ID:0 Callflow Name:
+[I] 2009-07-28 17:27:07.296 (0x1748):ErrorCode[0]_Option changed successful! .
+[I] 2009-07-28 17:27:07.968 (0x1748):ErrorCode[0]_Visual IVR Editor Shutdown....
+[I] 2009-07-28 17:59:22.532 (0x17F4):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.7
+[I] 2009-07-28 17:59:22.876 (0x17F4):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2009-07-28 17:59:43.436 (0x17F4):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:225 Callflow Name:NB Fotile
+[E] 2009-07-28 17:59:43.452 (0x17F4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 225,使用 Null 无效
+[I] 2009-07-28 17:59:43.468 (0x17F4):ErrorCode[0]_Open Resource Record...,Project ID:225
+[E] 2009-07-28 17:59:43.500 (0x17F4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 225,使用 Null 无效
+[E] 2009-07-28 17:59:43.500 (0x17F4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 225,使用 Null 无效
+[E] 2009-07-28 17:59:43.516 (0x17F4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 225,使用 Null 无效
+[E] 2009-07-28 17:59:43.516 (0x17F4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 225,使用 Null 无效
+[E] 2009-07-28 17:59:43.532 (0x17F4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 225,使用 Null 无效
+[E] 2009-07-28 17:59:43.544 (0x17F4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 225,使用 Null 无效
+[E] 2009-07-28 17:59:43.560 (0x17F4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 225,使用 Null 无效
+[E] 2009-07-28 17:59:43.560 (0x17F4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 225,使用 Null 无效
+[E] 2009-07-28 17:59:43.576 (0x17F4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 225,使用 Null 无效
+[E] 2009-07-28 17:59:43.576 (0x17F4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 225,使用 Null 无效
+[E] 2009-07-28 17:59:43.592 (0x17F4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 225,使用 Null 无效
+[E] 2009-07-28 17:59:43.592 (0x17F4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 225,使用 Null 无效
+[E] 2009-07-28 17:59:43.592 (0x17F4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 225,使用 Null 无效
+[E] 2009-07-28 17:59:43.608 (0x17F4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 225,使用 Null 无效
+[E] 2009-07-28 17:59:43.608 (0x17F4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 225,使用 Null 无效
+[E] 2009-07-28 17:59:43.608 (0x17F4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 225,使用 Null 无效
+[E] 2009-07-28 17:59:43.608 (0x17F4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 225,使用 Null 无效
+[E] 2009-07-28 17:59:43.624 (0x17F4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 225,使用 Null 无效
+[E] 2009-07-28 17:59:43.624 (0x17F4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 225,使用 Null 无效
+[E] 2009-07-28 17:59:43.624 (0x17F4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 225,使用 Null 无效
+[E] 2009-07-28 17:59:43.624 (0x17F4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 225,使用 Null 无效
+[E] 2009-07-28 17:59:43.624 (0x17F4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 225,使用 Null 无效
+[E] 2009-07-28 17:59:43.624 (0x17F4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 225,使用 Null 无效
+[E] 2009-07-28 17:59:43.640 (0x17F4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 225,使用 Null 无效
+[E] 2009-07-28 17:59:43.640 (0x17F4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 225,使用 Null 无效
+[E] 2009-07-28 17:59:43.640 (0x17F4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 225,使用 Null 无效
+[E] 2009-07-28 17:59:43.640 (0x17F4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 225,使用 Null 无效
+[E] 2009-07-28 17:59:43.640 (0x17F4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 225,使用 Null 无效
+[E] 2009-07-28 17:59:43.656 (0x17F4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 225,使用 Null 无效
+[E] 2009-07-28 17:59:43.656 (0x17F4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 225,使用 Null 无效
+[E] 2009-07-28 17:59:43.656 (0x17F4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 225,使用 Null 无效
+[E] 2009-07-28 17:59:43.656 (0x17F4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 225,使用 Null 无效
+[E] 2009-07-28 17:59:43.672 (0x17F4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 225,使用 Null 无效
+[E] 2009-07-28 17:59:43.672 (0x17F4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 225,使用 Null 无效
+[E] 2009-07-28 17:59:43.672 (0x17F4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 225,使用 Null 无效
+[E] 2009-07-28 17:59:43.672 (0x17F4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 225,使用 Null 无效
+[E] 2009-07-28 17:59:43.672 (0x17F4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 225,使用 Null 无效
+[E] 2009-07-28 17:59:43.688 (0x17F4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 225,使用 Null 无效
+[E] 2009-07-28 17:59:43.688 (0x17F4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 225,使用 Null 无效
+[E] 2009-07-28 17:59:43.688 (0x17F4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 225,使用 Null 无效
+[E] 2009-07-28 17:59:43.688 (0x17F4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 225,使用 Null 无效
+[E] 2009-07-28 17:59:43.688 (0x17F4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 225,使用 Null 无效
+[E] 2009-07-28 17:59:43.688 (0x17F4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 225,使用 Null 无效
+[E] 2009-07-28 17:59:43.704 (0x17F4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 225,使用 Null 无效
+[E] 2009-07-28 17:59:43.704 (0x17F4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 225,使用 Null 无效
+[E] 2009-07-28 17:59:43.704 (0x17F4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 225,使用 Null 无效
+[E] 2009-07-28 17:59:43.704 (0x17F4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 225,使用 Null 无效
+[E] 2009-07-28 17:59:43.704 (0x17F4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 225,使用 Null 无效
+[E] 2009-07-28 17:59:43.720 (0x17F4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 225,使用 Null 无效
+[I] 2009-07-28 18:00:04.672 (0x17F4):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2009-07-28 18:00:04.876 (0x17F4):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:15 Callflow Name:CISCO_Demo
+[I] 2009-07-28 18:00:04.888 (0x17F4):ErrorCode[0]_Open Resource Record...,Project ID:99
+[I] 2009-07-28 18:00:42.576 (0x17F4):ErrorCode[0]_Successful Synchronized CallFlow! CallFlow ID:15.
+[I] 2009-07-28 18:00:47.860 (0x17F4):ErrorCode[0]_Resource synchronized Successful! Project ID:99.
+[I] 2009-07-28 18:07:33.796 (0x17F4):ErrorCode[0]_Update node info,Node ID:257
+[I] 2009-07-28 18:07:35.172 (0x17F4):ErrorCode[0]_Callflow saved successful!,Callflow ID:15
+[I] 2009-07-28 18:07:41.328 (0x17F4):ErrorCode[0]_Successful Synchronized CallFlow! CallFlow ID:15.
+[I] 2009-07-28 18:10:40.704 (0x17F4):ErrorCode[0]_Update node info,Node ID:283
+[I] 2009-07-28 18:10:41.904 (0x17F4):ErrorCode[0]_Callflow saved successful!,Callflow ID:15
+[I] 2009-07-28 18:11:24.984 (0x17F4):ErrorCode[0]_Callflow saved successful!,Callflow ID:15
+[I] 2009-07-28 18:11:35.172 (0x17F4):ErrorCode[0]_Successful Synchronized CallFlow! CallFlow ID:15.
+[I] 2009-07-28 18:33:44.656 (0x17F4):ErrorCode[0]_Callflow Closed!,Callflow ID:225 Callflow Name:NB Fotile
+[I] 2009-07-28 18:33:44.752 (0x17F4):ErrorCode[0]_Callflow Closed!,Callflow ID:15 Callflow Name:CISCO_Demo
+[I] 2009-07-28 18:33:44.764 (0x17F4):ErrorCode[0]_Visual IVR Editor Shutdown....

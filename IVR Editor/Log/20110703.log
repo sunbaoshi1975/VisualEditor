@@ -1,0 +1,6 @@
+[I] 2011-07-03 13:05:55.704 (0x164C):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.7
+[I] 2011-07-03 13:05:56.576 (0x164C):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2011-07-03 13:06:09.576 (0x164C):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:226 Callflow Name:NB Fotile
+[I] 2011-07-03 13:06:09.672 (0x164C):ErrorCode[0]_Open Resource Record...,Project ID:226
+[I] 2011-07-03 13:20:49.408 (0x164C):ErrorCode[0]_Callflow Closed!,Callflow ID:226 Callflow Name:NB Fotile
+[I] 2011-07-03 13:20:49.420 (0x164C):ErrorCode[0]_Visual IVR Editor Shutdown....

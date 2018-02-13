@@ -1,0 +1,8 @@
+[I] 2011-12-06 23:00:16.720 (0x23C0):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.7
+[I] 2011-12-06 23:00:18.704 (0x23C0):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=t;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter_t
+[I] 2011-12-06 23:00:46.800 (0x23C0):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:227 Callflow Name:Fotile BC
+[I] 2011-12-06 23:01:02.456 (0x23C0):ErrorCode[0]_Open Resource Record...,Project ID:227
+[I] 2011-12-06 23:01:20.688 (0x23C0):ErrorCode[0]_Update node info,Node ID:296
+[I] 2011-12-06 23:01:23.920 (0x23C0):ErrorCode[0]_Callflow saved successful!,Callflow ID:227
+[I] 2011-12-06 23:49:50.872 (0x23C0):ErrorCode[0]_Callflow Closed!,Callflow ID:227 Callflow Name:Fotile BC
+[I] 2011-12-06 23:49:50.936 (0x23C0):ErrorCode[0]_Visual IVR Editor Shutdown....

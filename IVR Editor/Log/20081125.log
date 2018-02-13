@@ -1,0 +1,74 @@
+[I] 2008-11-25 15:35:52.516 (0x1490):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.6
+[I] 2008-11-25 15:35:54.860 (0x1490):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2008-11-25 15:36:10.140 (0x1490):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:15 Callflow Name:CISCO_Demo
+[I] 2008-11-25 15:36:10.264 (0x1490):ErrorCode[0]_Open Resource Record...,Project ID:99
+[I] 2008-11-25 15:36:57.608 (0x1490):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2008-11-25 15:36:57.764 (0x1490):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:10 Callflow Name:PCS_Demo
+[E] 2008-11-25 15:36:57.764 (0x1490):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[I] 2008-11-25 15:36:57.780 (0x1490):ErrorCode[0]_Open Resource Record...,Project ID:99
+[E] 2008-11-25 15:36:57.780 (0x1490):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-11-25 15:36:57.780 (0x1490):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-11-25 15:36:57.780 (0x1490):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-11-25 15:36:57.796 (0x1490):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-11-25 15:36:57.796 (0x1490):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-11-25 15:36:57.796 (0x1490):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-11-25 15:36:57.796 (0x1490):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-11-25 15:36:57.796 (0x1490):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-11-25 15:36:57.796 (0x1490):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-11-25 15:36:57.812 (0x1490):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-11-25 15:36:57.812 (0x1490):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-11-25 15:36:57.812 (0x1490):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-11-25 15:36:57.812 (0x1490):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-11-25 15:36:57.812 (0x1490):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-11-25 15:36:57.828 (0x1490):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-11-25 15:36:57.828 (0x1490):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-11-25 15:36:57.828 (0x1490):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-11-25 15:36:57.828 (0x1490):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-11-25 15:36:57.844 (0x1490):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-11-25 15:36:57.844 (0x1490):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-11-25 15:36:57.844 (0x1490):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-11-25 15:36:57.844 (0x1490):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-11-25 15:36:57.844 (0x1490):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-11-25 15:36:57.844 (0x1490):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-11-25 15:36:57.860 (0x1490):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-11-25 15:36:57.860 (0x1490):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-11-25 15:36:57.860 (0x1490):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-11-25 15:36:57.860 (0x1490):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-11-25 15:36:57.860 (0x1490):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-11-25 15:36:57.860 (0x1490):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-11-25 15:36:57.876 (0x1490):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-11-25 15:36:57.876 (0x1490):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-11-25 15:36:57.876 (0x1490):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-11-25 15:36:57.876 (0x1490):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-11-25 15:36:57.876 (0x1490):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-11-25 15:36:57.888 (0x1490):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-11-25 15:36:57.888 (0x1490):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-11-25 15:36:57.888 (0x1490):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-11-25 15:36:57.888 (0x1490):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-11-25 15:36:57.904 (0x1490):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-11-25 15:36:57.904 (0x1490):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-11-25 15:36:57.904 (0x1490):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-11-25 15:36:57.904 (0x1490):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-11-25 15:36:57.904 (0x1490):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-11-25 15:36:57.920 (0x1490):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-11-25 15:36:57.920 (0x1490):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-11-25 15:36:57.920 (0x1490):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-11-25 15:36:57.920 (0x1490):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-11-25 15:36:57.920 (0x1490):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-11-25 15:36:57.936 (0x1490):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-11-25 15:36:57.936 (0x1490):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-11-25 15:36:57.936 (0x1490):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-11-25 15:36:57.936 (0x1490):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-11-25 15:36:57.936 (0x1490):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-11-25 15:36:57.952 (0x1490):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-11-25 15:36:57.952 (0x1490):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-11-25 15:36:57.952 (0x1490):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-11-25 15:36:57.952 (0x1490):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-11-25 15:36:57.952 (0x1490):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-11-25 15:36:57.968 (0x1490):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-11-25 15:36:57.968 (0x1490):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-11-25 15:36:57.968 (0x1490):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-11-25 15:36:57.968 (0x1490):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[I] 2008-11-25 15:37:13.296 (0x1490):ErrorCode[0]_Callflow Closed!,Callflow ID:15 Callflow Name:CISCO_Demo
+[I] 2008-11-25 15:37:13.344 (0x1490):ErrorCode[0]_Callflow Closed!,Callflow ID:10 Callflow Name:PCS_Demo
+[I] 2008-11-25 15:37:13.360 (0x1490):ErrorCode[0]_Visual IVR Editor Shutdown....

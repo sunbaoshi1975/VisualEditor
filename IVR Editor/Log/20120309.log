@@ -1,0 +1,269 @@
+[I] 2012-03-09 11:35:08.688 (0x0820):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.8
+[I] 2012-03-09 11:35:10.392 (0x0820):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2012-03-09 11:36:35.032 (0x0820):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:170 Callflow Name:SuZhouFORD
+[I] 2012-03-09 11:36:35.124 (0x0820):ErrorCode[0]_Open Resource Record...,Project ID:170
+[I] 2012-03-09 11:37:57.468 (0x0820):ErrorCode[0]_Export Callflow Data to the file successful !,File Path:C:\Documents and Settings\Administrator\My Documents\Call Flows\SuZhouFord.PVC
+[E] 2012-03-09 11:37:57.484 (0x0820):ErrorCode[0]_Failed to export Callflow Data to the file:C:\Documents and Settings\Administrator\My Documents\Call Flows\SuZhouFord.PVC!,
+[I] 2012-03-09 11:38:10.216 (0x0820):ErrorCode[0]_Callflow Closed!,Callflow ID:170 Callflow Name:SuZhouFORD
+[I] 2012-03-09 11:38:16.124 (0x0820):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2012-03-09 11:38:19.736 (0x0820):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2012-03-09 11:38:20.968 (0x0820):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:170 Callflow Name:SuZhouFORD
+[I] 2012-03-09 11:38:26.032 (0x0820):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:180 Callflow Name:
+[I] 2012-03-09 11:38:26.156 (0x0820):ErrorCode[0]_Create a new Callflow,CallFlow ID:180
+[E] 2012-03-09 11:38:26.204 (0x0820):ErrorCode[0]_Get callflow date file information failed when import a callflow!,
+[I] 2012-03-09 11:38:26.232 (0x0820):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:180 Callflow Name:SuZhouFORD
+[I] 2012-03-09 11:38:26.484 (0x0820):ErrorCode[0]_ImportFlowData(C:\Documents and Settings\Administrator\My Documents\Call Flows\SuZhouFord.PVC) successful!.
+[E] 2012-03-09 11:38:26.484 (0x0820):ErrorCode[0]_ImportFlowData(C:\Documents and Settings\Administrator\My Documents\Call Flows\SuZhouFord.PVC) got error,,
+[I] 2012-03-09 11:38:26.544 (0x0820):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:180 Callflow Name:SuZhouFORD
+[I] 2012-03-09 11:38:26.544 (0x0820):ErrorCode[0]_Open Resource Record...,Project ID:170
+[I] 2012-03-09 11:54:17.752 (0x0820):ErrorCode[0]_Update Callflow Information Successful!,CallFlow Name:上海外联
+[I] 2012-03-09 11:59:38.624 (0x0820):ErrorCode[0]_Add a new node,Node Index:47
+[I] 2012-03-09 11:59:38.640 (0x0820):ErrorCode[0]_Add a new node,Node Index:48
+[I] 2012-03-09 11:59:43.688 (0x0820):ErrorCode[0]_Callflow saved successful!,Callflow ID:180
+[I] 2012-03-09 12:01:33.484 (0x0820):ErrorCode[0]_Callflow saved successful!,Callflow ID:180
+[I] 2012-03-09 12:06:50.064 (0x0820):ErrorCode[0]_Callflow saved successful!,Callflow ID:180
+[I] 2012-03-09 12:10:47.080 (0x0820):ErrorCode[0]_Callflow saved successful!,Callflow ID:180
+[I] 2012-03-09 12:49:34.532 (0x0820):ErrorCode[0]_Update node info,Node ID:257
+[I] 2012-03-09 12:50:00.048 (0x0820):ErrorCode[0]_Update node info,Node ID:257
+[I] 2012-03-09 12:50:19.172 (0x0820):ErrorCode[0]_Update node info,Node ID:257
+[I] 2012-03-09 12:50:21.032 (0x0820):ErrorCode[0]_Callflow saved successful!,Callflow ID:180
+[I] 2012-03-09 12:50:58.032 (0x0820):ErrorCode[0]_Callflow saved successful!,Callflow ID:180
+[I] 2012-03-09 12:51:24.344 (0x0820):ErrorCode[0]_Update node info,Node ID:258
+[I] 2012-03-09 12:51:39.468 (0x0820):ErrorCode[0]_Update node info,Node ID:273
+[I] 2012-03-09 12:51:49.968 (0x0820):ErrorCode[0]_Update node info,Node ID:264
+[I] 2012-03-09 12:51:55.216 (0x0820):ErrorCode[0]_Update node info,Node ID:273
+[I] 2012-03-09 12:52:04.204 (0x0820):ErrorCode[0]_Update node info,Node ID:273
+[I] 2012-03-09 12:52:11.376 (0x0820):ErrorCode[0]_Update node info,Node ID:264
+[I] 2012-03-09 12:52:30.376 (0x0820):ErrorCode[0]_Update node info,Node ID:264
+[I] 2012-03-09 12:52:38.296 (0x0820):ErrorCode[0]_Update node info,Node ID:264
+[I] 2012-03-09 12:52:45.108 (0x0820):ErrorCode[0]_Update node info,Node ID:273
+[I] 2012-03-09 12:52:58.296 (0x0820):ErrorCode[0]_Update node info,Node ID:258
+[I] 2012-03-09 12:53:11.952 (0x0820):ErrorCode[0]_Update node info,Node ID:273
+[I] 2012-03-09 12:53:19.468 (0x0820):ErrorCode[0]_Update node info,Node ID:264
+[I] 2012-03-09 12:53:25.812 (0x0820):ErrorCode[0]_Callflow saved successful!,Callflow ID:180
+[I] 2012-03-09 12:54:44.312 (0x0820):ErrorCode[0]_Add a new node,Node Index:49
+[I] 2012-03-09 12:55:03.172 (0x0820):ErrorCode[0]_Update node info,Node ID:334
+[I] 2012-03-09 12:55:22.312 (0x0820):ErrorCode[0]_Add a new node,Node Index:50
+[I] 2012-03-09 12:56:08.828 (0x0820):ErrorCode[0]_Callflow saved successful!,Callflow ID:180
+[I] 2012-03-09 12:56:26.108 (0x0820):ErrorCode[0]_Update node info,Node ID:324
+[I] 2012-03-09 12:57:28.736 (0x0820):ErrorCode[0]_Update node info,Node ID:318
+[I] 2012-03-09 12:57:33.328 (0x0820):ErrorCode[0]_Callflow saved successful!,Callflow ID:180
+[I] 2012-03-09 13:25:00.296 (0x0820):ErrorCode[0]_Add a new node,Node Index:51
+[I] 2012-03-09 13:25:33.232 (0x0820):ErrorCode[0]_Update node info,Node ID:336
+[I] 2012-03-09 13:27:15.264 (0x0820):ErrorCode[0]_Add a new Resource Project:180.
+[I] 2012-03-09 13:27:33.108 (0x0820):ErrorCode[0]_Open Resource Record...,Project ID:180
+[I] 2012-03-09 13:27:34.408 (0x0820):ErrorCode[0]_Callflow saved successful!,Callflow ID:180
+[I] 2012-03-09 13:28:22.984 (0x0820):ErrorCode[0]_Update Resource item:10001 in Project:180.
+[I] 2012-03-09 13:29:00.796 (0x0820):ErrorCode[0]_Update Resource item:10006 in Project:180.
+[I] 2012-03-09 13:29:12.704 (0x0820):ErrorCode[0]_Delete Resource item:10011 from Project:180.
+[I] 2012-03-09 13:29:14.736 (0x0820):ErrorCode[0]_Delete Resource item:10012 from Project:180.
+[I] 2012-03-09 13:29:17.140 (0x0820):ErrorCode[0]_Delete Resource item:10013 from Project:180.
+[I] 2012-03-09 13:29:19.608 (0x0820):ErrorCode[0]_Delete Resource item:10014 from Project:180.
+[I] 2012-03-09 13:29:21.812 (0x0820):ErrorCode[0]_Delete Resource item:10015 from Project:180.
+[I] 2012-03-09 13:29:26.844 (0x0820):ErrorCode[0]_Delete Resource item:10017 from Project:180.
+[I] 2012-03-09 13:29:29.560 (0x0820):ErrorCode[0]_Delete Resource item:10018 from Project:180.
+[I] 2012-03-09 13:29:32.156 (0x0820):ErrorCode[0]_Delete Resource item:10019 from Project:180.
+[I] 2012-03-09 13:29:34.172 (0x0820):ErrorCode[0]_Delete Resource item:10020 from Project:180.
+[I] 2012-03-09 13:29:36.156 (0x0820):ErrorCode[0]_Delete Resource item:10021 from Project:180.
+[I] 2012-03-09 13:29:40.312 (0x0820):ErrorCode[0]_Delete Resource item:10023 from Project:180.
+[I] 2012-03-09 13:29:42.720 (0x0820):ErrorCode[0]_Delete Resource item:10024 from Project:180.
+[I] 2012-03-09 13:29:45.576 (0x0820):ErrorCode[0]_Delete Resource item:10025 from Project:180.
+[I] 2012-03-09 13:29:48.920 (0x0820):ErrorCode[0]_Delete Resource item:10027 from Project:180.
+[I] 2012-03-09 13:29:51.032 (0x0820):ErrorCode[0]_Delete Resource item:10028 from Project:180.
+[I] 2012-03-09 13:29:53.124 (0x0820):ErrorCode[0]_Delete Resource item:10029 from Project:180.
+[I] 2012-03-09 13:29:54.844 (0x0820):ErrorCode[0]_Delete Resource item:10030 from Project:180.
+[I] 2012-03-09 13:29:56.796 (0x0820):ErrorCode[0]_Delete Resource item:10031 from Project:180.
+[I] 2012-03-09 13:29:59.544 (0x0820):ErrorCode[0]_Delete Resource item:10032 from Project:180.
+[I] 2012-03-09 13:30:01.844 (0x0820):ErrorCode[0]_Delete Resource item:10033 from Project:180.
+[I] 2012-03-09 13:30:04.704 (0x0820):ErrorCode[0]_Delete Resource item:10035 from Project:180.
+[I] 2012-03-09 13:30:06.608 (0x0820):ErrorCode[0]_Delete Resource item:10036 from Project:180.
+[I] 2012-03-09 13:30:08.248 (0x0820):ErrorCode[0]_Delete Resource item:10037 from Project:180.
+[I] 2012-03-09 13:30:25.016 (0x0820):ErrorCode[0]_Update node info,Node ID:336
+[I] 2012-03-09 13:30:43.888 (0x0820):ErrorCode[0]_Update node info,Node ID:264
+[I] 2012-03-09 13:30:51.156 (0x0820):ErrorCode[0]_Update node info,Node ID:264
+[I] 2012-03-09 13:31:06.876 (0x0820):ErrorCode[0]_Update node info,Node ID:258
+[I] 2012-03-09 13:31:17.484 (0x0820):ErrorCode[0]_Callflow saved successful!,Callflow ID:180
+[I] 2012-03-09 13:31:30.360 (0x0820):ErrorCode[0]_Update node info,Node ID:264
+[I] 2012-03-09 13:31:40.592 (0x0820):ErrorCode[0]_Update node info,Node ID:258
+[I] 2012-03-09 13:31:44.576 (0x0820):ErrorCode[0]_Callflow saved successful!,Callflow ID:180
+[I] 2012-03-09 13:32:19.640 (0x0820):ErrorCode[0]_Update node info,Node ID:324
+[I] 2012-03-09 13:32:36.376 (0x0820):ErrorCode[0]_Update node info,Node ID:257
+[I] 2012-03-09 13:32:47.376 (0x0820):ErrorCode[0]_Callflow saved successful!,Callflow ID:180
+[I] 2012-03-09 13:32:58.064 (0x0820):ErrorCode[0]_Callflow saved successful!,Callflow ID:180
+[I] 2012-03-09 13:34:21.516 (0x0820):ErrorCode[0]_Add a new node,Node Index:52
+[I] 2012-03-09 13:35:00.392 (0x0820):ErrorCode[0]_Add a new node,Node Index:53
+[I] 2012-03-09 13:35:09.468 (0x0820):ErrorCode[0]_Update node info,Node ID:338
+[I] 2012-03-09 13:35:39.688 (0x0820):ErrorCode[0]_Add a new node,Node Index:54
+[I] 2012-03-09 13:35:52.328 (0x0820):ErrorCode[0]_Update node info,Node ID:339
+[I] 2012-03-09 13:36:19.576 (0x0820):ErrorCode[0]_Add a new node,Node Index:55
+[I] 2012-03-09 13:36:37.392 (0x0820):ErrorCode[0]_Update node info,Node ID:258
+[I] 2012-03-09 13:36:40.624 (0x0820):ErrorCode[0]_Callflow saved successful!,Callflow ID:180
+[I] 2012-03-09 13:37:24.140 (0x0820):ErrorCode[0]_Update node info,Node ID:318
+[I] 2012-03-09 13:37:56.888 (0x0820):ErrorCode[0]_Update node info,Node ID:318
+[I] 2012-03-09 13:38:23.048 (0x0820):ErrorCode[0]_Callflow saved successful!,Callflow ID:180
+[I] 2012-03-09 13:39:24.828 (0x0820):ErrorCode[0]_Add resource item:25002 to Project:180.
+[I] 2012-03-09 13:39:48.780 (0x0820):ErrorCode[0]_Update Resource item:25001 in Project:180.
+[I] 2012-03-09 13:40:04.952 (0x0820):ErrorCode[0]_Update Resource item:25000 in Project:180.
+[I] 2012-03-09 13:40:26.888 (0x0820):ErrorCode[0]_Update node info,Node ID:334
+[I] 2012-03-09 13:40:27.952 (0x0820):ErrorCode[0]_Callflow saved successful!,Callflow ID:180
+[I] 2012-03-09 13:40:55.640 (0x0820):ErrorCode[0]_Update node info,Node ID:322
+[I] 2012-03-09 13:41:14.204 (0x0820):ErrorCode[0]_Update node info,Node ID:322
+[I] 2012-03-09 13:41:48.812 (0x0820):ErrorCode[0]_Delete a node,Node Index:36
+[I] 2012-03-09 13:42:35.188 (0x0820):ErrorCode[0]_Update node info,Node ID:322
+[I] 2012-03-09 13:43:02.736 (0x0820):ErrorCode[0]_Update node info,Node ID:332
+[I] 2012-03-09 13:44:36.688 (0x0820):ErrorCode[0]_Update node info,Node ID:337
+[I] 2012-03-09 13:46:08.920 (0x0820):ErrorCode[0]_Update node info,Node ID:337
+[I] 2012-03-09 13:46:18.360 (0x0820):ErrorCode[0]_Add a new node,Node Index:56
+[I] 2012-03-09 13:46:47.672 (0x0820):ErrorCode[0]_Delete a node,Node Index:43
+[I] 2012-03-09 13:47:26.296 (0x0820):ErrorCode[0]_Update node info,Node ID:337
+[I] 2012-03-09 13:47:31.296 (0x0820):ErrorCode[0]_Callflow saved successful!,Callflow ID:180
+[I] 2012-03-09 13:47:54.828 (0x0820):ErrorCode[0]_Add a new node,Node Index:57
+[I] 2012-03-09 13:49:01.280 (0x0820):ErrorCode[0]_Update node info,Node ID:342
+[I] 2012-03-09 13:49:02.812 (0x0820):ErrorCode[0]_Callflow saved successful!,Callflow ID:180
+[I] 2012-03-09 13:49:28.248 (0x0820):ErrorCode[0]_Callflow saved successful!,Callflow ID:180
+[I] 2012-03-09 13:50:57.608 (0x0820):ErrorCode[0]_Add a new node,Node Index:58
+[I] 2012-03-09 13:51:34.408 (0x0820):ErrorCode[0]_Update node info,Node ID:337
+[I] 2012-03-09 13:54:20.188 (0x0820):ErrorCode[0]_Update node info,Node ID:343
+[I] 2012-03-09 13:54:34.576 (0x0820):ErrorCode[0]_Callflow saved successful!,Callflow ID:180
+[I] 2012-03-09 14:06:10.408 (0x0820):ErrorCode[0]_Add a new node,Node Index:59
+[I] 2012-03-09 14:06:46.904 (0x0820):ErrorCode[0]_Delete a node,Node Index:59
+[I] 2012-03-09 14:06:50.720 (0x0820):ErrorCode[0]_Add a new node,Node Index:60
+[I] 2012-03-09 14:07:13.796 (0x0820):ErrorCode[0]_Update node info,Node ID:343
+[I] 2012-03-09 14:07:29.876 (0x0820):ErrorCode[0]_Update node info,Node ID:345
+[I] 2012-03-09 14:08:57.876 (0x0820):ErrorCode[0]_Update node info,Node ID:345
+[I] 2012-03-09 14:09:05.408 (0x0820):ErrorCode[0]_Add a new node,Node Index:61
+[I] 2012-03-09 14:09:34.544 (0x0820):ErrorCode[0]_Add a new node,Node Index:62
+[I] 2012-03-09 14:10:37.812 (0x0820):ErrorCode[0]_Update Resource item:10034 in Project:180.
+[I] 2012-03-09 14:10:41.516 (0x0820):ErrorCode[0]_Update node info,Node ID:347
+[I] 2012-03-09 14:10:43.860 (0x0820):ErrorCode[0]_Add a new node,Node Index:63
+[I] 2012-03-09 14:11:27.576 (0x0820):ErrorCode[0]_Add resource item:1030 to Project:180.
+[I] 2012-03-09 14:11:32.080 (0x0820):ErrorCode[0]_Update node info,Node ID:346
+[I] 2012-03-09 14:11:33.952 (0x0820):ErrorCode[0]_Callflow saved successful!,Callflow ID:180
+[I] 2012-03-09 14:11:44.656 (0x0820):ErrorCode[0]_Add a new node,Node Index:64
+[I] 2012-03-09 14:11:56.392 (0x0820):ErrorCode[0]_Add a new node,Node Index:65
+[I] 2012-03-09 14:12:08.232 (0x0820):ErrorCode[0]_Update node info,Node ID:349
+[I] 2012-03-09 14:12:22.796 (0x0820):ErrorCode[0]_Update node info,Node ID:346
+[I] 2012-03-09 14:12:24.048 (0x0820):ErrorCode[0]_Callflow saved successful!,Callflow ID:180
+[I] 2012-03-09 14:12:47.312 (0x0820):ErrorCode[0]_Update node info,Node ID:346
+[I] 2012-03-09 14:12:48.560 (0x0820):ErrorCode[0]_Callflow saved successful!,Callflow ID:180
+[I] 2012-03-09 14:13:07.092 (0x0820):ErrorCode[0]_Add a new node,Node Index:66
+[I] 2012-03-09 14:13:57.232 (0x0820):ErrorCode[0]_Update node info,Node ID:351
+[I] 2012-03-09 14:14:14.232 (0x0820):ErrorCode[0]_Update node info,Node ID:343
+[I] 2012-03-09 14:14:30.344 (0x0820):ErrorCode[0]_Update node info,Node ID:351
+[I] 2012-03-09 14:14:33.064 (0x0820):ErrorCode[0]_Add a new node,Node Index:67
+[I] 2012-03-09 14:14:53.108 (0x0820):ErrorCode[0]_Callflow saved successful!,Callflow ID:180
+[I] 2012-03-09 14:15:03.720 (0x0820):ErrorCode[0]_Delete a node,Node Index:9
+[I] 2012-03-09 14:15:03.736 (0x0820):ErrorCode[0]_Delete a node,Node Index:10
+[I] 2012-03-09 14:15:03.752 (0x0820):ErrorCode[0]_Delete a node,Node Index:11
+[I] 2012-03-09 14:15:03.764 (0x0820):ErrorCode[0]_Delete a node,Node Index:21
+[I] 2012-03-09 14:15:03.764 (0x0820):ErrorCode[0]_Delete a node,Node Index:22
+[I] 2012-03-09 14:15:03.764 (0x0820):ErrorCode[0]_Delete a node,Node Index:23
+[I] 2012-03-09 14:15:03.780 (0x0820):ErrorCode[0]_Delete a node,Node Index:24
+[I] 2012-03-09 14:15:03.780 (0x0820):ErrorCode[0]_Delete a node,Node Index:27
+[I] 2012-03-09 14:15:03.796 (0x0820):ErrorCode[0]_Delete a node,Node Index:28
+[I] 2012-03-09 14:15:03.796 (0x0820):ErrorCode[0]_Delete a node,Node Index:40
+[I] 2012-03-09 14:15:03.812 (0x0820):ErrorCode[0]_Delete a node,Node Index:42
+[I] 2012-03-09 14:15:06.436 (0x0820):ErrorCode[0]_Delete a node,Node Index:15
+[I] 2012-03-09 14:15:06.452 (0x0820):ErrorCode[0]_Delete a node,Node Index:18
+[I] 2012-03-09 14:15:06.468 (0x0820):ErrorCode[0]_Delete a node,Node Index:20
+[I] 2012-03-09 14:15:06.484 (0x0820):ErrorCode[0]_Delete a node,Node Index:25
+[I] 2012-03-09 14:15:06.484 (0x0820):ErrorCode[0]_Delete a node,Node Index:26
+[I] 2012-03-09 14:15:06.500 (0x0820):ErrorCode[0]_Delete a node,Node Index:29
+[I] 2012-03-09 14:15:06.500 (0x0820):ErrorCode[0]_Delete a node,Node Index:30
+[I] 2012-03-09 14:15:09.048 (0x0820):ErrorCode[0]_Delete a node,Node Index:16
+[I] 2012-03-09 14:15:09.064 (0x0820):ErrorCode[0]_Delete a node,Node Index:19
+[I] 2012-03-09 14:15:19.736 (0x0820):ErrorCode[0]_Callflow saved successful!,Callflow ID:180
+[I] 2012-03-09 14:16:08.420 (0x0820):ErrorCode[0]_Add a new node,Node Index:68
+[I] 2012-03-09 14:16:50.812 (0x0820):ErrorCode[0]_Update node info,Node ID:351
+[I] 2012-03-09 14:17:02.468 (0x0820):ErrorCode[0]_Update node info,Node ID:351
+[I] 2012-03-09 14:17:07.376 (0x0820):ErrorCode[0]_Callflow saved successful!,Callflow ID:180
+[I] 2012-03-09 14:17:20.736 (0x0820):ErrorCode[0]_Callflow saved successful!,Callflow ID:180
+[I] 2012-03-09 14:38:28.420 (0x0820):ErrorCode[0]_Add a new node,Node Index:69
+[I] 2012-03-09 14:38:44.516 (0x0820):ErrorCode[0]_Delete a node,Node Index:69
+[I] 2012-03-09 14:38:46.360 (0x0820):ErrorCode[0]_Add a new node,Node Index:70
+[I] 2012-03-09 14:39:07.156 (0x0820):ErrorCode[0]_Delete a node,Node Index:70
+[I] 2012-03-09 14:39:08.860 (0x0820):ErrorCode[0]_Add a new node,Node Index:71
+[I] 2012-03-09 14:39:11.124 (0x0820):ErrorCode[0]_Delete a node,Node Index:71
+[I] 2012-03-09 14:39:14.516 (0x0820):ErrorCode[0]_Add a new node,Node Index:72
+[I] 2012-03-09 14:39:44.968 (0x0820):ErrorCode[0]_Delete a node,Node Index:72
+[I] 2012-03-09 14:39:48.920 (0x0820):ErrorCode[0]_Add a new node,Node Index:73
+[I] 2012-03-09 14:39:50.860 (0x0820):ErrorCode[0]_Add a new node,Node Index:74
+[I] 2012-03-09 14:40:01.344 (0x0820):ErrorCode[0]_Update node info,Node ID:358
+[I] 2012-03-09 14:40:11.280 (0x0820):ErrorCode[0]_Update node info,Node ID:358
+[I] 2012-03-09 14:40:12.796 (0x0820):ErrorCode[0]_Callflow saved successful!,Callflow ID:180
+[I] 2012-03-09 14:40:20.672 (0x0820):ErrorCode[0]_Add a new node,Node Index:75
+[I] 2012-03-09 14:40:27.000 (0x0820):ErrorCode[0]_Delete a node,Node Index:75
+[I] 2012-03-09 14:40:28.468 (0x0820):ErrorCode[0]_Add a new node,Node Index:76
+[I] 2012-03-09 14:40:31.576 (0x0820):ErrorCode[0]_Delete a node,Node Index:76
+[I] 2012-03-09 14:40:32.752 (0x0820):ErrorCode[0]_Add a new node,Node Index:77
+[I] 2012-03-09 14:40:40.328 (0x0820):ErrorCode[0]_Delete a node,Node Index:77
+[I] 2012-03-09 14:40:55.452 (0x0820):ErrorCode[0]_Callflow saved successful!,Callflow ID:180
+[I] 2012-03-09 14:43:47.860 (0x0820):ErrorCode[0]_Add a new node,Node Index:78
+[I] 2012-03-09 14:44:18.560 (0x0820):ErrorCode[0]_Update node info,Node ID:363
+[I] 2012-03-09 14:44:32.984 (0x0820):ErrorCode[0]_Update node info,Node ID:343
+[I] 2012-03-09 14:45:32.656 (0x0820):ErrorCode[0]_Update node info,Node ID:363
+[I] 2012-03-09 14:45:46.064 (0x0820):ErrorCode[0]_Update node info,Node ID:343
+[I] 2012-03-09 14:46:17.860 (0x0820):ErrorCode[0]_Add a new node,Node Index:79
+[I] 2012-03-09 14:46:19.812 (0x0820):ErrorCode[0]_Callflow saved successful!,Callflow ID:180
+[I] 2012-03-09 14:47:38.408 (0x0820):ErrorCode[0]_Update node info,Node ID:343
+[I] 2012-03-09 14:48:14.720 (0x0820):ErrorCode[0]_Update node info,Node ID:351
+[I] 2012-03-09 14:48:32.420 (0x0820):ErrorCode[0]_Update node info,Node ID:351
+[I] 2012-03-09 14:48:35.544 (0x0820):ErrorCode[0]_Callflow saved successful!,Callflow ID:180
+[I] 2012-03-09 14:48:51.344 (0x0820):ErrorCode[0]_Update node info,Node ID:363
+[I] 2012-03-09 14:49:01.952 (0x0820):ErrorCode[0]_Add a new node,Node Index:80
+[I] 2012-03-09 14:49:08.436 (0x0820):ErrorCode[0]_Callflow saved successful!,Callflow ID:180
+[I] 2012-03-09 14:50:53.188 (0x0820):ErrorCode[0]_Add a new node,Node Index:81
+[I] 2012-03-09 14:51:14.608 (0x0820):ErrorCode[0]_Update node info,Node ID:363
+[I] 2012-03-09 14:51:17.592 (0x0820):ErrorCode[0]_Callflow saved successful!,Callflow ID:180
+[I] 2012-03-09 14:55:52.124 (0x0820):ErrorCode[0]_Add a new node,Node Index:82
+[I] 2012-03-09 14:55:53.764 (0x0820):ErrorCode[0]_Delete a node,Node Index:82
+[I] 2012-03-09 14:55:56.080 (0x0820):ErrorCode[0]_Add a new node,Node Index:83
+[I] 2012-03-09 14:57:21.608 (0x0820):ErrorCode[0]_Update node info,Node ID:367
+[I] 2012-03-09 14:57:22.500 (0x0820):ErrorCode[0]_Add a new node,Node Index:84
+[I] 2012-03-09 14:57:29.720 (0x0820):ErrorCode[0]_Callflow saved successful!,Callflow ID:180
+[I] 2012-03-09 14:58:23.156 (0x0820):ErrorCode[0]_Add a new node,Node Index:85
+[I] 2012-03-09 14:58:33.156 (0x0820):ErrorCode[0]_Add a new node,Node Index:86
+[I] 2012-03-09 14:58:42.984 (0x0820):ErrorCode[0]_Update node info,Node ID:370
+[I] 2012-03-09 14:59:09.764 (0x0820):ErrorCode[0]_Add a new node,Node Index:87
+[I] 2012-03-09 14:59:15.312 (0x0820):ErrorCode[0]_Callflow saved successful!,Callflow ID:180
+[I] 2012-03-09 14:59:45.156 (0x0820):ErrorCode[0]_Add a new node,Node Index:88
+[I] 2012-03-09 14:59:59.888 (0x0820):ErrorCode[0]_Update node info,Node ID:372
+[I] 2012-03-09 15:00:53.560 (0x0820):ErrorCode[0]_Add a new node,Node Index:89
+[I] 2012-03-09 15:01:19.796 (0x0820):ErrorCode[0]_Update node info,Node ID:373
+[I] 2012-03-09 15:01:37.876 (0x0820):ErrorCode[0]_Update node info,Node ID:372
+[I] 2012-03-09 15:01:42.688 (0x0820):ErrorCode[0]_Callflow saved successful!,Callflow ID:180
+[I] 2012-03-09 15:02:21.576 (0x0820):ErrorCode[0]_Update Resource item:10034 in Project:180.
+[I] 2012-03-09 15:02:33.704 (0x0820):ErrorCode[0]_Callflow saved successful!,Callflow ID:180
+[I] 2012-03-09 15:03:26.828 (0x0820):ErrorCode[0]_Update node info,Node ID:367
+[I] 2012-03-09 15:03:32.736 (0x0820):ErrorCode[0]_Add a new node,Node Index:90
+[I] 2012-03-09 15:03:39.576 (0x0820):ErrorCode[0]_Add a new node,Node Index:91
+[I] 2012-03-09 15:03:55.736 (0x0820):ErrorCode[0]_Update node info,Node ID:375
+[I] 2012-03-09 15:04:00.860 (0x0820):ErrorCode[0]_Update node info,Node ID:363
+[I] 2012-03-09 15:04:12.532 (0x0820):ErrorCode[0]_Update node info,Node ID:375
+[I] 2012-03-09 15:04:13.560 (0x0820):ErrorCode[0]_Callflow saved successful!,Callflow ID:180
+[I] 2012-03-09 15:04:52.904 (0x0820):ErrorCode[0]_Delete a node,Node Index:62
+[I] 2012-03-09 15:04:57.344 (0x0820):ErrorCode[0]_Add a new node,Node Index:92
+[I] 2012-03-09 15:04:58.720 (0x0820):ErrorCode[0]_Add a new node,Node Index:93
+[I] 2012-03-09 15:05:09.608 (0x0820):ErrorCode[0]_Callflow saved successful!,Callflow ID:180
+[I] 2012-03-09 15:05:31.984 (0x0820):ErrorCode[0]_Add a new node,Node Index:94
+[I] 2012-03-09 15:05:37.204 (0x0820):ErrorCode[0]_Add a new node,Node Index:95
+[I] 2012-03-09 15:05:49.016 (0x0820):ErrorCode[0]_Update node info,Node ID:375
+[I] 2012-03-09 15:05:57.108 (0x0820):ErrorCode[0]_Update node info,Node ID:375
+[I] 2012-03-09 15:05:58.592 (0x0820):ErrorCode[0]_Callflow saved successful!,Callflow ID:180
+[I] 2012-03-09 15:06:03.720 (0x0820):ErrorCode[0]_Add a new node,Node Index:96
+[I] 2012-03-09 15:06:14.860 (0x0820):ErrorCode[0]_Callflow saved successful!,Callflow ID:180
+[I] 2012-03-09 15:07:16.360 (0x0820):ErrorCode[0]_Add a new node,Node Index:97
+[I] 2012-03-09 15:07:40.544 (0x0820):ErrorCode[0]_Update node info,Node ID:381
+[I] 2012-03-09 15:07:49.656 (0x0820):ErrorCode[0]_Delete a node,Node Index:94
+[I] 2012-03-09 15:07:55.876 (0x0820):ErrorCode[0]_Add a new node,Node Index:98
+[I] 2012-03-09 15:08:19.688 (0x0820):ErrorCode[0]_Update node info,Node ID:382
+[I] 2012-03-09 15:08:22.468 (0x0820):ErrorCode[0]_Add a new node,Node Index:99
+[I] 2012-03-09 15:08:43.328 (0x0820):ErrorCode[0]_Update node info,Node ID:382
+[I] 2012-03-09 15:08:46.188 (0x0820):ErrorCode[0]_Add a new node,Node Index:100
+[I] 2012-03-09 15:09:04.812 (0x0820):ErrorCode[0]_Add a new node,Node Index:101
+[I] 2012-03-09 15:11:07.156 (0x0820):ErrorCode[0]_Update node info,Node ID:385
+[I] 2012-03-09 15:11:09.080 (0x0820):ErrorCode[0]_Callflow saved successful!,Callflow ID:180
+[I] 2012-03-09 15:11:14.576 (0x0820):ErrorCode[0]_Add a new node,Node Index:102
+[I] 2012-03-09 15:11:33.140 (0x0820):ErrorCode[0]_Callflow saved successful!,Callflow ID:180
+[I] 2012-03-09 22:07:43.096 (0x0820):ErrorCode[0]_Callflow Closed!,Callflow ID:180 Callflow Name:上海外联
+[I] 2012-03-09 22:07:43.168 (0x0820):ErrorCode[0]_Visual IVR Editor Shutdown....

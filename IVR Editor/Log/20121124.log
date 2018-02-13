@@ -1,0 +1,106 @@
+[I] 2012-11-24 15:19:04.592 (0x018C):ErrorCode[0]_Visual IVR Editor Started...,Version:6.10.4
+[I] 2012-11-24 15:19:06.752 (0x018C):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=test;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter_Avaya
+[I] 2012-11-24 15:19:24.532 (0x018C):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:9 Callflow Name:VoxDemo
+[I] 2012-11-24 15:19:24.592 (0x018C):ErrorCode[0]_Open Resource Record...,Project ID:9
+[I] 2012-11-24 15:20:10.452 (0x018C):ErrorCode[0]_Open Resource Record...,Project ID:9
+[I] 2012-11-24 15:21:53.296 (0x018C):ErrorCode[0]_Add resource item:1008 to Project:9.
+[I] 2012-11-24 15:22:01.764 (0x018C):ErrorCode[0]_Update node info,Node ID:259
+[I] 2012-11-24 15:22:15.328 (0x018C):ErrorCode[0]_Callflow saved successful!,Callflow ID:9
+[I] 2012-11-24 15:29:32.984 (0x018C):ErrorCode[0]_Open Resource Record...,Project ID:9
+[I] 2012-11-24 15:29:51.108 (0x018C):ErrorCode[0]_Update Resource item:1008 in Project:9.
+[I] 2012-11-24 15:30:23.048 (0x018C):ErrorCode[0]_Open Resource Record...,Project ID:9
+[I] 2012-11-24 15:30:49.608 (0x018C):ErrorCode[0]_Add resource item:1005 to Project:9.
+[I] 2012-11-24 15:30:57.204 (0x018C):ErrorCode[0]_Open Resource Record...,Project ID:9
+[I] 2012-11-24 15:31:13.048 (0x018C):ErrorCode[0]_Update node info,Node ID:273
+[I] 2012-11-24 15:31:15.876 (0x018C):ErrorCode[0]_Callflow saved successful!,Callflow ID:9
+[I] 2012-11-24 15:32:29.736 (0x018C):ErrorCode[0]_Add resource item:1111 to Project:9.
+[I] 2012-11-24 15:32:34.420 (0x018C):ErrorCode[0]_Update node info,Node ID:259
+[I] 2012-11-24 15:32:37.108 (0x018C):ErrorCode[0]_Callflow saved successful!,Callflow ID:9
+[I] 2012-11-24 15:40:18.484 (0x018C):ErrorCode[0]_Update node info,Node ID:259
+[I] 2012-11-24 15:40:26.312 (0x018C):ErrorCode[0]_Update node info,Node ID:265
+[I] 2012-11-24 15:40:27.392 (0x018C):ErrorCode[0]_Callflow saved successful!,Callflow ID:9
+[I] 2012-11-24 15:48:11.172 (0x018C):ErrorCode[0]_Update node info,Node ID:259
+[I] 2012-11-24 15:48:20.376 (0x018C):ErrorCode[0]_Update node info,Node ID:265
+[I] 2012-11-24 15:48:21.420 (0x018C):ErrorCode[0]_Callflow saved successful!,Callflow ID:9
+[I] 2012-11-24 15:49:42.092 (0x018C):ErrorCode[0]_Update node info,Node ID:261
+[I] 2012-11-24 15:49:43.420 (0x018C):ErrorCode[0]_Callflow saved successful!,Callflow ID:9
+[I] 2012-11-24 15:53:11.704 (0x018C):ErrorCode[0]_Update node info,Node ID:257
+[I] 2012-11-24 15:53:12.920 (0x018C):ErrorCode[0]_Callflow saved successful!,Callflow ID:9
+[I] 2012-11-24 15:56:20.468 (0x018C):ErrorCode[0]_Update node info,Node ID:257
+[I] 2012-11-24 15:56:36.140 (0x018C):ErrorCode[0]_Update node info,Node ID:277
+[I] 2012-11-24 15:56:39.764 (0x018C):ErrorCode[0]_Callflow saved successful!,Callflow ID:9
+[I] 2012-11-24 15:57:03.764 (0x018C):ErrorCode[0]_Update node info,Node ID:277
+[I] 2012-11-24 15:57:06.752 (0x018C):ErrorCode[0]_Callflow saved successful!,Callflow ID:9
+[I] 2012-11-24 16:01:46.108 (0x018C):ErrorCode[0]_Update node info,Node ID:263
+[I] 2012-11-24 16:01:47.360 (0x018C):ErrorCode[0]_Callflow saved successful!,Callflow ID:9
+[I] 2012-11-24 16:01:51.064 (0x018C):ErrorCode[0]_Callflow Closed!,Callflow ID:9 Callflow Name:VoxDemo
+[I] 2012-11-24 16:01:52.544 (0x018C):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=test;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter_Avaya
+[I] 2012-11-24 16:01:54.048 (0x018C):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:9 Callflow Name:VoxDemo
+[I] 2012-11-24 16:01:54.080 (0x018C):ErrorCode[0]_Open Resource Record...,Project ID:9
+[I] 2012-11-24 16:02:55.876 (0x018C):ErrorCode[0]_Update node info,Node ID:259
+[I] 2012-11-24 16:03:00.156 (0x018C):ErrorCode[0]_Callflow saved successful!,Callflow ID:9
+[I] 2012-11-24 16:05:29.328 (0x018C):ErrorCode[0]_Update node info,Node ID:259
+[I] 2012-11-24 16:05:30.592 (0x018C):ErrorCode[0]_Callflow saved successful!,Callflow ID:9
+[I] 2012-11-24 16:06:33.360 (0x018C):ErrorCode[0]_Callflow Closed!,Callflow ID:9 Callflow Name:VoxDemo
+[I] 2012-11-24 16:06:33.452 (0x018C):ErrorCode[0]_Visual IVR Editor Shutdown....
+[I] 2012-11-24 16:06:35.720 (0x018C):ErrorCode[0]_Visual IVR Editor Started...,Version:6.10.4
+[I] 2012-11-24 16:06:36.216 (0x018C):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=test;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter_Avaya
+[I] 2012-11-24 16:06:39.500 (0x018C):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:9 Callflow Name:VoxDemo
+[I] 2012-11-24 16:06:39.532 (0x018C):ErrorCode[0]_Open Resource Record...,Project ID:9
+[I] 2012-11-24 16:06:55.328 (0x018C):ErrorCode[0]_Callflow Closed!,Callflow ID:9 Callflow Name:VoxDemo
+[I] 2012-11-24 16:06:55.420 (0x018C):ErrorCode[0]_Visual IVR Editor Shutdown....
+[I] 2012-11-24 16:13:46.280 (0x018C):ErrorCode[0]_Visual IVR Editor Started...,Version:6.10.4
+[I] 2012-11-24 16:13:46.688 (0x018C):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=test;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter_Avaya
+[I] 2012-11-24 16:13:49.080 (0x018C):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:9 Callflow Name:VoxDemo
+[I] 2012-11-24 16:13:49.108 (0x018C):ErrorCode[0]_Open Resource Record...,Project ID:9
+[I] 2012-11-24 16:13:55.468 (0x018C):ErrorCode[0]_Update node info,Node ID:263
+[I] 2012-11-24 16:13:56.796 (0x018C):ErrorCode[0]_Callflow saved successful!,Callflow ID:9
+[I] 2012-11-24 16:13:58.904 (0x018C):ErrorCode[0]_Callflow Closed!,Callflow ID:9 Callflow Name:VoxDemo
+[I] 2012-11-24 16:13:59.032 (0x018C):ErrorCode[0]_Visual IVR Editor Shutdown....
+[I] 2012-11-24 16:14:00.452 (0x018C):ErrorCode[0]_Visual IVR Editor Started...,Version:6.10.4
+[I] 2012-11-24 16:14:00.984 (0x018C):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=test;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter_Avaya
+[I] 2012-11-24 16:14:03.640 (0x018C):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:9 Callflow Name:VoxDemo
+[I] 2012-11-24 16:14:03.672 (0x018C):ErrorCode[0]_Open Resource Record...,Project ID:9
+[I] 2012-11-24 17:08:28.720 (0x018C):ErrorCode[0]_Update node info,Node ID:263
+[I] 2012-11-24 17:08:29.936 (0x018C):ErrorCode[0]_Callflow saved successful!,Callflow ID:9
+[I] 2012-11-24 17:08:43.436 (0x018C):ErrorCode[0]_Update node info,Node ID:263
+[I] 2012-11-24 17:08:44.752 (0x018C):ErrorCode[0]_Callflow saved successful!,Callflow ID:9
+[I] 2012-11-24 17:37:06.344 (0x018C):ErrorCode[0]_Update node info,Node ID:263
+[I] 2012-11-24 17:37:07.560 (0x018C):ErrorCode[0]_Callflow saved successful!,Callflow ID:9
+[I] 2012-11-24 18:04:03.092 (0x018C):ErrorCode[0]_Update node info,Node ID:261
+[I] 2012-11-24 18:04:04.592 (0x018C):ErrorCode[0]_Callflow saved successful!,Callflow ID:9
+[I] 2012-11-24 18:13:34.860 (0x018C):ErrorCode[0]_Callflow Closed!,Callflow ID:9 Callflow Name:VoxDemo
+[I] 2012-11-24 18:13:34.952 (0x018C):ErrorCode[0]_Visual IVR Editor Shutdown....
+[I] 2012-11-24 18:13:37.780 (0x018C):ErrorCode[0]_Visual IVR Editor Started...,Version:6.10.4
+[I] 2012-11-24 18:13:38.264 (0x018C):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=test;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter_Avaya
+[I] 2012-11-24 18:13:41.888 (0x018C):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=test;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter_Avaya
+[I] 2012-11-24 18:13:41.984 (0x018C):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:9 Callflow Name:VoxDemo
+[I] 2012-11-24 18:13:42.032 (0x018C):ErrorCode[0]_Open Resource Record...,Project ID:9
+[I] 2012-11-24 18:13:54.080 (0x018C):ErrorCode[0]_Export Callflow Data to the file successful !,File Path:C:\Documents and Settings\Administrator\桌面\9.PVC
+[E] 2012-11-24 18:13:54.080 (0x018C):ErrorCode[0]_Failed to export Callflow Data to the file:C:\Documents and Settings\Administrator\桌面\9.PVC!,
+[I] 2012-11-24 18:14:02.484 (0x018C):ErrorCode[0]_Successful export Reource Date to the file!,File Name:C:\Documents and Settings\Administrator\桌面\9.CSV
+[E] 2012-11-24 18:14:02.500 (0x018C):ErrorCode[0]_Failed to export Resource Date to the file:C:\Documents and Settings\Administrator\桌面\9.CSV!,
+[I] 2012-11-24 18:14:05.436 (0x018C):ErrorCode[0]_Callflow Closed!,Callflow ID:0 Callflow Name:
+[I] 2012-11-24 18:14:05.484 (0x018C):ErrorCode[0]_Callflow Closed!,Callflow ID:9 Callflow Name:VoxDemo
+[I] 2012-11-24 18:14:05.580 (0x018C):ErrorCode[0]_Visual IVR Editor Shutdown....
+[I] 2012-11-24 18:56:26.160 (0x04FC):ErrorCode[0]_Visual IVR Editor Started...,Version:6.10.4
+[I] 2012-11-24 18:56:27.032 (0x04FC):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=test;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter_Avaya
+[I] 2012-11-24 18:56:35.576 (0x04FC):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=test;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter_Avaya
+[I] 2012-11-24 18:56:37.112 (0x04FC):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:195 Callflow Name:
+[I] 2012-11-24 18:56:37.136 (0x04FC):ErrorCode[0]_Create a new Callflow,CallFlow ID:195
+[E] 2012-11-24 18:56:37.152 (0x04FC):ErrorCode[0]_Get callflow date file information failed when import a callflow!,
+[I] 2012-11-24 18:56:37.184 (0x04FC):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:195 Callflow Name:Fotile VMS
+[I] 2012-11-24 18:56:37.576 (0x04FC):ErrorCode[0]_ImportFlowData(C:\Documents and Settings\Administrator\桌面\Fotile 8Key\CallFlow\195.PVC) successful!.
+[E] 2012-11-24 18:56:37.576 (0x04FC):ErrorCode[0]_ImportFlowData(C:\Documents and Settings\Administrator\桌面\Fotile 8Key\CallFlow\195.PVC) got error,,
+[I] 2012-11-24 18:56:37.608 (0x04FC):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:195 Callflow Name:Fotile VMS
+[I] 2012-11-24 18:56:37.672 (0x04FC):ErrorCode[0]_Open Resource Record...,Project ID:195
+[I] 2012-11-24 18:56:45.136 (0x04FC):ErrorCode[0]_Open Resource Record...,Project ID:195
+[I] 2012-11-24 18:58:19.704 (0x04FC):ErrorCode[0]_Callflow Closed!,Callflow ID:195 Callflow Name:Fotile VMS
+[I] 2012-11-24 18:58:19.784 (0x04FC):ErrorCode[0]_Visual IVR Editor Shutdown....
+[I] 2012-11-24 19:01:39.768 (0x0870):ErrorCode[0]_Visual IVR Editor Started...,Version:6.10.4
+[I] 2012-11-24 19:01:40.512 (0x0870):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=test;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter_Avaya
+[I] 2012-11-24 19:01:46.232 (0x0870):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:195 Callflow Name:Fotile VMS
+[I] 2012-11-24 19:01:46.264 (0x0870):ErrorCode[0]_Open Resource Record...,Project ID:195
+[I] 2012-11-24 19:14:17.872 (0x0870):ErrorCode[0]_Callflow saved successful!,Callflow ID:195
+[I] 2012-11-24 19:14:17.920 (0x0870):ErrorCode[0]_Callflow Closed!,Callflow ID:195 Callflow Name:Fotile VMS
+[I] 2012-11-24 19:14:18.016 (0x0870):ErrorCode[0]_Visual IVR Editor Shutdown....

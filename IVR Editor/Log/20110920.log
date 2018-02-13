@@ -1,0 +1,26 @@
+[I] 2011-09-20 22:56:16.936 (0x10F4):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.7
+[I] 2011-09-20 22:56:18.392 (0x10F4):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2011-09-20 22:57:54.264 (0x10F4):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:7 Callflow Name:VMS_Demo
+[E] 2011-09-20 22:57:54.296 (0x10F4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 7,使用 Null 无效
+[I] 2011-09-20 22:57:54.408 (0x10F4):ErrorCode[0]_Open Resource Record...,Project ID:98
+[E] 2011-09-20 22:57:54.424 (0x10F4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 7,使用 Null 无效
+[E] 2011-09-20 22:57:54.424 (0x10F4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 7,使用 Null 无效
+[E] 2011-09-20 22:57:54.440 (0x10F4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 7,使用 Null 无效
+[E] 2011-09-20 22:57:54.440 (0x10F4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 7,使用 Null 无效
+[E] 2011-09-20 22:57:54.456 (0x10F4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 7,使用 Null 无效
+[E] 2011-09-20 22:57:54.456 (0x10F4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 7,使用 Null 无效
+[I] 2011-09-20 22:58:07.528 (0x10F4):ErrorCode[0]_Update node info,Node ID:257
+[I] 2011-09-20 22:58:20.048 (0x10F4):ErrorCode[0]_Callflow saved successful!,Callflow ID:7
+[I] 2011-09-20 22:58:21.472 (0x10F4):ErrorCode[0]_Callflow Closed!,Callflow ID:7 Callflow Name:VMS_Demo
+[I] 2011-09-20 22:58:22.640 (0x10F4):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2011-09-20 22:58:46.392 (0x10F4):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:7 Callflow Name:VMS_Demo
+[E] 2011-09-20 22:58:46.392 (0x10F4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 7,使用 Null 无效
+[I] 2011-09-20 22:58:46.408 (0x10F4):ErrorCode[0]_Open Resource Record...,Project ID:98
+[E] 2011-09-20 22:58:46.424 (0x10F4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 7,使用 Null 无效
+[E] 2011-09-20 22:58:46.424 (0x10F4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 7,使用 Null 无效
+[E] 2011-09-20 22:58:46.440 (0x10F4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 7,使用 Null 无效
+[E] 2011-09-20 22:58:46.440 (0x10F4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 7,使用 Null 无效
+[E] 2011-09-20 22:58:46.456 (0x10F4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 7,使用 Null 无效
+[E] 2011-09-20 22:58:46.456 (0x10F4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 7,使用 Null 无效
+[I] 2011-09-20 22:58:51.688 (0x10F4):ErrorCode[0]_Callflow Closed!,Callflow ID:7 Callflow Name:VMS_Demo
+[I] 2011-09-20 22:58:51.736 (0x10F4):ErrorCode[0]_Visual IVR Editor Shutdown....

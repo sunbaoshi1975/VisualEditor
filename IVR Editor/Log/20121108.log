@@ -1,0 +1,16 @@
+[I] 2012-11-08 20:41:31.504 (0x04C4):ErrorCode[0]_Visual IVR Editor Started...,Version:6.10.3
+[I] 2012-11-08 20:41:33.712 (0x04C4):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2012-11-08 20:41:36.784 (0x04C4):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2012-11-08 20:41:37.208 (0x04C4):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:12 Callflow Name:ACCSOB
+[E] 2012-11-08 20:41:37.256 (0x04C4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 12,使用 Null 无效
+[I] 2012-11-08 20:41:37.320 (0x04C4):ErrorCode[0]_Open Resource Record...,Project ID:11
+[E] 2012-11-08 20:41:37.336 (0x04C4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 12,使用 Null 无效
+[E] 2012-11-08 20:41:37.336 (0x04C4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 12,使用 Null 无效
+[E] 2012-11-08 20:41:37.352 (0x04C4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 12,使用 Null 无效
+[E] 2012-11-08 20:41:37.352 (0x04C4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 12,使用 Null 无效
+[E] 2012-11-08 20:41:37.368 (0x04C4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 12,使用 Null 无效
+[E] 2012-11-08 20:41:37.368 (0x04C4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 12,使用 Null 无效
+[E] 2012-11-08 20:41:37.376 (0x04C4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 12,使用 Null 无效
+[I] 2012-11-08 20:43:00.992 (0x04C4):ErrorCode[0]_Callflow Closed!,Callflow ID:0 Callflow Name:
+[I] 2012-11-08 20:43:01.072 (0x04C4):ErrorCode[0]_Callflow Closed!,Callflow ID:12 Callflow Name:ACCSOB
+[I] 2012-11-08 20:43:01.144 (0x04C4):ErrorCode[0]_Visual IVR Editor Shutdown....

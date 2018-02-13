@@ -1,0 +1,24 @@
+[I] 2012-05-08 11:06:47.836 (0x0CFC):ErrorCode[0]_Visual IVR Editor Started...,Version:6.10.2
+[I] 2012-05-08 11:06:49.848 (0x0CFC):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=test;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter_t
+[I] 2012-05-08 11:06:54.084 (0x0CFC):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:180 Callflow Name:上海外联
+[I] 2012-05-08 11:06:54.288 (0x0CFC):ErrorCode[0]_Open Resource Record...,Project ID:180
+[I] 2012-05-08 11:07:04.256 (0x0CFC):ErrorCode[0]_Export Callflow Data to the file successful !,File Path:C:\Documents and Settings\Administrator\桌面\180.PVC
+[E] 2012-05-08 11:07:04.272 (0x0CFC):ErrorCode[0]_Failed to export Callflow Data to the file:C:\Documents and Settings\Administrator\桌面\180.PVC!,
+[I] 2012-05-08 11:07:14.040 (0x0CFC):ErrorCode[0]_Successful export Reource Date to the file!,File Name:C:\Documents and Settings\Administrator\桌面\180.CSV
+[E] 2012-05-08 11:07:14.052 (0x0CFC):ErrorCode[0]_Failed to export Resource Date to the file:C:\Documents and Settings\Administrator\桌面\180.CSV!,
+[I] 2012-05-08 11:07:16.848 (0x0CFC):ErrorCode[0]_Callflow Closed!,Callflow ID:180 Callflow Name:上海外联
+[I] 2012-05-08 11:07:16.976 (0x0CFC):ErrorCode[0]_Visual IVR Editor Shutdown....
+[I] 2012-05-08 11:40:00.460 (0x0A48):ErrorCode[0]_Visual IVR Editor Started...,Version:6.10.2
+[I] 2012-05-08 11:40:01.412 (0x0A48):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=test;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter_t
+[I] 2012-05-08 11:40:04.992 (0x0A48):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:180 Callflow Name:上海外联
+[I] 2012-05-08 11:40:05.084 (0x0A48):ErrorCode[0]_Open Resource Record...,Project ID:180
+[I] 2012-05-08 11:43:21.052 (0x0A48):ErrorCode[0]_Callflow Closed!,Callflow ID:180 Callflow Name:上海外联
+[I] 2012-05-08 11:43:21.148 (0x0A48):ErrorCode[0]_Visual IVR Editor Shutdown....
+[I] 2012-05-08 16:24:29.492 (0x0698):ErrorCode[0]_Visual IVR Editor Started...,Version:6.10.2
+[I] 2012-05-08 16:24:30.336 (0x0698):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=test;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter_t
+[I] 2012-05-08 16:24:49.616 (0x0698):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=test;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter_t
+[I] 2012-05-08 16:24:49.724 (0x0698):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:180 Callflow Name:上海外联
+[I] 2012-05-08 16:24:49.804 (0x0698):ErrorCode[0]_Open Resource Record...,Project ID:180
+[I] 2012-05-08 16:25:24.192 (0x0698):ErrorCode[0]_Callflow Closed!,Callflow ID:0 Callflow Name:
+[I] 2012-05-08 16:25:24.336 (0x0698):ErrorCode[0]_Callflow Closed!,Callflow ID:180 Callflow Name:上海外联
+[I] 2012-05-08 16:25:24.412 (0x0698):ErrorCode[0]_Visual IVR Editor Shutdown....

@@ -1,0 +1,15 @@
+[I] 2013-01-30 15:53:29.112 (0x0DB4):ErrorCode[0]_Visual IVR Editor Started...,Version:6.10.4
+[I] 2013-01-30 15:53:34.300 (0x0DB4):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2013-01-30 15:53:46.720 (0x0DB4):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2013-01-30 15:53:53.612 (0x0DB4):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:150 Callflow Name:REIMA
+[I] 2013-01-30 15:53:58.536 (0x0DB4):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:150 Callflow Name:
+[I] 2013-01-30 15:53:58.676 (0x0DB4):ErrorCode[0]_Create a new Callflow,CallFlow ID:150
+[E] 2013-01-30 15:53:58.720 (0x0DB4):ErrorCode[0]_Get callflow date file information failed when import a callflow!,
+[I] 2013-01-30 15:53:58.736 (0x0DB4):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:150 Callflow Name:SZJTJ IVR Callflow
+[I] 2013-01-30 15:54:00.036 (0x0DB4):ErrorCode[0]_ImportFlowData(C:\Documents and Settings\Administrator\×ÀÃæ\150.PVC) successful!.
+[E] 2013-01-30 15:54:00.036 (0x0DB4):ErrorCode[0]_ImportFlowData(C:\Documents and Settings\Administrator\×ÀÃæ\150.PVC) got error,,
+[I] 2013-01-30 15:54:00.192 (0x0DB4):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:150 Callflow Name:SZJTJ IVR Callflow
+[I] 2013-01-30 15:54:00.612 (0x0DB4):ErrorCode[0]_Open Resource Record...,Project ID:150
+[I] 2013-01-30 15:54:18.800 (0x0DB4):ErrorCode[0]_Open Resource Record...,Project ID:150
+[I] 2013-01-30 19:44:28.960 (0x0DB4):ErrorCode[0]_Callflow Closed!,Callflow ID:150 Callflow Name:SZJTJ IVR Callflow
+[I] 2013-01-30 19:44:29.816 (0x0DB4):ErrorCode[0]_Visual IVR Editor Shutdown....

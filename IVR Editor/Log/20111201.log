@@ -1,0 +1,18 @@
+[I] 2011-12-01 23:55:06.656 (0x2FCC):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.7
+[I] 2011-12-01 23:55:09.328 (0x2FCC):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2011-12-01 23:56:44.624 (0x2FCC):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2011-12-01 23:56:46.888 (0x2FCC):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:227 Callflow Name:
+[I] 2011-12-01 23:56:47.000 (0x2FCC):ErrorCode[0]_Create a new Callflow,CallFlow ID:227
+[E] 2011-12-01 23:56:47.032 (0x2FCC):ErrorCode[0]_Get callflow date file information failed when import a callflow!,
+[I] 2011-12-01 23:56:47.080 (0x2FCC):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:227 Callflow Name:Fotile BC
+[I] 2011-12-01 23:56:47.264 (0x2FCC):ErrorCode[0]_ImportFlowData(C:\Documents and Settings\tonysun\×ÀÃæ\LOG\227\227.PVC) successful!.
+[E] 2011-12-01 23:56:47.264 (0x2FCC):ErrorCode[0]_ImportFlowData(C:\Documents and Settings\tonysun\×ÀÃæ\LOG\227\227.PVC) got error,,
+[I] 2011-12-01 23:56:47.296 (0x2FCC):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:227 Callflow Name:Fotile BC
+[I] 2011-12-01 23:56:47.392 (0x2FCC):ErrorCode[0]_Open Resource Record...,Project ID:227
+[I] 2011-12-01 23:56:54.032 (0x2FCC):ErrorCode[0]_Open Resource Record...,Project ID:227
+[I] 2011-12-01 23:58:00.784 (0x2FCC):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2011-12-01 23:58:22.064 (0x2FCC):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:226 Callflow Name:NB Fotile
+[I] 2011-12-01 23:58:22.080 (0x2FCC):ErrorCode[0]_Open Resource Record...,Project ID:226
+[I] 2011-12-02 01:03:13.375 (0x2FCC):ErrorCode[0]_Callflow Closed!,Callflow ID:227 Callflow Name:Fotile BC
+[I] 2011-12-02 01:03:34.765 (0x2FCC):ErrorCode[0]_Callflow Closed!,Callflow ID:226 Callflow Name:NB Fotile
+[I] 2011-12-02 01:03:34.796 (0x2FCC):ErrorCode[0]_Visual IVR Editor Shutdown....

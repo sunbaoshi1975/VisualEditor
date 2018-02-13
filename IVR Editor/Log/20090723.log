@@ -1,0 +1,20 @@
+[I] 2009-07-23 14:00:20.752 (0x15AC):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.6
+[I] 2009-07-23 14:00:22.280 (0x15AC):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=dbCallcenter;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter
+[I] 2009-07-23 14:01:06.688 (0x15AC):ErrorCode[0]_Callflow Closed!,Callflow ID:0 Callflow Name:
+[I] 2009-07-23 14:01:06.736 (0x15AC):ErrorCode[0]_Option changed successful! .
+[I] 2009-07-23 14:01:08.484 (0x15AC):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2009-07-23 14:01:20.532 (0x15AC):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:1 Callflow Name:Test Demo
+[I] 2009-07-23 14:01:20.640 (0x15AC):ErrorCode[0]_Open Resource Record...,Project ID:1
+[I] 2009-07-23 14:43:11.828 (0x15AC):ErrorCode[0]_Update node info,Node ID:266
+[I] 2009-07-23 14:43:19.232 (0x15AC):ErrorCode[0]_Update node info,Node ID:266
+[I] 2009-07-23 14:43:23.656 (0x15AC):ErrorCode[0]_Callflow saved successful!,Callflow ID:1
+[I] 2009-07-23 14:43:31.752 (0x15AC):ErrorCode[0]_Callflow Closed!,Callflow ID:1 Callflow Name:Test Demo
+[I] 2009-07-23 14:43:33.624 (0x15AC):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2009-07-23 14:43:45.312 (0x15AC):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:1 Callflow Name:Test Demo
+[I] 2009-07-23 14:43:45.328 (0x15AC):ErrorCode[0]_Open Resource Record...,Project ID:1
+[I] 2009-07-23 18:34:46.172 (0x15AC):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2009-07-23 18:34:55.376 (0x15AC):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:109 Callflow Name:PowerDISA
+[I] 2009-07-23 18:34:55.392 (0x15AC):ErrorCode[0]_Open Resource Record...,Project ID:108
+[I] 2009-07-26 11:07:53.408 (0x15AC):ErrorCode[0]_Callflow Closed!,Callflow ID:1 Callflow Name:Test Demo
+[I] 2009-07-26 11:07:54.280 (0x15AC):ErrorCode[0]_Callflow Closed!,Callflow ID:109 Callflow Name:PowerDISA
+[I] 2009-07-26 11:07:54.376 (0x15AC):ErrorCode[0]_Visual IVR Editor Shutdown....

@@ -1,0 +1,44 @@
+[I] 2012-04-17 09:18:17.938 (0x0B18):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.8
+[E] 2012-04-17 09:19:20.704 (0x0B18):ErrorCode[-2147467259]_Connect to Database failed! ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter,超时已过期
+[I] 2012-04-17 09:21:00.264 (0x0B18):ErrorCode[0]_Callflow Closed!,Callflow ID:0 Callflow Name:
+[I] 2012-04-17 09:21:00.360 (0x0B18):ErrorCode[0]_Visual IVR Editor Shutdown....
+[I] 2012-04-17 10:47:31.640 (0x07BC):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.8
+[I] 2012-04-17 10:47:32.860 (0x07BC):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2012-04-17 10:47:57.592 (0x07BC):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:1 Callflow Name:Test Demo
+[I] 2012-04-17 10:47:57.640 (0x07BC):ErrorCode[0]_Open Resource Record...,Project ID:1
+[I] 2012-04-17 10:48:01.280 (0x07BC):ErrorCode[0]_Add a new node,Node Index:30
+[I] 2012-04-17 10:48:09.544 (0x07BC):ErrorCode[0]_Callflow Closed!,Callflow ID:1 Callflow Name:Test Demo
+[I] 2012-04-17 10:48:09.576 (0x07BC):ErrorCode[0]_Visual IVR Editor Shutdown....
+[I] 2012-04-17 20:57:09.952 (0x095C):ErrorCode[0]_Visual IVR Editor Started...,Version:6.10.1
+[I] 2012-04-17 20:57:10.672 (0x095C):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2012-04-17 20:57:14.640 (0x095C):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:1 Callflow Name:Test Demo
+[I] 2012-04-17 20:57:14.672 (0x095C):ErrorCode[0]_Open Resource Record...,Project ID:1
+[I] 2012-04-17 20:57:21.968 (0x095C):ErrorCode[0]_Add a new node,Node Index:30
+[I] 2012-04-17 20:57:30.656 (0x095C):ErrorCode[0]_Update node info,Node ID:286
+[I] 2012-04-17 20:57:37.544 (0x095C):ErrorCode[0]_Callflow saved successful!,Callflow ID:1
+[I] 2012-04-17 20:57:37.608 (0x095C):ErrorCode[0]_Callflow Closed!,Callflow ID:1 Callflow Name:Test Demo
+[I] 2012-04-17 20:57:38.392 (0x095C):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2012-04-17 20:57:39.768 (0x095C):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:1 Callflow Name:Test Demo
+[I] 2012-04-17 20:57:39.792 (0x095C):ErrorCode[0]_Open Resource Record...,Project ID:1
+[I] 2012-04-17 20:57:44.512 (0x095C):ErrorCode[0]_Delete a node,Node Index:30
+[I] 2012-04-17 20:57:46.640 (0x095C):ErrorCode[0]_Callflow saved successful!,Callflow ID:1
+[I] 2012-04-17 20:58:06.096 (0x095C):ErrorCode[0]_Add a new node,Node Index:31
+[I] 2012-04-17 21:00:04.424 (0x095C):ErrorCode[0]_Update node info,Node ID:287
+[I] 2012-04-17 21:00:10.112 (0x095C):ErrorCode[0]_Update node info,Node ID:287
+[I] 2012-04-17 21:00:32.376 (0x095C):ErrorCode[0]_Update node info,Node ID:287
+[I] 2012-04-17 21:00:54.936 (0x095C):ErrorCode[0]_Add a new node,Node Index:32
+[I] 2012-04-17 21:01:15.472 (0x095C):ErrorCode[0]_Add a new node,Node Index:33
+[I] 2012-04-17 21:01:21.440 (0x095C):ErrorCode[0]_Add a new node,Node Index:34
+[I] 2012-04-17 21:01:49.504 (0x095C):ErrorCode[0]_Callflow saved successful!,Callflow ID:1
+[I] 2012-04-17 21:01:51.000 (0x095C):ErrorCode[0]_Callflow Closed!,Callflow ID:1 Callflow Name:Test Demo
+[I] 2012-04-17 21:01:52.560 (0x095C):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2012-04-17 21:01:53.984 (0x095C):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:1 Callflow Name:Test Demo
+[I] 2012-04-17 21:01:54.000 (0x095C):ErrorCode[0]_Open Resource Record...,Project ID:1
+[I] 2012-04-17 21:02:08.736 (0x095C):ErrorCode[0]_Delete a node,Node Index:29
+[I] 2012-04-17 21:02:08.768 (0x095C):ErrorCode[0]_Delete a node,Node Index:30
+[I] 2012-04-17 21:02:08.784 (0x095C):ErrorCode[0]_Delete a node,Node Index:31
+[I] 2012-04-17 21:02:08.800 (0x095C):ErrorCode[0]_Delete a node,Node Index:32
+[I] 2012-04-17 21:02:08.800 (0x095C):ErrorCode[0]_Delete a node,Node Index:33
+[I] 2012-04-17 21:02:10.560 (0x095C):ErrorCode[0]_Callflow saved successful!,Callflow ID:1
+[I] 2012-04-17 21:02:17.560 (0x095C):ErrorCode[0]_Callflow Closed!,Callflow ID:1 Callflow Name:Test Demo
+[I] 2012-04-17 21:02:17.592 (0x095C):ErrorCode[0]_Visual IVR Editor Shutdown....

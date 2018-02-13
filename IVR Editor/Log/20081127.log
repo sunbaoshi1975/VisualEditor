@@ -1,0 +1,172 @@
+[I] 2008-11-27 15:12:05.064 (0x2580):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.6
+[I] 2008-11-27 15:12:05.796 (0x2580):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2008-11-27 15:12:45.408 (0x2580):ErrorCode[0]_Callflow Closed!,Callflow ID:0 Callflow Name:
+[I] 2008-11-27 15:12:45.468 (0x2580):ErrorCode[0]_Visual IVR Editor Shutdown....
+[I] 2008-11-27 15:16:00.764 (0x0BB4):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.6
+[I] 2008-11-27 15:16:01.108 (0x0BB4):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2008-11-27 15:19:39.860 (0x0BB4):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:125 Callflow Name:大众主流程
+[E] 2008-11-27 15:19:39.920 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[I] 2008-11-27 15:19:39.952 (0x0BB4):ErrorCode[0]_Open Resource Record...,Project ID:12
+[E] 2008-11-27 15:19:39.952 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:39.952 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:39.968 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:39.968 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:39.968 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:39.968 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:39.984 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.000 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.016 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.016 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.016 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.032 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.032 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.048 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.048 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.048 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.064 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.064 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.064 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.080 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.080 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.092 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.092 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.108 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.108 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.108 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.124 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.124 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.140 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.140 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.156 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.156 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.156 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.156 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.156 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.172 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.172 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.172 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.172 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.172 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.172 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.188 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.188 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.188 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.188 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.188 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.204 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.204 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.204 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.204 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.204 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.204 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.216 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.216 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.216 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.216 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.216 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.232 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.232 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.232 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.232 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.232 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.248 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.248 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.248 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.248 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.248 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.264 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.264 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.264 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.264 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.264 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.264 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.280 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.280 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.280 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.280 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.280 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.296 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.296 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.296 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.296 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.296 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.296 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.312 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.312 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.312 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.312 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.312 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.328 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.328 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.328 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.328 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.328 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.344 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.344 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.344 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.344 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.344 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.360 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.360 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.360 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.360 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.360 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.360 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.376 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.376 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.376 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.376 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.376 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.392 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.392 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.392 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.392 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.392 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.392 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.408 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.408 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.408 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.408 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.408 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.420 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.420 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.420 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.420 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.420 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.436 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.436 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.436 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.436 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.436 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.436 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.452 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.452 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.452 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.452 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.452 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.468 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.468 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.468 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.468 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.468 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.484 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.484 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.484 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.484 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.484 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.500 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[E] 2008-11-27 15:19:40.500 (0x0BB4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 125,使用 Null 无效
+[I] 2008-11-27 15:20:39.640 (0x0BB4):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2008-11-27 15:20:42.500 (0x0BB4):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:150 Callflow Name:REIMA
+[I] 2008-11-27 15:20:44.860 (0x0BB4):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:151 Callflow Name:
+[I] 2008-11-27 15:20:45.000 (0x0BB4):ErrorCode[0]_Create a new Callflow,CallFlow ID:151
+[E] 2008-11-27 15:20:45.032 (0x0BB4):ErrorCode[0]_Get callflow date file information failed when import a callflow!,
+[I] 2008-11-27 15:20:45.092 (0x0BB4):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2008-11-27 15:20:54.248 (0x0BB4):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:151 Callflow Name:dimob
+[I] 2008-11-27 15:20:54.344 (0x0BB4):ErrorCode[0]_ImportFlowData(D:\My Documents\CallFlow\DIM150.PVC) successful!.
+[E] 2008-11-27 15:20:54.344 (0x0BB4):ErrorCode[0]_ImportFlowData(D:\My Documents\CallFlow\DIM150.PVC) got error,,
+[I] 2008-11-27 15:20:54.360 (0x0BB4):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:151 Callflow Name:dimob
+[I] 2008-11-27 15:20:54.376 (0x0BB4):ErrorCode[0]_Open Resource Record...,Project ID:150
+[I] 2008-11-28 21:35:27.032 (0x0BB4):ErrorCode[0]_Callflow Closed!,Callflow ID:125 Callflow Name:大众主流程
+[I] 2008-11-28 21:35:27.128 (0x0BB4):ErrorCode[0]_Callflow Closed!,Callflow ID:151 Callflow Name:dimob
+[I] 2008-11-28 21:35:27.168 (0x0BB4):ErrorCode[0]_Visual IVR Editor Shutdown....

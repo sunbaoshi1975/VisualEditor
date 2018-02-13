@@ -1,0 +1,90 @@
+[I] 2008-10-25 00:40:43.578 (0x16E4):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.6
+[I] 2008-10-25 00:40:44.828 (0x16E4):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2008-10-25 00:41:27.609 (0x16E4):ErrorCode[0]_Callflow Closed!,Callflow ID:0 Callflow Name:
+[I] 2008-10-25 00:41:27.640 (0x16E4):ErrorCode[0]_Option changed successful! .
+[I] 2008-10-25 00:41:29.437 (0x16E4):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=MicroCall;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter
+[I] 2008-10-25 00:42:26.640 (0x16E4):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:214 Callflow Name:MicroCall-Crab
+[I] 2008-10-25 00:42:27.468 (0x16E4):ErrorCode[0]_Open Resource Record...,Project ID:214
+[I] 2008-10-25 00:55:11.562 (0x16E4):ErrorCode[0]_Callflow Closed!,Callflow ID:214 Callflow Name:MicroCall-Crab
+[I] 2008-10-25 00:55:11.593 (0x16E4):ErrorCode[0]_Visual IVR Editor Shutdown....
+[I] 2008-10-25 11:03:16.280 (0x15D8):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.6
+[E] 2008-10-25 11:04:20.080 (0x15D8):ErrorCode[-2147467259]_Connect to Database failed! ConnectionString:DSN=MicroCall;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter,[Microsoft][ODBC SQL Server Driver][DBNETLIB]SQL Server 不存在或访问被拒绝
+[I] 2008-10-25 11:05:21.516 (0x15D8):ErrorCode[0]_Callflow Closed!,Callflow ID:0 Callflow Name:
+[I] 2008-10-25 11:05:21.624 (0x15D8):ErrorCode[0]_Option changed successful! .
+[I] 2008-10-25 11:05:23.500 (0x15D8):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2008-10-25 11:05:28.532 (0x15D8):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:10 Callflow Name:PCS_Demo
+[E] 2008-10-25 11:05:28.608 (0x15D8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[I] 2008-10-25 11:05:28.704 (0x15D8):ErrorCode[0]_Open Resource Record...,Project ID:99
+[E] 2008-10-25 11:05:28.736 (0x15D8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-10-25 11:05:28.736 (0x15D8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-10-25 11:05:28.736 (0x15D8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-10-25 11:05:28.752 (0x15D8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-10-25 11:05:28.752 (0x15D8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-10-25 11:05:28.780 (0x15D8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-10-25 11:05:28.796 (0x15D8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-10-25 11:05:28.796 (0x15D8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-10-25 11:05:28.796 (0x15D8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-10-25 11:05:28.812 (0x15D8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-10-25 11:05:28.812 (0x15D8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-10-25 11:05:28.828 (0x15D8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-10-25 11:05:28.844 (0x15D8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-10-25 11:05:28.844 (0x15D8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-10-25 11:05:28.844 (0x15D8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-10-25 11:05:28.860 (0x15D8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-10-25 11:05:28.860 (0x15D8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-10-25 11:05:28.860 (0x15D8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-10-25 11:05:28.860 (0x15D8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-10-25 11:05:28.876 (0x15D8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-10-25 11:05:28.876 (0x15D8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-10-25 11:05:28.876 (0x15D8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-10-25 11:05:28.876 (0x15D8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-10-25 11:05:28.876 (0x15D8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-10-25 11:05:28.876 (0x15D8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-10-25 11:05:28.888 (0x15D8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-10-25 11:05:28.888 (0x15D8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-10-25 11:05:28.888 (0x15D8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-10-25 11:05:28.888 (0x15D8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-10-25 11:05:28.888 (0x15D8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-10-25 11:05:28.904 (0x15D8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-10-25 11:05:28.904 (0x15D8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-10-25 11:05:28.904 (0x15D8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-10-25 11:05:28.904 (0x15D8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-10-25 11:05:28.904 (0x15D8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-10-25 11:05:28.920 (0x15D8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-10-25 11:05:28.920 (0x15D8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-10-25 11:05:28.920 (0x15D8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-10-25 11:05:28.920 (0x15D8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-10-25 11:05:28.920 (0x15D8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-10-25 11:05:28.936 (0x15D8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-10-25 11:05:28.936 (0x15D8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-10-25 11:05:28.936 (0x15D8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-10-25 11:05:28.936 (0x15D8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-10-25 11:05:28.936 (0x15D8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-10-25 11:05:28.936 (0x15D8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-10-25 11:05:28.952 (0x15D8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-10-25 11:05:28.952 (0x15D8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-10-25 11:05:28.952 (0x15D8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-10-25 11:05:28.952 (0x15D8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-10-25 11:05:28.952 (0x15D8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-10-25 11:05:28.968 (0x15D8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-10-25 11:05:28.968 (0x15D8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-10-25 11:05:28.968 (0x15D8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-10-25 11:05:28.968 (0x15D8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-10-25 11:05:28.968 (0x15D8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-10-25 11:05:28.968 (0x15D8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-10-25 11:05:28.984 (0x15D8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-10-25 11:05:28.984 (0x15D8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-10-25 11:05:28.984 (0x15D8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-10-25 11:05:28.984 (0x15D8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-10-25 11:05:28.984 (0x15D8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[E] 2008-10-25 11:05:29.000 (0x15D8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 10,使用 Null 无效
+[I] 2008-10-25 11:05:50.188 (0x15D8):ErrorCode[0]_Callflow Closed!,Callflow ID:10 Callflow Name:PCS_Demo
+[I] 2008-10-25 11:05:50.204 (0x15D8):ErrorCode[0]_Option changed successful! .
+[E] 2008-10-25 11:05:51.468 (0x15D8):ErrorCode[-2147467259]_Connect to Database failed! ConnectionString:DSN=CiscoDemo;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter,[Microsoft][ODBC 驱动程序管理器] 未发现数据源名称并且未指定默认驱动程序
+[I] 2008-10-25 11:06:17.704 (0x15D8):ErrorCode[0]_Callflow Closed!,Callflow ID:0 Callflow Name:
+[I] 2008-10-25 11:06:17.752 (0x15D8):ErrorCode[0]_Option changed successful! .
+[I] 2008-10-25 11:06:20.532 (0x15D8):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=pcs_demo;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter
+[I] 2008-10-25 11:06:25.560 (0x15D8):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:15 Callflow Name:CISCO_Demo
+[I] 2008-10-25 11:06:25.688 (0x15D8):ErrorCode[0]_Open Resource Record...,Project ID:99
+[I] 2008-10-27 00:23:02.781 (0x15D8):ErrorCode[0]_Callflow Closed!,Callflow ID:15 Callflow Name:CISCO_Demo
+[I] 2008-10-27 00:23:02.859 (0x15D8):ErrorCode[0]_Option changed successful! .

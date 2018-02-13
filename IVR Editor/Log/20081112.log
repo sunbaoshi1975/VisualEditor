@@ -1,0 +1,235 @@
+[I] 2008-11-12 19:22:28.816 (0x1238):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.6
+[I] 2008-11-12 19:24:19.768 (0x15B8):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.6
+[I] 2008-11-12 19:24:20.216 (0x15B8):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2008-11-12 19:24:26.784 (0x15B8):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:108 Callflow Name:PowerDISA
+[E] 2008-11-12 19:24:26.800 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[I] 2008-11-12 19:24:26.800 (0x15B8):ErrorCode[0]_Open Resource Record...,Project ID:108
+[E] 2008-11-12 19:24:26.816 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:26.816 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:26.816 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:26.832 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:26.832 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:26.832 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:26.840 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:26.840 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:26.856 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:26.856 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:26.856 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:26.872 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:26.872 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:26.872 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:26.888 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:26.888 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:26.888 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:26.888 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:26.888 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:26.888 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:26.904 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:26.904 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:26.904 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:26.904 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:26.904 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:26.904 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:26.920 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:26.920 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:26.920 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:26.920 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:26.920 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:26.936 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:26.936 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:26.936 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:26.936 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:26.936 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:26.936 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:26.952 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:26.952 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:26.952 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:26.952 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:26.952 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:26.968 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:26.968 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:26.968 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:26.968 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:26.968 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:26.968 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:26.984 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:26.984 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:26.984 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:26.984 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:26.984 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.000 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.000 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.000 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.000 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.000 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.016 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.016 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.016 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.016 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.016 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.032 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.032 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.032 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.032 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.032 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.048 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.048 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.048 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.048 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.064 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.064 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.064 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.064 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.064 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.080 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.080 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.080 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.080 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.080 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.080 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.096 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.096 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.096 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.096 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.096 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.112 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.112 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.112 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.112 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.112 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.128 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.128 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.128 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.128 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.128 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.128 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.136 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.136 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.136 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.136 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.136 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.152 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.152 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.152 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.152 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.152 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.168 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.168 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.168 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.168 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.168 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.184 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.184 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.184 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.184 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.200 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.200 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.200 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.200 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.200 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.216 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.216 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.216 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.216 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.216 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.232 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.232 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.232 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.232 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.232 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.248 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.248 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.248 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.248 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.248 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.264 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.264 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.264 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.264 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.264 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.280 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.280 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.280 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.280 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.280 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.296 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.296 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.296 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[E] 2008-11-12 19:24:27.296 (0x15B8):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 108,使用 Null 无效
+[I] 2008-11-12 19:32:38.376 (0x15B8):ErrorCode[0]_Add a new node,Node Index:163
+[I] 2008-11-12 19:32:47.720 (0x15B8):ErrorCode[0]_Update node info,Node ID:420
+[I] 2008-11-12 19:32:58.456 (0x15B8):ErrorCode[0]_Update node info,Node ID:420
+[I] 2008-11-12 19:33:23.560 (0x15B8):ErrorCode[0]_Callflow saved successful!,Callflow ID:108
+[I] 2008-11-12 19:33:30.128 (0x15B8):ErrorCode[0]_Successful Synchronized CallFlow! CallFlow ID:108.
+[I] 2008-11-12 19:41:15.952 (0x15B8):ErrorCode[0]_Callflow saved successful!,Callflow ID:108
+[I] 2008-11-12 19:41:20.704 (0x15B8):ErrorCode[0]_Successful Synchronized CallFlow! CallFlow ID:108.
+[I] 2008-11-12 19:42:32.016 (0x15B8):ErrorCode[0]_Successful Synchronized CallFlow! CallFlow ID:108.
+[I] 2008-11-12 19:44:22.592 (0x15B8):ErrorCode[0]_Update node info,Node ID:313
+[I] 2008-11-12 19:44:26.128 (0x15B8):ErrorCode[0]_Callflow saved successful!,Callflow ID:108
+[I] 2008-11-12 19:44:57.280 (0x15B8):ErrorCode[0]_Successful Synchronized CallFlow! CallFlow ID:108.
+[I] 2008-11-12 19:56:00.344 (0x15B8):ErrorCode[0]_Update node info,Node ID:326
+[I] 2008-11-12 19:56:06.000 (0x15B8):ErrorCode[0]_Update node info,Node ID:326
+[I] 2008-11-12 19:56:21.784 (0x15B8):ErrorCode[0]_Update node info,Node ID:331
+[I] 2008-11-12 19:56:43.736 (0x15B8):ErrorCode[0]_Update node info,Node ID:336
+[I] 2008-11-12 19:56:47.672 (0x15B8):ErrorCode[0]_Callflow saved successful!,Callflow ID:108
+[I] 2008-11-12 19:56:52.424 (0x15B8):ErrorCode[0]_Successful Synchronized CallFlow! CallFlow ID:108.
+[I] 2008-11-12 21:09:20.064 (0x15B8):ErrorCode[0]_Update node info,Node ID:352
+[I] 2008-11-12 21:09:41.456 (0x15B8):ErrorCode[0]_Update node info,Node ID:352
+[I] 2008-11-12 21:09:44.904 (0x15B8):ErrorCode[0]_Callflow saved successful!,Callflow ID:108
+[I] 2008-11-12 21:11:04.280 (0x15B8):ErrorCode[0]_Successful Synchronized CallFlow! CallFlow ID:108.
+[I] 2008-11-12 21:14:46.168 (0x15B8):ErrorCode[0]_Update node info,Node ID:410
+[I] 2008-11-12 21:14:47.440 (0x15B8):ErrorCode[0]_Callflow saved successful!,Callflow ID:108
+[I] 2008-11-12 21:15:04.016 (0x15B8):ErrorCode[0]_Update node info,Node ID:410
+[I] 2008-11-12 21:15:05.248 (0x15B8):ErrorCode[0]_Callflow saved successful!,Callflow ID:108
+[I] 2008-11-12 21:27:21.328 (0x15B8):ErrorCode[0]_Add a new node,Node Index:164
+[I] 2008-11-12 21:27:53.856 (0x15B8):ErrorCode[0]_Update node info,Node ID:421
+[I] 2008-11-12 21:28:00.816 (0x15B8):ErrorCode[0]_Add a new node,Node Index:165
+[I] 2008-11-12 21:28:06.000 (0x15B8):ErrorCode[0]_Callflow saved successful!,Callflow ID:108
+[I] 2008-11-12 21:28:23.000 (0x15B8):ErrorCode[0]_Add a new node,Node Index:166
+[I] 2008-11-12 21:28:40.832 (0x15B8):ErrorCode[0]_Update node info,Node ID:423
+[I] 2008-11-12 21:28:50.816 (0x15B8):ErrorCode[0]_Add a new node,Node Index:167
+[I] 2008-11-12 21:28:57.888 (0x15B8):ErrorCode[0]_Add a new node,Node Index:168
+[I] 2008-11-12 21:29:05.528 (0x15B8):ErrorCode[0]_Update node info,Node ID:425
+[I] 2008-11-12 21:29:24.984 (0x15B8):ErrorCode[0]_Update node info,Node ID:423
+[I] 2008-11-12 21:29:27.544 (0x15B8):ErrorCode[0]_Callflow saved successful!,Callflow ID:108
+[I] 2008-11-12 21:29:33.096 (0x15B8):ErrorCode[0]_Successful Synchronized CallFlow! CallFlow ID:108.
+[I] 2008-11-12 21:30:31.248 (0x15B8):ErrorCode[0]_Callflow saved successful!,Callflow ID:108
+[I] 2008-11-12 21:31:14.608 (0x15B8):ErrorCode[0]_Update node info,Node ID:421
+[I] 2008-11-12 21:31:15.824 (0x15B8):ErrorCode[0]_Callflow saved successful!,Callflow ID:108
+[I] 2008-11-12 21:31:32.528 (0x15B8):ErrorCode[0]_Successful Synchronized CallFlow! CallFlow ID:108.
+[I] 2008-11-12 21:33:32.688 (0x15B8):ErrorCode[0]_Add a new node,Node Index:169
+[I] 2008-11-12 21:33:51.080 (0x15B8):ErrorCode[0]_Update node info,Node ID:426
+[I] 2008-11-12 21:34:04.656 (0x15B8):ErrorCode[0]_Add a new node,Node Index:170
+[I] 2008-11-12 21:34:09.080 (0x15B8):ErrorCode[0]_Callflow saved successful!,Callflow ID:108
+[I] 2008-11-12 21:34:31.856 (0x15B8):ErrorCode[0]_Update node info,Node ID:421
+[I] 2008-11-12 21:34:33.032 (0x15B8):ErrorCode[0]_Callflow saved successful!,Callflow ID:108
+[I] 2008-11-12 21:34:37.128 (0x15B8):ErrorCode[0]_Successful Synchronized CallFlow! CallFlow ID:108.
+[I] 2008-11-12 21:58:36.736 (0x15B8):ErrorCode[0]_Add a new node,Node Index:171
+[I] 2008-11-12 21:58:44.232 (0x15B8):ErrorCode[0]_Add a new node,Node Index:172
+[I] 2008-11-12 21:58:51.888 (0x15B8):ErrorCode[0]_Add a new node,Node Index:173
+[I] 2008-11-12 22:01:23.184 (0x15B8):ErrorCode[0]_Add a new node,Node Index:174
+[I] 2008-11-12 22:01:53.360 (0x15B8):ErrorCode[0]_Update node info,Node ID:367
+[I] 2008-11-12 22:01:54.480 (0x15B8):ErrorCode[0]_Callflow saved successful!,Callflow ID:108
+[I] 2008-11-12 22:02:03.312 (0x15B8):ErrorCode[0]_Add a new node,Node Index:175
+[I] 2008-11-12 22:02:33.792 (0x15B8):ErrorCode[0]_Update node info,Node ID:431
+[I] 2008-11-12 22:02:35.152 (0x15B8):ErrorCode[0]_Add a new node,Node Index:176
+[I] 2008-11-12 22:02:48.720 (0x15B8):ErrorCode[0]_Callflow saved successful!,Callflow ID:108
+[I] 2008-11-12 22:03:11.936 (0x15B8):ErrorCode[0]_Successful Synchronized CallFlow! CallFlow ID:108.
+[I] 2008-11-12 22:05:44.872 (0x15B8):ErrorCode[0]_Add a new node,Node Index:177
+[I] 2008-11-12 22:06:00.112 (0x15B8):ErrorCode[0]_Update node info,Node ID:433
+[I] 2008-11-12 22:06:07.888 (0x15B8):ErrorCode[0]_Add a new node,Node Index:178
+[I] 2008-11-12 22:06:13.064 (0x15B8):ErrorCode[0]_Callflow saved successful!,Callflow ID:108
+[I] 2008-11-12 22:06:34.576 (0x15B8):ErrorCode[0]_Update node info,Node ID:431
+[I] 2008-11-12 22:06:35.984 (0x15B8):ErrorCode[0]_Callflow saved successful!,Callflow ID:108
+[I] 2008-11-12 22:06:39.952 (0x15B8):ErrorCode[0]_Successful Synchronized CallFlow! CallFlow ID:108.
+[I] 2008-11-13 14:37:03.436 (0x15B8):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2008-11-13 14:37:05.516 (0x15B8):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:240 Callflow Name:
+[I] 2008-11-13 14:37:05.560 (0x15B8):ErrorCode[0]_Create a new Callflow,CallFlow ID:240
+[E] 2008-11-13 14:37:05.576 (0x15B8):ErrorCode[0]_Get callflow date file information failed when import a callflow!,
+[I] 2008-11-13 14:37:05.780 (0x15B8):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2008-11-13 14:37:17.216 (0x15B8):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:240 Callflow Name:IKEAMainCallFlow
+[I] 2008-11-13 14:37:17.624 (0x15B8):ErrorCode[0]_ImportFlowData(D:\My Documents\方案报价\FromJacky\IKEA\IKEA IVR CallFlow\IKEA.PVC) successful!.
+[E] 2008-11-13 14:37:17.624 (0x15B8):ErrorCode[0]_ImportFlowData(D:\My Documents\方案报价\FromJacky\IKEA\IKEA IVR CallFlow\IKEA.PVC) got error,,
+[I] 2008-11-13 14:37:17.656 (0x15B8):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:240 Callflow Name:IKEAMainCallFlow
+[I] 2008-11-13 14:37:17.688 (0x15B8):ErrorCode[0]_Open Resource Record...,Project ID:240
+[I] 2008-11-13 14:37:29.172 (0x15B8):ErrorCode[0]_Open Resource Record...,Project ID:240

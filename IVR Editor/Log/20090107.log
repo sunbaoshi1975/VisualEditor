@@ -1,0 +1,6 @@
+[I] 2009-01-07 12:42:52.876 (0x17B0):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.6
+[I] 2009-01-07 12:42:54.172 (0x17B0):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2009-01-07 12:42:59.920 (0x17B0):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:151 Callflow Name:dimob
+[I] 2009-01-07 12:43:00.000 (0x17B0):ErrorCode[0]_Open Resource Record...,Project ID:150
+[I] 2009-01-07 13:44:12.904 (0x17B0):ErrorCode[0]_Callflow Closed!,Callflow ID:151 Callflow Name:dimob
+[I] 2009-01-07 13:44:12.936 (0x17B0):ErrorCode[0]_Visual IVR Editor Shutdown....

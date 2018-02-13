@@ -1,0 +1,10 @@
+[I] 2009-05-09 17:47:05.576 (0x1078):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.6
+[E] 2009-05-09 17:48:09.576 (0x1078):ErrorCode[-2147467259]_Connect to Database failed! ConnectionString:DSN=ciscodemo;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter,[Microsoft][ODBC SQL Server Driver][DBNETLIB]SQL Server 不存在或访问被拒绝
+[I] 2009-05-09 17:50:21.484 (0x1078):ErrorCode[0]_Callflow Closed!,Callflow ID:0 Callflow Name:
+[I] 2009-05-09 17:50:21.560 (0x1078):ErrorCode[0]_Option changed successful! .
+[E] 2009-05-09 17:51:25.904 (0x1078):ErrorCode[-2147467259]_Connect to Database failed! ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter,[DBNETLIB][ConnectionOpen (Connect()).]SQL Server 不存在或拒绝访问。
+[I] 2009-05-09 17:53:50.688 (0x1078):ErrorCode[0]_Callflow Closed!,Callflow ID:0 Callflow Name:
+[I] 2009-05-09 17:53:50.736 (0x1078):ErrorCode[0]_Option changed successful! .
+[E] 2009-05-09 17:54:35.264 (0x1078):ErrorCode[-2147467259]_Connect to Database failed! ConnectionString:DSN=dbCallcenter;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter,[Microsoft][ODBC SQL Server Driver][DBNETLIB]SQL Server 不存在或访问被拒绝
+[I] 2009-05-09 17:55:33.720 (0x1078):ErrorCode[0]_Callflow Closed!,Callflow ID:0 Callflow Name:
+[I] 2009-05-09 17:55:33.764 (0x1078):ErrorCode[0]_Visual IVR Editor Shutdown....

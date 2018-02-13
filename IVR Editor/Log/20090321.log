@@ -1,0 +1,77 @@
+[I] 2009-03-21 00:53:09.234 (0x0C7C):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.6
+[I] 2009-03-21 00:53:10.062 (0x0C7C):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2009-03-21 02:45:29.593 (0x0C7C):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:109 Callflow Name:PowerDISA
+[I] 2009-03-21 02:45:29.765 (0x0C7C):ErrorCode[0]_Open Resource Record...,Project ID:108
+[I] 2009-03-21 18:10:46.764 (0x0C7C):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2009-03-21 18:11:00.592 (0x0C7C):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:151 Callflow Name:dimob
+[I] 2009-03-21 18:11:00.608 (0x0C7C):ErrorCode[0]_Open Resource Record...,Project ID:150
+[I] 2009-03-21 18:12:53.796 (0x0C7C):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2009-03-21 18:13:05.220 (0x0C7C):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:52 Callflow Name:锦江外拨流程
+[E] 2009-03-21 18:13:05.232 (0x0C7C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[I] 2009-03-21 18:13:05.232 (0x0C7C):ErrorCode[0]_Open Resource Record...,Project ID:51
+[E] 2009-03-21 18:13:05.248 (0x0C7C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2009-03-21 18:13:05.248 (0x0C7C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2009-03-21 18:13:05.248 (0x0C7C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2009-03-21 18:13:05.264 (0x0C7C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2009-03-21 18:13:05.264 (0x0C7C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2009-03-21 18:13:05.280 (0x0C7C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2009-03-21 18:13:05.280 (0x0C7C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2009-03-21 18:13:05.280 (0x0C7C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2009-03-21 18:13:05.296 (0x0C7C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2009-03-21 18:13:05.296 (0x0C7C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2009-03-21 18:13:05.312 (0x0C7C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2009-03-21 18:13:05.312 (0x0C7C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2009-03-21 18:13:05.312 (0x0C7C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2009-03-21 18:13:05.328 (0x0C7C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2009-03-21 18:13:05.328 (0x0C7C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2009-03-21 18:13:05.344 (0x0C7C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2009-03-21 18:13:05.344 (0x0C7C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2009-03-21 18:13:05.360 (0x0C7C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2009-03-21 18:13:05.360 (0x0C7C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2009-03-21 18:13:05.360 (0x0C7C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2009-03-21 18:13:05.360 (0x0C7C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2009-03-21 18:13:05.360 (0x0C7C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2009-03-21 18:13:05.360 (0x0C7C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2009-03-21 18:13:05.376 (0x0C7C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2009-03-21 18:13:05.376 (0x0C7C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2009-03-21 18:13:05.376 (0x0C7C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[I] 2009-03-21 18:13:32.204 (0x0C7C):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2009-03-21 18:13:43.656 (0x0C7C):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:222 Callflow Name:IVR外拨流程
+[E] 2009-03-21 18:13:43.656 (0x0C7C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 222,使用 Null 无效
+[I] 2009-03-21 18:13:43.672 (0x0C7C):ErrorCode[0]_Open Resource Record...,Project ID:222
+[E] 2009-03-21 18:13:43.688 (0x0C7C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 222,使用 Null 无效
+[E] 2009-03-21 18:13:43.688 (0x0C7C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 222,使用 Null 无效
+[E] 2009-03-21 18:13:43.688 (0x0C7C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 222,使用 Null 无效
+[E] 2009-03-21 18:13:43.704 (0x0C7C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 222,使用 Null 无效
+[E] 2009-03-21 18:13:43.704 (0x0C7C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 222,使用 Null 无效
+[E] 2009-03-21 18:13:43.720 (0x0C7C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 222,使用 Null 无效
+[E] 2009-03-21 18:13:43.720 (0x0C7C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 222,使用 Null 无效
+[E] 2009-03-21 18:13:43.736 (0x0C7C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 222,使用 Null 无效
+[E] 2009-03-21 18:13:43.736 (0x0C7C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 222,使用 Null 无效
+[E] 2009-03-21 18:13:43.736 (0x0C7C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 222,使用 Null 无效
+[E] 2009-03-21 18:13:43.752 (0x0C7C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 222,使用 Null 无效
+[E] 2009-03-21 18:13:43.752 (0x0C7C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 222,使用 Null 无效
+[E] 2009-03-21 18:13:43.764 (0x0C7C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 222,使用 Null 无效
+[E] 2009-03-21 18:13:43.780 (0x0C7C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 222,使用 Null 无效
+[E] 2009-03-21 18:13:43.780 (0x0C7C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 222,使用 Null 无效
+[E] 2009-03-21 18:13:43.780 (0x0C7C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 222,使用 Null 无效
+[E] 2009-03-21 18:13:43.780 (0x0C7C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 222,使用 Null 无效
+[E] 2009-03-21 18:13:43.780 (0x0C7C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 222,使用 Null 无效
+[E] 2009-03-21 18:13:43.780 (0x0C7C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 222,使用 Null 无效
+[E] 2009-03-21 18:13:43.796 (0x0C7C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 222,使用 Null 无效
+[E] 2009-03-21 18:13:43.796 (0x0C7C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 222,使用 Null 无效
+[E] 2009-03-21 18:13:43.796 (0x0C7C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 222,使用 Null 无效
+[E] 2009-03-21 18:13:43.796 (0x0C7C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 222,使用 Null 无效
+[E] 2009-03-21 18:13:43.796 (0x0C7C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 222,使用 Null 无效
+[E] 2009-03-21 18:13:43.812 (0x0C7C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 222,使用 Null 无效
+[E] 2009-03-21 18:13:43.812 (0x0C7C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 222,使用 Null 无效
+[E] 2009-03-21 18:13:43.812 (0x0C7C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 222,使用 Null 无效
+[I] 2009-03-21 19:41:17.440 (0x0C7C):ErrorCode[0]_Update node info,Node ID:426
+[I] 2009-03-21 19:41:19.032 (0x0C7C):ErrorCode[0]_Callflow saved successful!,Callflow ID:109
+[I] 2009-03-21 19:43:26.872 (0x0C7C):ErrorCode[0]_Successful Synchronized CallFlow! CallFlow ID:109.
+[I] 2009-03-21 19:44:12.968 (0x0C7C):ErrorCode[0]_Resource synchronized Successful! Project ID:108.
+[I] 2009-03-21 19:55:06.280 (0x0C7C):ErrorCode[0]_Callflow Closed!,Callflow ID:109 Callflow Name:PowerDISA
+[I] 2009-03-21 19:55:17.824 (0x0C7C):ErrorCode[0]_Callflow Closed!,Callflow ID:151 Callflow Name:dimob
+[I] 2009-03-21 19:55:17.872 (0x0C7C):ErrorCode[0]_Callflow Closed!,Callflow ID:52 Callflow Name:锦江外拨流程
+[I] 2009-03-21 19:55:17.904 (0x0C7C):ErrorCode[0]_Callflow Closed!,Callflow ID:222 Callflow Name:IVR外拨流程
+[I] 2009-03-21 19:55:17.920 (0x0C7C):ErrorCode[0]_Visual IVR Editor Shutdown....

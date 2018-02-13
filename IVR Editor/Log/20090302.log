@@ -1,0 +1,8 @@
+[I] 2009-03-02 11:01:59.560 (0x031C):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.6
+[I] 2009-03-02 11:02:01.048 (0x031C):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2009-03-02 11:02:18.688 (0x031C):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:219 Callflow Name:HandPay User Check
+[I] 2009-03-02 11:02:18.812 (0x031C):ErrorCode[0]_Open Resource Record...,Project ID:218
+[I] 2009-03-02 11:02:45.860 (0x031C):ErrorCode[0]_Successful Synchronized CallFlow! CallFlow ID:219.
+[I] 2009-03-02 11:02:51.796 (0x031C):ErrorCode[0]_Resource synchronized Successful! Project ID:218.
+[I] 2009-03-02 11:39:55.764 (0x031C):ErrorCode[0]_Callflow Closed!,Callflow ID:219 Callflow Name:HandPay User Check
+[I] 2009-03-02 11:39:55.812 (0x031C):ErrorCode[0]_Visual IVR Editor Shutdown....

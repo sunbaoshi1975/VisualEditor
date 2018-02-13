@@ -1,0 +1,155 @@
+[I] 2010-09-19 18:30:30.336 (0x1484):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.7
+[I] 2010-09-19 18:30:32.948 (0x1484):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2010-09-19 18:31:04.292 (0x1484):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2010-09-19 18:31:10.636 (0x1484):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:241 Callflow Name:IKEA_UMS
+[I] 2010-09-19 18:31:16.028 (0x1484):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:242 Callflow Name:
+[I] 2010-09-19 18:31:16.152 (0x1484):ErrorCode[0]_Create a new Callflow,CallFlow ID:242
+[E] 2010-09-19 18:31:16.184 (0x1484):ErrorCode[0]_Get callflow date file information failed when import a callflow!,
+[I] 2010-09-19 18:31:16.212 (0x1484):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:242 Callflow Name:IKEA Survey
+[I] 2010-09-19 18:31:16.336 (0x1484):ErrorCode[0]_ImportFlowData(D:\Voice\IVRSpecialCom\IVRSpecialCom\Survey_Demo.PVC) successful!.
+[E] 2010-09-19 18:31:16.336 (0x1484):ErrorCode[0]_ImportFlowData(D:\Voice\IVRSpecialCom\IVRSpecialCom\Survey_Demo.PVC) got error,,
+[I] 2010-09-19 18:31:16.384 (0x1484):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:242 Callflow Name:IKEA Survey
+[I] 2010-09-19 18:31:16.528 (0x1484):ErrorCode[0]_Open Resource Record...,Project ID:241
+[I] 2010-09-19 18:32:24.104 (0x1484):ErrorCode[0]_Open Resource Record...,Project ID:241
+[I] 2010-09-19 18:33:43.244 (0x1484):ErrorCode[0]_Delete a node,Node Index:16
+[I] 2010-09-19 18:33:44.072 (0x1484):ErrorCode[0]_Delete a node,Node Index:18
+[I] 2010-09-19 18:33:45.196 (0x1484):ErrorCode[0]_Delete a node,Node Index:20
+[I] 2010-09-19 18:33:49.040 (0x1484):ErrorCode[0]_Delete a node,Node Index:17
+[I] 2010-09-19 18:33:50.104 (0x1484):ErrorCode[0]_Delete a node,Node Index:23
+[I] 2010-09-19 18:33:52.776 (0x1484):ErrorCode[0]_Delete a node,Node Index:19
+[I] 2010-09-19 18:33:52.776 (0x1484):ErrorCode[0]_Delete a node,Node Index:21
+[I] 2010-09-19 18:33:52.776 (0x1484):ErrorCode[0]_Delete a node,Node Index:22
+[I] 2010-09-19 18:33:52.776 (0x1484):ErrorCode[0]_Delete a node,Node Index:24
+[I] 2010-09-19 18:34:12.868 (0x1484):ErrorCode[0]_Callflow saved successful!,Callflow ID:242
+[I] 2010-09-19 19:15:28.576 (0x1484):ErrorCode[0]_Successful Synchronized CallFlow! CallFlow ID:242.
+[I] 2010-09-19 19:15:35.944 (0x1484):ErrorCode[0]_Resource synchronized Successful! Project ID:241.
+[I] 2010-09-19 19:29:10.856 (0x1484):ErrorCode[0]_Callflow saved successful!,Callflow ID:242
+[I] 2010-09-19 19:29:10.904 (0x1484):ErrorCode[0]_Callflow Closed!,Callflow ID:242 Callflow Name:IKEA Survey
+[I] 2010-09-19 19:29:10.928 (0x1484):ErrorCode[0]_Option changed successful! .
+[I] 2010-09-19 19:29:13.040 (0x1484):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=IVRDemo;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter
+[I] 2010-09-19 19:29:20.336 (0x1484):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:195 Callflow Name:CJ Survey
+[E] 2010-09-19 19:29:20.336 (0x1484):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 195,使用 Null 无效
+[I] 2010-09-19 19:29:20.368 (0x1484):ErrorCode[0]_Open Resource Record...,Project ID:195
+[E] 2010-09-19 19:29:20.368 (0x1484):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 195,使用 Null 无效
+[E] 2010-09-19 19:29:20.368 (0x1484):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 195,使用 Null 无效
+[E] 2010-09-19 19:29:20.384 (0x1484):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 195,使用 Null 无效
+[E] 2010-09-19 19:29:20.384 (0x1484):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 195,使用 Null 无效
+[E] 2010-09-19 19:29:20.384 (0x1484):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 195,使用 Null 无效
+[E] 2010-09-19 19:29:20.400 (0x1484):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 195,使用 Null 无效
+[E] 2010-09-19 19:29:20.400 (0x1484):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 195,使用 Null 无效
+[E] 2010-09-19 19:29:20.400 (0x1484):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 195,使用 Null 无效
+[E] 2010-09-19 19:29:20.400 (0x1484):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 195,使用 Null 无效
+[E] 2010-09-19 19:29:20.416 (0x1484):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 195,使用 Null 无效
+[E] 2010-09-19 19:29:20.416 (0x1484):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 195,使用 Null 无效
+[E] 2010-09-19 19:29:20.416 (0x1484):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 195,使用 Null 无效
+[E] 2010-09-19 19:29:20.416 (0x1484):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 195,使用 Null 无效
+[E] 2010-09-19 19:29:20.432 (0x1484):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 195,使用 Null 无效
+[I] 2010-09-19 19:29:28.840 (0x1484):ErrorCode[0]_Resource synchronized Successful! Project ID:195.
+[I] 2010-09-19 19:29:41.288 (0x1484):ErrorCode[0]_Successful Synchronized CallFlow! CallFlow ID:195.
+[I] 2010-09-19 19:30:17.760 (0x1484):ErrorCode[0]_Callflow Closed!,Callflow ID:195 Callflow Name:CJ Survey
+[I] 2010-09-19 19:30:17.808 (0x1484):ErrorCode[0]_Option changed successful! .
+[I] 2010-09-19 19:30:20.432 (0x1484):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2010-09-19 19:30:26.152 (0x1484):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:195 Callflow Name:CJ Survey
+[E] 2010-09-19 19:30:26.152 (0x1484):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 195,使用 Null 无效
+[I] 2010-09-19 19:30:26.152 (0x1484):ErrorCode[0]_Open Resource Record...,Project ID:195
+[E] 2010-09-19 19:30:26.168 (0x1484):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 195,使用 Null 无效
+[E] 2010-09-19 19:30:26.168 (0x1484):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 195,使用 Null 无效
+[E] 2010-09-19 19:30:26.168 (0x1484):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 195,使用 Null 无效
+[E] 2010-09-19 19:30:26.168 (0x1484):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 195,使用 Null 无效
+[E] 2010-09-19 19:30:26.184 (0x1484):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 195,使用 Null 无效
+[E] 2010-09-19 19:30:26.184 (0x1484):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 195,使用 Null 无效
+[E] 2010-09-19 19:30:26.184 (0x1484):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 195,使用 Null 无效
+[E] 2010-09-19 19:30:26.184 (0x1484):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 195,使用 Null 无效
+[E] 2010-09-19 19:30:26.200 (0x1484):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 195,使用 Null 无效
+[E] 2010-09-19 19:30:26.200 (0x1484):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 195,使用 Null 无效
+[E] 2010-09-19 19:30:26.200 (0x1484):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 195,使用 Null 无效
+[E] 2010-09-19 19:30:26.200 (0x1484):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 195,使用 Null 无效
+[E] 2010-09-19 19:30:26.216 (0x1484):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 195,使用 Null 无效
+[E] 2010-09-19 19:30:26.216 (0x1484):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 195,使用 Null 无效
+[I] 2010-09-19 19:41:40.464 (0x1484):ErrorCode[0]_Callflow saved successful!,Callflow ID:195
+[I] 2010-09-19 19:43:11.056 (0x1484):ErrorCode[0]_Callflow saved successful!,Callflow ID:195
+[I] 2010-09-19 19:45:01.040 (0x1484):ErrorCode[0]_Add a new node,Node Index:16
+[I] 2010-09-19 19:45:05.976 (0x1484):ErrorCode[0]_Add a new node,Node Index:17
+[I] 2010-09-19 19:45:39.888 (0x1484):ErrorCode[0]_Update node info,Node ID:267
+[I] 2010-09-19 19:45:46.856 (0x1484):ErrorCode[0]_Add a new node,Node Index:18
+[I] 2010-09-19 19:45:53.696 (0x1484):ErrorCode[0]_Callflow saved successful!,Callflow ID:195
+[I] 2010-09-19 19:46:03.216 (0x1484):ErrorCode[0]_Successful Synchronized CallFlow! CallFlow ID:195.
+[I] 2010-09-19 19:54:29.696 (0x1484):ErrorCode[0]_Add a new node,Node Index:19
+[I] 2010-09-19 19:54:44.592 (0x1484):ErrorCode[0]_Update node info,Node ID:269
+[I] 2010-09-19 19:54:56.104 (0x1484):ErrorCode[0]_Update node info,Node ID:269
+[I] 2010-09-19 19:55:07.040 (0x1484):ErrorCode[0]_Add a new node,Node Index:20
+[I] 2010-09-19 19:55:12.240 (0x1484):ErrorCode[0]_Callflow saved successful!,Callflow ID:195
+[I] 2010-09-19 20:01:17.744 (0x1484):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2010-09-19 20:02:30.152 (0x198C):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.7
+[I] 2010-09-19 20:02:30.496 (0x198C):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2010-09-19 20:05:17.648 (0x1FE0):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.7
+[I] 2010-09-19 20:05:17.992 (0x1FE0):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2010-09-19 20:10:10.760 (0x14D0):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.7
+[I] 2010-09-19 20:10:11.248 (0x14D0):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2010-09-19 20:10:44.512 (0x1C54):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.7
+[I] 2010-09-19 20:11:09.464 (0x1C54):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2010-09-19 20:12:51.528 (0x1D9C):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.7
+[I] 2010-09-19 20:12:51.872 (0x1D9C):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2010-09-19 20:14:25.840 (0x1D5C):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.7
+[I] 2010-09-19 20:14:26.200 (0x1D5C):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2010-09-19 20:14:35.168 (0x1D5C):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:195 Callflow Name:CJ Survey
+[E] 2010-09-19 20:14:35.248 (0x1D5C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 195,使用 Null 无效
+[I] 2010-09-19 20:14:35.320 (0x1D5C):ErrorCode[0]_Open Resource Record...,Project ID:195
+[E] 2010-09-19 20:14:35.336 (0x1D5C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 195,使用 Null 无效
+[E] 2010-09-19 20:14:35.352 (0x1D5C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 195,使用 Null 无效
+[E] 2010-09-19 20:14:35.368 (0x1D5C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 195,使用 Null 无效
+[E] 2010-09-19 20:14:35.400 (0x1D5C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 195,使用 Null 无效
+[E] 2010-09-19 20:14:35.416 (0x1D5C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 195,使用 Null 无效
+[I] 2010-09-19 20:14:41.560 (0x1D5C):ErrorCode[0]_Successful Synchronized CallFlow! CallFlow ID:195.
+[I] 2010-09-19 20:28:15.448 (0x1D5C):ErrorCode[0]_Callflow Closed!,Callflow ID:195 Callflow Name:CJ Survey
+[I] 2010-09-19 20:28:15.496 (0x1D5C):ErrorCode[0]_Visual IVR Editor Shutdown....
+[I] 2010-09-19 21:02:11.472 (0x110C):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.7
+[I] 2010-09-19 21:02:12.264 (0x110C):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2010-09-19 21:02:26.232 (0x110C):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:195 Callflow Name:CJ Survey
+[E] 2010-09-19 21:02:26.296 (0x110C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 195,使用 Null 无效
+[I] 2010-09-19 21:02:26.392 (0x110C):ErrorCode[0]_Open Resource Record...,Project ID:195
+[E] 2010-09-19 21:02:26.408 (0x110C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 195,使用 Null 无效
+[E] 2010-09-19 21:02:26.424 (0x110C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 195,使用 Null 无效
+[E] 2010-09-19 21:02:26.440 (0x110C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 195,使用 Null 无效
+[E] 2010-09-19 21:02:26.456 (0x110C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 195,使用 Null 无效
+[E] 2010-09-19 21:02:26.456 (0x110C):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 195,使用 Null 无效
+[I] 2010-09-19 21:03:56.816 (0x110C):ErrorCode[0]_Delete a node,Node Index:19
+[I] 2010-09-19 21:03:57.968 (0x110C):ErrorCode[0]_Delete a node,Node Index:20
+[I] 2010-09-19 21:05:09.168 (0x110C):ErrorCode[0]_Update node info,Node ID:267
+[I] 2010-09-19 21:05:30.464 (0x110C):ErrorCode[0]_Update node info,Node ID:261
+[I] 2010-09-19 21:05:31.904 (0x110C):ErrorCode[0]_Callflow saved successful!,Callflow ID:195
+[I] 2010-09-19 21:05:36.376 (0x110C):ErrorCode[0]_Successful Synchronized CallFlow! CallFlow ID:195.
+[I] 2010-09-19 21:06:46.264 (0x110C):ErrorCode[0]_Add a new node,Node Index:21
+[I] 2010-09-19 21:07:08.816 (0x110C):ErrorCode[0]_Update node info,Node ID:271
+[I] 2010-09-19 21:07:16.096 (0x110C):ErrorCode[0]_Add a new node,Node Index:22
+[I] 2010-09-19 21:07:24.720 (0x110C):ErrorCode[0]_Add a new node,Node Index:23
+[I] 2010-09-19 21:07:34.496 (0x110C):ErrorCode[0]_Update node info,Node ID:267
+[I] 2010-09-19 21:07:45.560 (0x110C):ErrorCode[0]_Update node info,Node ID:273
+[I] 2010-09-19 21:07:52.264 (0x110C):ErrorCode[0]_Add a new node,Node Index:24
+[I] 2010-09-19 21:07:59.168 (0x110C):ErrorCode[0]_Callflow saved successful!,Callflow ID:195
+[I] 2010-09-19 21:08:03.392 (0x110C):ErrorCode[0]_Successful Synchronized CallFlow! CallFlow ID:195.
+[I] 2010-09-19 21:11:09.408 (0x110C):ErrorCode[0]_Callflow saved successful!,Callflow ID:195
+[I] 2010-09-19 21:13:11.512 (0x110C):ErrorCode[0]_Update node info,Node ID:261
+[I] 2010-09-19 21:15:57.016 (0x110C):ErrorCode[0]_Delete a node,Node Index:13
+[I] 2010-09-19 21:15:57.752 (0x110C):ErrorCode[0]_Delete a node,Node Index:14
+[I] 2010-09-19 21:15:58.328 (0x110C):ErrorCode[0]_Delete a node,Node Index:17
+[I] 2010-09-19 21:15:59.032 (0x110C):ErrorCode[0]_Delete a node,Node Index:18
+[I] 2010-09-19 21:15:59.504 (0x110C):ErrorCode[0]_Delete a node,Node Index:23
+[I] 2010-09-19 21:16:00.376 (0x110C):ErrorCode[0]_Delete a node,Node Index:24
+[I] 2010-09-19 21:16:01.672 (0x110C):ErrorCode[0]_Callflow saved successful!,Callflow ID:195
+[I] 2010-09-19 21:16:05.016 (0x110C):ErrorCode[0]_Callflow saved successful!,Callflow ID:195
+[I] 2010-09-19 21:16:07.920 (0x110C):ErrorCode[0]_Successful Synchronized CallFlow! CallFlow ID:195.
+[I] 2010-09-19 21:19:24.360 (0x110C):ErrorCode[0]_Add a new node,Node Index:25
+[I] 2010-09-19 21:19:34.936 (0x110C):ErrorCode[0]_Update node info,Node ID:275
+[I] 2010-09-19 21:19:40.784 (0x110C):ErrorCode[0]_Update node info,Node ID:261
+[I] 2010-09-19 21:19:47.080 (0x110C):ErrorCode[0]_Add a new node,Node Index:26
+[I] 2010-09-19 21:20:05.264 (0x110C):ErrorCode[0]_Update node info,Node ID:275
+[I] 2010-09-19 21:20:06.672 (0x110C):ErrorCode[0]_Callflow saved successful!,Callflow ID:195
+[I] 2010-09-19 21:20:16.920 (0x110C):ErrorCode[0]_Successful Synchronized CallFlow! CallFlow ID:195.
+[I] 2010-09-19 21:26:08.840 (0x110C):ErrorCode[0]_Update node info,Node ID:259
+[I] 2010-09-19 21:26:10.464 (0x110C):ErrorCode[0]_Callflow saved successful!,Callflow ID:195
+[I] 2010-09-19 21:26:18.984 (0x110C):ErrorCode[0]_Successful Synchronized CallFlow! CallFlow ID:195.
+[I] 2010-09-19 21:53:50.096 (0x110C):ErrorCode[0]_Export Callflow Data to the file successful !,File Path:D:\Voice\IVRSpecialCom\195_new.PVC
+[E] 2010-09-19 21:53:50.112 (0x110C):ErrorCode[0]_Failed to export Callflow Data to the file:D:\Voice\IVRSpecialCom\195_new.PVC!,
+[I] 2010-09-19 21:53:55.200 (0x110C):ErrorCode[0]_Callflow Closed!,Callflow ID:195 Callflow Name:CJ Survey
+[I] 2010-09-19 21:53:55.248 (0x110C):ErrorCode[0]_Visual IVR Editor Shutdown....

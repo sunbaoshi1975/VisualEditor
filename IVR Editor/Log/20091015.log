@@ -1,0 +1,33 @@
+[I] 2009-10-15 19:37:23.632 (0x0C08):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.7
+[I] 2009-10-15 19:37:27.496 (0x0C08):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2009-10-15 19:58:59.248 (0x0C08):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:52 Callflow Name:锦江外拨流程
+[E] 2009-10-15 19:58:59.296 (0x0C08):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[I] 2009-10-15 19:58:59.432 (0x0C08):ErrorCode[0]_Open Resource Record...,Project ID:51
+[E] 2009-10-15 19:58:59.448 (0x0C08):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2009-10-15 19:58:59.464 (0x0C08):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2009-10-15 19:58:59.480 (0x0C08):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2009-10-15 19:58:59.496 (0x0C08):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2009-10-15 19:58:59.512 (0x0C08):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2009-10-15 19:58:59.576 (0x0C08):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2009-10-15 19:58:59.592 (0x0C08):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2009-10-15 19:58:59.600 (0x0C08):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2009-10-15 19:58:59.632 (0x0C08):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2009-10-15 19:58:59.648 (0x0C08):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2009-10-15 19:58:59.664 (0x0C08):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2009-10-15 19:58:59.680 (0x0C08):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2009-10-15 19:58:59.696 (0x0C08):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2009-10-15 19:58:59.712 (0x0C08):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2009-10-15 19:58:59.744 (0x0C08):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2009-10-15 19:58:59.776 (0x0C08):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2009-10-15 19:58:59.792 (0x0C08):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2009-10-15 19:58:59.808 (0x0C08):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2009-10-15 19:58:59.824 (0x0C08):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2009-10-15 19:58:59.856 (0x0C08):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2009-10-15 19:58:59.904 (0x0C08):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2009-10-15 19:58:59.936 (0x0C08):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2009-10-15 19:58:59.952 (0x0C08):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2009-10-15 19:58:59.976 (0x0C08):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2009-10-15 19:58:59.992 (0x0C08):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[E] 2009-10-15 19:59:00.008 (0x0C08):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 52,使用 Null 无效
+[I] 2009-10-15 19:59:21.216 (0x0C08):ErrorCode[0]_Callflow Closed!,Callflow ID:52 Callflow Name:锦江外拨流程
+[I] 2009-10-15 19:59:21.496 (0x0C08):ErrorCode[0]_Visual IVR Editor Shutdown....

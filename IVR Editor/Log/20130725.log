@@ -1,0 +1,16 @@
+[I] 2013-07-25 11:55:06.800 (0x06D0):ErrorCode[0]_Visual IVR Editor Started...,Version:6.10.4
+[I] 2013-07-25 11:55:10.504 (0x06D0):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=dbCallcenter;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter
+[I] 2013-07-25 11:55:16.316 (0x06D0):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:1 Callflow Name:Test Demo
+[I] 2013-07-25 11:55:16.488 (0x06D0):ErrorCode[0]_Open Resource Record...,Project ID:1
+[I] 2013-07-25 11:55:27.864 (0x06D0):ErrorCode[0]_Add a new node,Node Index:29
+[I] 2013-07-25 12:00:02.456 (0x06D0):ErrorCode[0]_Add a new node,Node Index:30
+[I] 2013-07-25 12:00:22.632 (0x06D0):ErrorCode[0]_Add a new node,Node Index:31
+[I] 2013-07-25 12:05:22.128 (0x06D0):ErrorCode[0]_Callflow Closed!,Callflow ID:1 Callflow Name:Test Demo
+[I] 2013-07-25 12:05:22.316 (0x06D0):ErrorCode[0]_Visual IVR Editor Shutdown....
+[I] 2013-07-25 19:19:06.448 (0x0C94):ErrorCode[0]_Visual IVR Editor Started...,Version:6.10.4
+[I] 2013-07-25 19:19:09.120 (0x0C94):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=dbCallcenter;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter
+[I] 2013-07-25 19:19:13.792 (0x0C94):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:1 Callflow Name:Test Demo
+[I] 2013-07-25 19:19:14.008 (0x0C94):ErrorCode[0]_Open Resource Record...,Project ID:1
+[I] 2013-07-25 19:19:22.648 (0x0C94):ErrorCode[0]_Add a new node,Node Index:29
+[I] 2013-07-25 19:19:31.776 (0x0C94):ErrorCode[0]_Callflow Closed!,Callflow ID:1 Callflow Name:Test Demo
+[I] 2013-07-25 19:19:31.928 (0x0C94):ErrorCode[0]_Visual IVR Editor Shutdown....

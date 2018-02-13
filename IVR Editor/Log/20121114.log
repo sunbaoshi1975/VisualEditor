@@ -1,0 +1,15 @@
+[I] 2012-11-14 03:26:48.702 (0x0954):ErrorCode[0]_Visual IVR Editor Started...,Version:6.10.3
+[I] 2012-11-14 03:26:50.077 (0x0954):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2012-11-14 03:27:05.967 (0x0954):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2012-11-14 03:27:08.358 (0x0954):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:226 Callflow Name:NB Fotile
+[I] 2012-11-14 03:27:11.030 (0x0954):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:226 Callflow Name:
+[I] 2012-11-14 03:27:11.061 (0x0954):ErrorCode[0]_Create a new Callflow,CallFlow ID:226
+[E] 2012-11-14 03:27:11.061 (0x0954):ErrorCode[0]_Get callflow date file information failed when import a callflow!,
+[I] 2012-11-14 03:27:11.077 (0x0954):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:226 Callflow Name:NB Fotile
+[I] 2012-11-14 03:27:11.623 (0x0954):ErrorCode[0]_ImportFlowData(C:\Documents and Settings\Administrator\×ÀÃæ\Fotile 8Key\CallFlow\226.PVC) successful!.
+[E] 2012-11-14 03:27:11.623 (0x0954):ErrorCode[0]_ImportFlowData(C:\Documents and Settings\Administrator\×ÀÃæ\Fotile 8Key\CallFlow\226.PVC) got error,,
+[I] 2012-11-14 03:27:11.670 (0x0954):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:226 Callflow Name:NB Fotile
+[I] 2012-11-14 03:27:11.827 (0x0954):ErrorCode[0]_Open Resource Record...,Project ID:226
+[I] 2012-11-14 03:27:24.905 (0x0954):ErrorCode[0]_Open Resource Record...,Project ID:226
+[I] 2012-11-14 05:53:51.202 (0x0954):ErrorCode[0]_Callflow Closed!,Callflow ID:226 Callflow Name:NB Fotile
+[I] 2012-11-14 05:53:51.296 (0x0954):ErrorCode[0]_Visual IVR Editor Shutdown....

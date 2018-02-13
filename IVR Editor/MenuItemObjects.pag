@@ -1,0 +1,165 @@
+VERSION 5.00
+Begin VB.PropertyPage MenuItemObjects 
+   Caption         =   "MenuItemObjects"
+   ClientHeight    =   1770
+   ClientLeft      =   0
+   ClientTop       =   0
+   ClientWidth     =   4125
+   LockControls    =   -1  'True
+   PaletteMode     =   0  'Halftone
+   ScaleHeight     =   1770
+   ScaleWidth      =   4125
+   Begin VB.TextBox txtMenuItemTag 
+      Height          =   300
+      Left            =   2160
+      TabIndex        =   6
+      Top             =   1050
+      Width           =   1830
+   End
+   Begin VB.TextBox txtMenuItemKey 
+      Height          =   300
+      Left            =   2160
+      TabIndex        =   4
+      Top             =   330
+      Width           =   1830
+   End
+   Begin VB.CommandButton cmdBrowse 
+      Caption         =   "Browse..."
+      Height          =   330
+      Left            =   930
+      TabIndex        =   3
+      Top             =   1200
+      Width           =   1005
+   End
+   Begin VB.TextBox txtMenuItemCaption 
+      Height          =   300
+      Left            =   90
+      TabIndex        =   1
+      Top             =   330
+      Width           =   1830
+   End
+   Begin VB.Label lblMenuItemTag 
+      AutoSize        =   -1  'True
+      Caption         =   "MenuItemTag:"
+      Height          =   195
+      Left            =   2160
+      TabIndex        =   7
+      Top             =   780
+      Width           =   1035
+   End
+   Begin VB.Label lblMenuItemKey 
+      AutoSize        =   -1  'True
+      Caption         =   "MenuItemKey:"
+      Height          =   195
+      Left            =   2160
+      TabIndex        =   5
+      Top             =   75
+      Width           =   1020
+   End
+   Begin VB.Image imgPicture 
+      Height          =   480
+      Left            =   180
+      Top             =   1140
+      Width           =   480
+   End
+   Begin VB.Label Label1 
+      Caption         =   "MenuItemPicture:"
+      Height          =   195
+      Left            =   90
+      TabIndex        =   2
+      Top             =   780
+      Width           =   1245
+   End
+   Begin VB.Label lblMenuItemCaption 
+      AutoSize        =   -1  'True
+      Caption         =   "MenuItemCaption:"
+      Height          =   195
+      Left            =   90
+      TabIndex        =   0
+      Top             =   75
+      Width           =   1290
+   End
+End
+Attribute VB_Name = "MenuItemObjects"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = True
+Attribute VB_PredeclaredId = False
+Attribute VB_Exposed = True
+Option Explicit
+
+Private Declare Function GetOpenFileName Lib "comdlg32.dll" Alias "GetOpenFileNameA" (pOpenfilename As OPENFILENAME) As Long
+Private Type OPENFILENAME
+    lStructSize As Long
+    hwndOwner As Long
+    hInstance As Long
+    lpstrFilter As String
+    lpstrCustomFilter As String
+    nMaxCustFilter As Long
+    nFilterIndex As Long
+    lpstrFile As String
+    nMaxFile As Long
+    lpstrFileTitle As String
+    nMaxFileTitle As Long
+    lpstrInitialDir As String
+    lpstrTitle As String
+    flags As Long
+    nFileOffset As Integer
+    nFileExtension As Integer
+    lpstrDefExt As String
+    lCustData As Long
+    lpfnHook As Long
+    lpTemplateName As String
+End Type
+Private Const OFN_EXTENSIONDIFFERENT = &H400
+Private Const OFN_FILEMUSTEXIST = &H1000
+
+Private Sub cmdBrowse_Click()
+    On Error Resume Next
+    Dim m_ofn As OPENFILENAME
+    With m_ofn
+        .lStructSize = Len(m_ofn)
+        .hInstance = App.hInstance
+        .flags = OFN_EXTENSIONDIFFERENT + OFN_FILEMUSTEXIST
+        .hwndOwner = cmdBrowse.hWnd
+        .lpstrTitle = "Open Picture (ICO)"
+        .lpstrFilter = "IconFiles (*.ico)"
+        .lpstrDefExt = "ICO"
+        .lpstrFile = Space(249) & "*.ICO"
+        .nMaxFile = 260
+    End With
+    If GetOpenFileName(m_ofn) Then
+        imgPicture.Picture = LoadPicture(m_ofn.lpstrFile)
+        Changed = True
+    End If
+End Sub
+
+Private Sub txtMenuItemCaption_Change()
+    On Error Resume Next
+    Changed = True
+End Sub
+
+Private Sub PropertyPage_ApplyChanges()
+    On Error Resume Next
+    SelectedControls(0).MenuItemCaption = txtMenuItemCaption.Text
+    Set SelectedControls(0).MenuItemIcon = imgPicture.Picture
+    SelectedControls(0).MenuItemKey = txtMenuItemKey.Text
+    SelectedControls(0).MenuItemTag = txtMenuItemTag.Text
+End Sub
+
+Private Sub PropertyPage_SelectionChanged()
+    On Error Resume Next
+    txtMenuItemCaption.Text = SelectedControls(0).MenuItemCaption
+    Set imgPicture.Picture = SelectedControls(0).MenuItemIcon
+    txtMenuItemKey.Text = SelectedControls(0).MenuItemKey
+    txtMenuItemTag.Text = SelectedControls(0).MenuItemTag
+End Sub
+
+Private Sub txtMenuItemKey_Change()
+    On Error Resume Next
+    Changed = True
+End Sub
+
+Private Sub txtMenuItemTag_Change()
+    On Error Resume Next
+    Changed = True
+End Sub

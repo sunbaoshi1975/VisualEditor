@@ -1,0 +1,110 @@
+[I] 2010-05-17 12:44:32.016 (0x0CE4):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.7
+[I] 2010-05-17 12:44:33.516 (0x0CE4):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2010-05-17 12:45:32.436 (0x0CE4):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:77 Callflow Name:GSK Asthma
+[E] 2010-05-17 12:45:32.468 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[I] 2010-05-17 12:45:32.544 (0x0CE4):ErrorCode[0]_Open Resource Record...,Project ID:77
+[E] 2010-05-17 12:45:32.544 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.560 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.560 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.560 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.576 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.576 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.592 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.592 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.608 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.608 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.608 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.624 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.624 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.640 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.640 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.656 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.656 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.672 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.672 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.672 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.672 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.672 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.688 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.688 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.688 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.688 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.688 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.704 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.704 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.704 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.704 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.704 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.720 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.720 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.720 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.720 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.720 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.736 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.736 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.736 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.736 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.736 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.752 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.752 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.752 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.752 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.752 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.764 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.764 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.764 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.764 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.764 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.780 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.780 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.780 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.780 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.780 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.796 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.796 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.796 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.796 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.812 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.812 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.812 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.812 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.812 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.828 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.828 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.828 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.828 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.828 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.844 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.844 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.844 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.844 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.844 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.860 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.860 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.860 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.860 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.876 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.876 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.876 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[E] 2010-05-17 12:45:32.876 (0x0CE4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 77,使用 Null 无效
+[I] 2010-05-17 12:45:54.764 (0x0CE4):ErrorCode[0]_Export Callflow Data to the file successful !,File Path:D:\My Documents\77 - GSK Asthma.PVC
+[E] 2010-05-17 12:45:54.780 (0x0CE4):ErrorCode[0]_Failed to export Callflow Data to the file:D:\My Documents\77 - GSK Asthma.PVC!,
+[I] 2010-05-17 12:45:57.500 (0x0CE4):ErrorCode[0]_Callflow Closed!,Callflow ID:77 Callflow Name:GSK Asthma
+[I] 2010-05-17 12:46:02.296 (0x0CE4):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2010-05-17 12:46:33.624 (0x0CE4):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2010-05-17 12:46:36.376 (0x0CE4):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:77 Callflow Name:GSK Asthma
+[I] 2010-05-17 12:46:45.392 (0x0CE4):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:77 Callflow Name:
+[I] 2010-05-17 12:46:45.408 (0x0CE4):ErrorCode[0]_Create a new Callflow,CallFlow ID:77
+[E] 2010-05-17 12:46:45.420 (0x0CE4):ErrorCode[0]_Get callflow date file information failed when import a callflow!,
+[I] 2010-05-17 12:46:45.452 (0x0CE4):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:77 Callflow Name:Glamour CallFlow
+[I] 2010-05-17 12:46:45.532 (0x0CE4):ErrorCode[0]_ImportFlowData(D:\My Documents\CallFlow\77.PVC) successful!.
+[E] 2010-05-17 12:46:45.532 (0x0CE4):ErrorCode[0]_ImportFlowData(D:\My Documents\CallFlow\77.PVC) got error,,
+[I] 2010-05-17 12:46:45.560 (0x0CE4):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:77 Callflow Name:Glamour CallFlow
+[I] 2010-05-17 12:46:45.560 (0x0CE4):ErrorCode[0]_Open Resource Record...,Project ID:77
+[I] 2010-05-17 12:47:02.328 (0x0CE4):ErrorCode[0]_Open Resource Record...,Project ID:77
+[I] 2010-05-17 12:48:21.560 (0x0CE4):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2010-05-17 12:48:42.736 (0x0CE4):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:15 Callflow Name:CISCO_Demo
+[I] 2010-05-17 12:48:42.752 (0x0CE4):ErrorCode[0]_Open Resource Record...,Project ID:99
+[I] 2010-05-18 09:01:56.640 (0x0CE4):ErrorCode[0]_Callflow Closed!,Callflow ID:77 Callflow Name:Glamour CallFlow
+[I] 2010-05-18 09:01:56.876 (0x0CE4):ErrorCode[0]_Callflow Closed!,Callflow ID:15 Callflow Name:CISCO_Demo
+[I] 2010-05-18 09:01:56.952 (0x0CE4):ErrorCode[0]_Visual IVR Editor Shutdown....

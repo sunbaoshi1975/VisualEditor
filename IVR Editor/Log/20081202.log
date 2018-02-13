@@ -1,0 +1,7 @@
+[I] 2008-12-02 13:40:06.188 (0x1280):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.6
+[I] 2008-12-02 13:40:07.436 (0x1280):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2008-12-02 13:40:13.436 (0x1280):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:1 Callflow Name:Test Demo
+[I] 2008-12-02 13:40:13.592 (0x1280):ErrorCode[0]_Open Resource Record...,Project ID:1
+[I] 2008-12-02 13:40:18.860 (0x1280):ErrorCode[0]_Add a new node,Node Index:32
+[I] 2008-12-02 13:40:37.812 (0x1280):ErrorCode[0]_Callflow Closed!,Callflow ID:1 Callflow Name:Test Demo
+[I] 2008-12-02 13:40:37.860 (0x1280):ErrorCode[0]_Visual IVR Editor Shutdown....

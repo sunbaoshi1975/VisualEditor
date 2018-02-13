@@ -1,0 +1,12 @@
+[I] 2008-11-26 21:31:18.656 (0x21C0):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.6
+[I] 2008-11-26 21:31:19.504 (0x21C0):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2008-11-26 21:32:44.480 (0x21C0):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:15 Callflow Name:CISCO_Demo
+[I] 2008-11-26 21:32:44.560 (0x21C0):ErrorCode[0]_Open Resource Record...,Project ID:99
+[I] 2008-11-26 21:33:07.408 (0x21C0):ErrorCode[0]_Callflow Closed!,Callflow ID:15 Callflow Name:CISCO_Demo
+[I] 2008-11-26 21:33:07.472 (0x21C0):ErrorCode[0]_Visual IVR Editor Shutdown....
+[I] 2008-11-26 21:35:25.456 (0x2784):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.6
+[I] 2008-11-26 21:35:25.808 (0x2784):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2008-11-26 21:35:41.264 (0x2784):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:15 Callflow Name:CISCO_Demo
+[I] 2008-11-26 21:35:41.280 (0x2784):ErrorCode[0]_Open Resource Record...,Project ID:99
+[I] 2008-11-26 21:35:55.392 (0x2784):ErrorCode[0]_Callflow Closed!,Callflow ID:15 Callflow Name:CISCO_Demo
+[I] 2008-11-26 21:35:55.440 (0x2784):ErrorCode[0]_Visual IVR Editor Shutdown....

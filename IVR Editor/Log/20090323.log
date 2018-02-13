@@ -1,0 +1,8 @@
+[I] 2009-03-23 17:38:24.576 (0x1538):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.6
+[I] 2009-03-23 17:38:26.000 (0x1538):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2009-03-23 17:42:56.312 (0x1538):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:109 Callflow Name:PowerDISA
+[I] 2009-03-23 17:42:56.392 (0x1538):ErrorCode[0]_Open Resource Record...,Project ID:108
+[I] 2009-03-23 17:43:16.172 (0x1538):ErrorCode[0]_Export Callflow Data to the file successful !,File Path:D:\My Documents\CallFlow\PowerDISA_New.PVC
+[E] 2009-03-23 17:43:16.172 (0x1538):ErrorCode[0]_Failed to export Callflow Data to the file:D:\My Documents\CallFlow\PowerDISA_New.PVC!,
+[I] 2009-03-23 17:43:35.248 (0x1538):ErrorCode[0]_Successful export Reource Date to the file!,File Name:D:\My Documents\CallFlow\108.CSV
+[E] 2009-03-23 17:43:35.264 (0x1538):ErrorCode[0]_Failed to export Resource Date to the file:D:\My Documents\CallFlow\108.CSV!,

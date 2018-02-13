@@ -1,0 +1,11 @@
+[I] 2012-04-22 18:24:44.448 (0x0DB0):ErrorCode[0]_Visual IVR Editor Started...,Version:6.10.1
+[I] 2012-04-22 18:24:48.352 (0x0DB0):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2012-04-22 18:28:12.104 (0x0DB0):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:152 Callflow Name:SZJTJ IVR Callflow
+[I] 2012-04-22 18:28:12.200 (0x0DB0):ErrorCode[0]_Open Resource Record...,Project ID:150
+[I] 2012-04-22 18:35:41.136 (0x0DB0):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2012-04-22 18:35:41.368 (0x0DB0):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:1 Callflow Name:Test Demo
+[I] 2012-04-22 18:35:41.400 (0x0DB0):ErrorCode[0]_Open Resource Record...,Project ID:1
+[I] 2012-04-22 18:35:46.868 (0x0DB0):ErrorCode[0]_Add a new node,Node Index:29
+[I] 2012-04-23 02:47:53.338 (0x0DB0):ErrorCode[0]_Callflow Closed!,Callflow ID:152 Callflow Name:SZJTJ IVR Callflow
+[I] 2012-04-23 02:47:56.698 (0x0DB0):ErrorCode[0]_Callflow Closed!,Callflow ID:1 Callflow Name:Test Demo
+[I] 2012-04-23 02:47:56.729 (0x0DB0):ErrorCode[0]_Visual IVR Editor Shutdown....

@@ -1,0 +1,113 @@
+[I] 2012-05-03 15:07:48.596 (0x07C4):ErrorCode[0]_Visual IVR Editor Started...,Version:6.10.1
+[I] 2012-05-03 15:07:50.940 (0x07C4):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2012-05-03 15:08:19.768 (0x07C4):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:180 Callflow Name:上海外联
+[I] 2012-05-03 15:08:19.924 (0x07C4):ErrorCode[0]_Open Resource Record...,Project ID:180
+[I] 2012-05-03 15:11:06.240 (0x07C4):ErrorCode[0]_Update node info,Node ID:358
+[I] 2012-05-03 15:25:45.692 (0x07C4):ErrorCode[0]_Update node info,Node ID:343
+[I] 2012-05-03 15:26:52.284 (0x07C4):ErrorCode[0]_Update node info,Node ID:343
+[I] 2012-05-03 15:27:11.768 (0x07C4):ErrorCode[0]_Update node info,Node ID:351
+[I] 2012-05-03 15:27:15.004 (0x07C4):ErrorCode[0]_Callflow saved successful!,Callflow ID:180
+[I] 2012-05-03 15:28:38.348 (0x07C4):ErrorCode[0]_Update node info,Node ID:363
+[I] 2012-05-03 15:29:14.880 (0x07C4):ErrorCode[0]_Add a new node,Node Index:75
+[I] 2012-05-03 15:29:27.676 (0x07C4):ErrorCode[0]_Add a new node,Node Index:76
+[I] 2012-05-03 15:29:54.864 (0x07C4):ErrorCode[0]_Update node info,Node ID:392
+[I] 2012-05-03 15:29:56.504 (0x07C4):ErrorCode[0]_Callflow saved successful!,Callflow ID:180
+[I] 2012-05-03 15:30:19.988 (0x07C4):ErrorCode[0]_Update node info,Node ID:363
+[I] 2012-05-03 15:30:34.192 (0x07C4):ErrorCode[0]_Callflow saved successful!,Callflow ID:180
+[I] 2012-05-03 15:31:59.284 (0x07C4):ErrorCode[0]_Callflow Closed!,Callflow ID:180 Callflow Name:上海外联
+[I] 2012-05-03 15:31:59.332 (0x07C4):ErrorCode[0]_Visual IVR Editor Shutdown....
+[I] 2012-05-03 15:52:15.596 (0x0E18):ErrorCode[0]_Visual IVR Editor Started...,Version:6.10.1
+[I] 2012-05-03 15:52:16.520 (0x0E18):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2012-05-03 15:52:25.912 (0x0E18):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:180 Callflow Name:上海外联
+[I] 2012-05-03 15:52:25.940 (0x0E18):ErrorCode[0]_Open Resource Record...,Project ID:180
+[I] 2012-05-03 15:55:01.972 (0x0E18):ErrorCode[0]_Add resource item:10023 to Project:180.
+[I] 2012-05-03 15:55:10.268 (0x0E18):ErrorCode[0]_Start Recording..,Filepath:D:\Voice\WAILIAN\1023.wav
+[I] 2012-05-03 15:55:14.364 (0x0E18):ErrorCode[0]_Finish Recording!,Filepath:D:\Voice\WAILIAN\1023.wav
+[I] 2012-05-03 15:57:01.816 (0x0E18):ErrorCode[0]_Start Recording..,Filepath:D:\Voice\WAILIAN\1024wav
+[I] 2012-05-03 15:57:05.316 (0x0E18):ErrorCode[0]_Finish Recording!,Filepath:D:\Voice\WAILIAN\1024wav
+[I] 2012-05-03 15:57:13.144 (0x0E18):ErrorCode[0]_Add resource item:1024 to Project:180.
+[I] 2012-05-03 15:58:22.536 (0x0E18):ErrorCode[0]_Start Recording..,Filepath:D:\Voice\WAILIAN\1025.wav
+[I] 2012-05-03 15:58:25.332 (0x0E18):ErrorCode[0]_Finish Recording!,Filepath:D:\Voice\WAILIAN\1025.wav
+[I] 2012-05-03 15:58:29.692 (0x0E18):ErrorCode[0]_Add resource item:10025 to Project:180.
+[I] 2012-05-03 15:59:11.972 (0x0E18):ErrorCode[0]_Start Recording..,Filepath:D:\Voice\WAILIAN\10251.wav
+[I] 2012-05-03 15:59:14.568 (0x0E18):ErrorCode[0]_Finish Recording!,Filepath:D:\Voice\WAILIAN\10251.wav
+[I] 2012-05-03 15:59:15.972 (0x0E18):ErrorCode[0]_Add resource item:1025 to Project:180.
+[I] 2012-05-03 16:00:05.612 (0x0E18):ErrorCode[0]_Start Recording..,Filepath:D:\Voice\WAILIAN\1027.wav
+[I] 2012-05-03 16:00:08.644 (0x0E18):ErrorCode[0]_Finish Recording!,Filepath:D:\Voice\WAILIAN\1027.wav
+[I] 2012-05-03 16:00:11.768 (0x0E18):ErrorCode[0]_Add resource item:10027 to Project:180.
+[I] 2012-05-03 16:00:50.160 (0x0E18):ErrorCode[0]_Start Recording..,Filepath:D:\Voice\WAILIAN\1028.wav
+[I] 2012-05-03 16:00:52.912 (0x0E18):ErrorCode[0]_Finish Recording!,Filepath:D:\Voice\WAILIAN\1028.wav
+[I] 2012-05-03 16:00:54.848 (0x0E18):ErrorCode[0]_Add resource item:10028 to Project:180.
+[I] 2012-05-03 16:01:51.596 (0x0E18):ErrorCode[0]_Start Recording..,Filepath:D:\Voice\WAILIAN\1029.wav
+[I] 2012-05-03 16:01:54.816 (0x0E18):ErrorCode[0]_Finish Recording!,Filepath:D:\Voice\WAILIAN\1029.wav
+[I] 2012-05-03 16:01:56.612 (0x0E18):ErrorCode[0]_Add resource item:10029 to Project:180.
+[I] 2012-05-03 16:03:13.912 (0x0E18):ErrorCode[0]_Update node info,Node ID:358
+[I] 2012-05-03 16:03:57.112 (0x0E18):ErrorCode[0]_Start Recording..,Filepath:D:\Voice\WAILIAN\1029.wav
+[I] 2012-05-03 16:04:00.332 (0x0E18):ErrorCode[0]_Finish Recording!,Filepath:D:\Voice\WAILIAN\1029.wav
+[I] 2012-05-03 16:04:03.004 (0x0E18):ErrorCode[0]_Update Resource item:10029 in Project:180.
+[I] 2012-05-03 16:04:47.956 (0x0E18):ErrorCode[0]_Update node info,Node ID:375
+[I] 2012-05-03 16:04:53.192 (0x0E18):ErrorCode[0]_Callflow saved successful!,Callflow ID:180
+[I] 2012-05-03 16:09:06.456 (0x0E18):ErrorCode[0]_Export Callflow Data to the file successful !,File Path:C:\Documents and Settings\Administrator\桌面\180.PVC
+[E] 2012-05-03 16:09:06.472 (0x0E18):ErrorCode[0]_Failed to export Callflow Data to the file:C:\Documents and Settings\Administrator\桌面\180.PVC!,
+[I] 2012-05-03 16:09:14.408 (0x0E18):ErrorCode[0]_Successful export Reource Date to the file!,File Name:C:\Documents and Settings\Administrator\桌面\180.CSV
+[E] 2012-05-03 16:09:14.408 (0x0E18):ErrorCode[0]_Failed to export Resource Date to the file:C:\Documents and Settings\Administrator\桌面\180.CSV!,
+[I] 2012-05-03 16:10:19.848 (0x0E18):ErrorCode[0]_Callflow Closed!,Callflow ID:180 Callflow Name:上海外联
+[I] 2012-05-03 16:10:22.160 (0x0E18):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2012-05-03 16:10:32.752 (0x0E18):ErrorCode[0]_Callflow Closed!,Callflow ID:0 Callflow Name:
+[I] 2012-05-03 16:10:32.800 (0x0E18):ErrorCode[0]_Option changed successful! .
+[I] 2012-05-03 16:10:35.128 (0x0E18):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=test;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter_t
+[I] 2012-05-03 16:10:41.644 (0x0E18):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=test;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter_t
+[I] 2012-05-03 16:10:42.912 (0x0E18):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:180 Callflow Name:
+[I] 2012-05-03 16:10:42.924 (0x0E18):ErrorCode[0]_Create a new Callflow,CallFlow ID:180
+[E] 2012-05-03 16:10:42.988 (0x0E18):ErrorCode[0]_Get callflow date file information failed when import a callflow!,
+[I] 2012-05-03 16:10:43.048 (0x0E18):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:180 Callflow Name:上海外联
+[I] 2012-05-03 16:10:43.488 (0x0E18):ErrorCode[0]_ImportFlowData(C:\Documents and Settings\Administrator\桌面\180.PVC) successful!.
+[E] 2012-05-03 16:10:43.504 (0x0E18):ErrorCode[0]_ImportFlowData(C:\Documents and Settings\Administrator\桌面\180.PVC) got error,,
+[I] 2012-05-03 16:10:43.536 (0x0E18):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:180 Callflow Name:上海外联
+[I] 2012-05-03 16:10:43.568 (0x0E18):ErrorCode[0]_Open Resource Record...,Project ID:180
+[I] 2012-05-03 16:10:50.048 (0x0E18):ErrorCode[0]_Open Resource Record...,Project ID:180
+[I] 2012-05-03 16:22:26.940 (0x0E18):ErrorCode[0]_Update node info,Node ID:258
+[I] 2012-05-03 16:22:28.332 (0x0E18):ErrorCode[0]_Callflow saved successful!,Callflow ID:180
+[I] 2012-05-03 16:23:36.912 (0x0E18):ErrorCode[0]_Update node info,Node ID:334
+[I] 2012-05-03 16:23:38.208 (0x0E18):ErrorCode[0]_Callflow saved successful!,Callflow ID:180
+[I] 2012-05-03 16:27:14.036 (0x0E18):ErrorCode[0]_Update node info,Node ID:337
+[I] 2012-05-03 16:27:15.424 (0x0E18):ErrorCode[0]_Callflow saved successful!,Callflow ID:180
+[I] 2012-05-03 16:29:35.424 (0x0E18):ErrorCode[0]_Start Recording..,Filepath:D:\Voice\WAILIAN\1030.wav
+[I] 2012-05-03 16:29:37.392 (0x0E18):ErrorCode[0]_Finish Recording!,Filepath:D:\Voice\WAILIAN\1030.wav
+[I] 2012-05-03 16:30:50.424 (0x0E18):ErrorCode[0]_Update node info,Node ID:367
+[I] 2012-05-03 16:30:51.644 (0x0E18):ErrorCode[0]_Callflow saved successful!,Callflow ID:180
+[I] 2012-05-03 18:03:01.284 (0x0E18):ErrorCode[0]_Update node info,Node ID:258
+[I] 2012-05-03 18:03:03.096 (0x0E18):ErrorCode[0]_Callflow saved successful!,Callflow ID:180
+[I] 2012-05-03 18:17:06.128 (0x0E18):ErrorCode[0]_Update node info,Node ID:334
+[I] 2012-05-03 18:17:07.440 (0x0E18):ErrorCode[0]_Callflow saved successful!,Callflow ID:180
+[I] 2012-05-03 19:03:05.080 (0x0E18):ErrorCode[0]_Update node info,Node ID:258
+[I] 2012-05-03 19:03:06.552 (0x0E18):ErrorCode[0]_Callflow saved successful!,Callflow ID:180
+[I] 2012-05-03 19:21:01.296 (0x0E18):ErrorCode[0]_Update Resource item:1024 in Project:180.
+[I] 2012-05-03 19:52:28.848 (0x0E18):ErrorCode[0]_Update node info,Node ID:358
+[I] 2012-05-03 19:52:30.032 (0x0E18):ErrorCode[0]_Callflow saved successful!,Callflow ID:180
+[I] 2012-05-03 20:02:42.768 (0x0E18):ErrorCode[0]_Update node info,Node ID:258
+[I] 2012-05-03 20:02:44.160 (0x0E18):ErrorCode[0]_Callflow saved successful!,Callflow ID:180
+[I] 2012-05-03 20:46:24.320 (0x0E18):ErrorCode[0]_Update node info,Node ID:358
+[I] 2012-05-03 20:46:27.192 (0x0E18):ErrorCode[0]_Callflow saved successful!,Callflow ID:180
+[I] 2012-05-03 21:00:04.864 (0x0E18):ErrorCode[0]_Update node info,Node ID:358
+[I] 2012-05-03 21:00:06.864 (0x0E18):ErrorCode[0]_Callflow saved successful!,Callflow ID:180
+[I] 2012-05-03 21:00:37.440 (0x0E18):ErrorCode[0]_Update node info,Node ID:258
+[I] 2012-05-03 21:00:39.752 (0x0E18):ErrorCode[0]_Callflow saved successful!,Callflow ID:180
+[I] 2012-05-03 21:05:39.192 (0x0E18):ErrorCode[0]_Update node info,Node ID:367
+[I] 2012-05-03 21:05:40.632 (0x0E18):ErrorCode[0]_Callflow saved successful!,Callflow ID:180
+[I] 2012-05-03 21:07:32.736 (0x0E18):ErrorCode[0]_Update node info,Node ID:367
+[I] 2012-05-03 21:07:37.360 (0x0E18):ErrorCode[0]_Callflow saved successful!,Callflow ID:180
+[I] 2012-05-03 22:01:50.304 (0x0E18):ErrorCode[0]_Update node info,Node ID:258
+[I] 2012-05-03 22:01:51.568 (0x0E18):ErrorCode[0]_Callflow saved successful!,Callflow ID:180
+[I] 2012-05-03 22:17:21.272 (0x0E18):ErrorCode[0]_Update node info,Node ID:258
+[I] 2012-05-03 22:17:22.784 (0x0E18):ErrorCode[0]_Callflow saved successful!,Callflow ID:180
+[I] 2012-05-03 22:17:46.160 (0x0E18):ErrorCode[0]_Update node info,Node ID:258
+[I] 2012-05-03 22:17:47.504 (0x0E18):ErrorCode[0]_Callflow saved successful!,Callflow ID:180
+[I] 2012-05-03 22:18:55.048 (0x0E18):ErrorCode[0]_Update node info,Node ID:336
+[I] 2012-05-03 22:18:56.784 (0x0E18):ErrorCode[0]_Callflow saved successful!,Callflow ID:180
+[I] 2012-05-03 22:21:23.632 (0x0E18):ErrorCode[0]_Update node info,Node ID:336
+[I] 2012-05-03 22:21:24.768 (0x0E18):ErrorCode[0]_Callflow saved successful!,Callflow ID:180
+[I] 2012-05-03 22:30:19.944 (0x0E18):ErrorCode[0]_Update node info,Node ID:336
+[I] 2012-05-03 22:30:22.720 (0x0E18):ErrorCode[0]_Callflow saved successful!,Callflow ID:180
+[I] 2012-05-03 22:41:42.800 (0x0E18):ErrorCode[0]_Callflow Closed!,Callflow ID:180 Callflow Name:上海外联
+[I] 2012-05-03 22:41:42.848 (0x0E18):ErrorCode[0]_Visual IVR Editor Shutdown....

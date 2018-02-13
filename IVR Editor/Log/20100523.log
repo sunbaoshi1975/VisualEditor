@@ -1,0 +1,14 @@
+[I] 2010-05-23 19:42:47.872 (0x109C):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.7
+[I] 2010-05-23 19:42:49.840 (0x109C):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2010-05-23 21:09:57.920 (0x109C):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2010-05-23 21:09:59.544 (0x109C):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:40 Callflow Name:
+[I] 2010-05-23 21:09:59.624 (0x109C):ErrorCode[0]_Create a new Callflow,CallFlow ID:40
+[E] 2010-05-23 21:09:59.640 (0x109C):ErrorCode[0]_Get callflow date file information failed when import a callflow!,
+[I] 2010-05-23 21:09:59.704 (0x109C):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:40 Callflow Name:Canmay Callflow
+[I] 2010-05-23 21:09:59.984 (0x109C):ErrorCode[0]_ImportFlowData(C:\Documents and Settings\tonysun\桌面\新建文件夹\新建文件夹\40.PVC) successful!.
+[E] 2010-05-23 21:09:59.984 (0x109C):ErrorCode[0]_ImportFlowData(C:\Documents and Settings\tonysun\桌面\新建文件夹\新建文件夹\40.PVC) got error,,
+[I] 2010-05-23 21:10:00.000 (0x109C):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:40 Callflow Name:Canmay Callflow
+[I] 2010-05-23 21:10:00.096 (0x109C):ErrorCode[0]_Open Resource Record...,Project ID:40
+[I] 2010-05-23 21:10:09.704 (0x109C):ErrorCode[0]_Open Resource Record...,Project ID:40
+[I] 2010-05-23 23:34:49.328 (0x109C):ErrorCode[0]_Callflow Closed!,Callflow ID:40 Callflow Name:Canmay Callflow
+[I] 2010-05-23 23:34:49.456 (0x109C):ErrorCode[0]_Visual IVR Editor Shutdown....

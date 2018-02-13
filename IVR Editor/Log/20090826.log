@@ -1,0 +1,15 @@
+[I] 2009-08-26 13:10:59.968 (0x0E80):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.7
+[I] 2009-08-26 13:11:01.420 (0x0E80):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2009-08-26 13:11:22.048 (0x0E80):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:140 Callflow Name:大众外拨流程
+[I] 2009-08-26 13:11:22.188 (0x0E80):ErrorCode[0]_Open Resource Record...,Project ID:12
+[I] 2009-08-26 15:32:29.920 (0x0E80):ErrorCode[0]_Add a new node,Node Index:17
+[I] 2009-08-26 15:32:52.780 (0x0E80):ErrorCode[0]_Add a new node,Node Index:18
+[I] 2009-08-26 15:33:29.392 (0x0E80):ErrorCode[0]_Add a new node,Node Index:19
+[I] 2009-08-26 15:37:38.936 (0x0E80):ErrorCode[0]_Callflow Closed!,Callflow ID:140 Callflow Name:大众外拨流程
+[I] 2009-08-26 15:37:38.968 (0x0E80):ErrorCode[0]_Visual IVR Editor Shutdown....
+[I] 2009-08-26 15:39:39.248 (0x195C):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.7
+[I] 2009-08-26 15:39:39.608 (0x195C):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2009-08-26 15:39:59.624 (0x195C):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:1 Callflow Name:Test Demo
+[I] 2009-08-26 15:39:59.624 (0x195C):ErrorCode[0]_Open Resource Record...,Project ID:1
+[I] 2009-08-26 15:40:30.172 (0x195C):ErrorCode[0]_Callflow Closed!,Callflow ID:1 Callflow Name:Test Demo
+[I] 2009-08-26 15:40:30.188 (0x195C):ErrorCode[0]_Visual IVR Editor Shutdown....

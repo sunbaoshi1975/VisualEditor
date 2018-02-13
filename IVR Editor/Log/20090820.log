@@ -1,0 +1,16 @@
+[I] 2009-08-20 21:58:30.360 (0x13D0):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.7
+[E] 2009-08-20 21:59:34.512 (0x13D0):ErrorCode[-2147467259]_Connect to Database failed! ConnectionString:DSN=IVRDemo;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter,[Microsoft][ODBC SQL Server Driver][DBNETLIB]SQL Server 不存在或访问被拒绝
+[I] 2009-08-20 22:00:49.624 (0x13D0):ErrorCode[0]_Callflow Closed!,Callflow ID:0 Callflow Name:
+[I] 2009-08-20 22:00:49.672 (0x13D0):ErrorCode[0]_Option changed successful! .
+[I] 2009-08-20 22:00:51.080 (0x13D0):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2009-08-20 22:01:14.112 (0x13D0):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2009-08-20 22:01:15.920 (0x13D0):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:140 Callflow Name:
+[I] 2009-08-20 22:01:15.984 (0x13D0):ErrorCode[0]_Create a new Callflow,CallFlow ID:140
+[E] 2009-08-20 22:01:16.000 (0x13D0):ErrorCode[0]_Get callflow date file information failed when import a callflow!,
+[I] 2009-08-20 22:01:16.032 (0x13D0):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:140 Callflow Name:大众外拨流程
+[I] 2009-08-20 22:01:16.144 (0x13D0):ErrorCode[0]_ImportFlowData(D:\My Documents\CallFlow\大众外拨.PVC) successful!.
+[E] 2009-08-20 22:01:16.144 (0x13D0):ErrorCode[0]_ImportFlowData(D:\My Documents\CallFlow\大众外拨.PVC) got error,,
+[I] 2009-08-20 22:01:16.160 (0x13D0):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:140 Callflow Name:大众外拨流程
+[I] 2009-08-20 22:01:16.264 (0x13D0):ErrorCode[0]_Open Resource Record...,Project ID:12
+[I] 2009-08-20 22:03:29.168 (0x13D0):ErrorCode[0]_Callflow Closed!,Callflow ID:140 Callflow Name:大众外拨流程
+[I] 2009-08-20 22:03:29.184 (0x13D0):ErrorCode[0]_Visual IVR Editor Shutdown....

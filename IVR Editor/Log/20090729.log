@@ -1,0 +1,17 @@
+[I] 2009-07-29 13:00:28.408 (0x1594):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.7
+[I] 2009-07-29 13:00:30.108 (0x1594):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2009-07-29 13:00:44.140 (0x1594):ErrorCode[0]_Callflow Closed!,Callflow ID:0 Callflow Name:
+[I] 2009-07-29 13:00:44.172 (0x1594):ErrorCode[0]_Option changed successful! .
+[I] 2009-07-29 13:00:45.812 (0x1594):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=IVRDemo;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter
+[I] 2009-07-29 13:00:47.936 (0x1594):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:15 Callflow Name:CISCO_Demo
+[I] 2009-07-29 13:00:48.000 (0x1594):ErrorCode[0]_Open Resource Record...,Project ID:99
+[I] 2009-07-29 13:01:03.296 (0x1594):ErrorCode[0]_Update node info,Node ID:283
+[I] 2009-07-29 13:01:05.656 (0x1594):ErrorCode[0]_Callflow saved successful!,Callflow ID:15
+[I] 2009-07-29 13:01:07.592 (0x1594):ErrorCode[0]_Callflow Closed!,Callflow ID:15 Callflow Name:CISCO_Demo
+[I] 2009-07-29 13:01:07.624 (0x1594):ErrorCode[0]_Visual IVR Editor Shutdown....
+[I] 2009-07-29 15:24:07.436 (0x1624):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.7
+[I] 2009-07-29 15:24:07.904 (0x1624):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=IVRDemo;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter
+[I] 2009-07-29 15:24:12.264 (0x1624):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:15 Callflow Name:CISCO_Demo
+[I] 2009-07-29 15:24:12.312 (0x1624):ErrorCode[0]_Open Resource Record...,Project ID:99
+[I] 2009-07-29 16:39:26.984 (0x1624):ErrorCode[0]_Callflow Closed!,Callflow ID:15 Callflow Name:CISCO_Demo
+[I] 2009-07-29 16:39:27.032 (0x1624):ErrorCode[0]_Visual IVR Editor Shutdown....

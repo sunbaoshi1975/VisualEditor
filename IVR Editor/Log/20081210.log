@@ -1,0 +1,12 @@
+[I] 2008-12-10 10:31:10.920 (0x2FCC):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.6
+[I] 2008-12-10 10:31:11.780 (0x2FCC):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2008-12-10 10:31:16.656 (0x2FCC):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:1 Callflow Name:Test Demo
+[I] 2008-12-10 10:31:16.720 (0x2FCC):ErrorCode[0]_Open Resource Record...,Project ID:1
+[I] 2008-12-10 10:31:26.032 (0x2FCC):ErrorCode[0]_Callflow Closed!,Callflow ID:1 Callflow Name:Test Demo
+[I] 2008-12-10 10:31:26.048 (0x2FCC):ErrorCode[0]_Visual IVR Editor Shutdown....
+[I] 2008-12-10 10:35:04.592 (0x1DF0):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.6
+[I] 2008-12-10 10:35:05.080 (0x1DF0):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2008-12-10 10:35:15.704 (0x1DF0):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:1 Callflow Name:Test Demo
+[I] 2008-12-10 10:35:15.720 (0x1DF0):ErrorCode[0]_Open Resource Record...,Project ID:1
+[I] 2008-12-10 10:35:18.516 (0x1DF0):ErrorCode[0]_Callflow Closed!,Callflow ID:1 Callflow Name:Test Demo
+[I] 2008-12-10 10:35:18.532 (0x1DF0):ErrorCode[0]_Visual IVR Editor Shutdown....

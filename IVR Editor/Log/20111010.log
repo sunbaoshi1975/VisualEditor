@@ -1,0 +1,7 @@
+[I] 2011-10-10 18:54:45.128 (0x1B04):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.7
+[I] 2011-10-10 18:54:46.480 (0x1B04):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2011-10-10 18:55:46.592 (0x1B04):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:1 Callflow Name:Test Demo
+[I] 2011-10-10 18:55:46.672 (0x1B04):ErrorCode[0]_Open Resource Record...,Project ID:1
+[I] 2011-10-10 18:55:55.472 (0x1B04):ErrorCode[0]_Add a new node,Node Index:29
+[I] 2011-10-10 18:56:11.824 (0x1B04):ErrorCode[0]_Callflow Closed!,Callflow ID:1 Callflow Name:Test Demo
+[I] 2011-10-10 18:56:11.840 (0x1B04):ErrorCode[0]_Visual IVR Editor Shutdown....

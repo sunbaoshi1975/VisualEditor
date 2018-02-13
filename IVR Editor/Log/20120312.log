@@ -1,0 +1,46 @@
+[I] 2012-03-12 13:46:30.500 (0x0B00):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.8
+[I] 2012-03-12 13:46:32.360 (0x0B00):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2012-03-12 13:46:44.188 (0x0B00):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:180 Callflow Name:上海外联
+[I] 2012-03-12 13:46:44.312 (0x0B00):ErrorCode[0]_Open Resource Record...,Project ID:180
+[I] 2012-03-12 13:48:05.140 (0x0B00):ErrorCode[0]_Start Recording..,Filepath:D:\Voice\WAILIAN\1001.wav
+[I] 2012-03-12 13:48:20.312 (0x0B00):ErrorCode[0]_Finish Recording!,Filepath:D:\Voice\WAILIAN\1001.wav
+[I] 2012-03-12 13:49:13.500 (0x0B00):ErrorCode[0]_Start Recording..,Filepath:D:\Voice\WAILIAN\1001.wav
+[I] 2012-03-12 13:49:23.344 (0x0B00):ErrorCode[0]_Finish Recording!,Filepath:D:\Voice\WAILIAN\1001.wav
+[I] 2012-03-12 13:49:53.156 (0x0B00):ErrorCode[0]_Start Recording..,Filepath:D:\Voice\WAILIAN\1002.wav
+[I] 2012-03-12 13:50:00.108 (0x0B00):ErrorCode[0]_Finish Recording!,Filepath:D:\Voice\WAILIAN\1002.wav
+[I] 2012-03-12 13:50:05.812 (0x0B00):ErrorCode[0]_Start Recording..,Filepath:D:\Voice\WAILIAN\1002.wav
+[I] 2012-03-12 13:50:11.656 (0x0B00):ErrorCode[0]_Finish Recording!,Filepath:D:\Voice\WAILIAN\1002.wav
+[I] 2012-03-12 13:50:29.376 (0x0B00):ErrorCode[0]_Start Recording..,Filepath:D:\Voice\WAILIAN\1003.wav
+[I] 2012-03-12 13:50:35.248 (0x0B00):ErrorCode[0]_Finish Recording!,Filepath:D:\Voice\WAILIAN\1003.wav
+[I] 2012-03-12 13:50:41.296 (0x0B00):ErrorCode[0]_Start Recording..,Filepath:D:\Voice\WAILIAN\1004.wav
+[I] 2012-03-12 13:50:45.232 (0x0B00):ErrorCode[0]_Finish Recording!,Filepath:D:\Voice\WAILIAN\1004.wav
+[I] 2012-03-12 13:50:54.232 (0x0B00):ErrorCode[0]_Start Recording..,Filepath:D:\Voice\WAILIAN\1005.wav
+[I] 2012-03-12 13:50:59.688 (0x0B00):ErrorCode[0]_Finish Recording!,Filepath:D:\Voice\WAILIAN\1005.wav
+[I] 2012-03-12 13:51:03.592 (0x0B00):ErrorCode[0]_Start Recording..,Filepath:D:\Voice\WAILIAN\1006.wav
+[I] 2012-03-12 13:51:10.156 (0x0B00):ErrorCode[0]_Finish Recording!,Filepath:D:\Voice\WAILIAN\1006.wav
+[I] 2012-03-12 13:51:13.560 (0x0B00):ErrorCode[0]_Start Recording..,Filepath:D:\Voice\WAILIAN\1008.wav
+[I] 2012-03-12 13:51:16.296 (0x0B00):ErrorCode[0]_Finish Recording!,Filepath:D:\Voice\WAILIAN\1008.wav
+[I] 2012-03-12 13:51:27.452 (0x0B00):ErrorCode[0]_Start Recording..,Filepath:D:\Voice\WAILIAN\1007.wav
+[I] 2012-03-12 13:51:29.640 (0x0B00):ErrorCode[0]_Finish Recording!,Filepath:D:\Voice\WAILIAN\1007.wav
+[I] 2012-03-12 15:01:46.344 (0x0B00):ErrorCode[0]_Start Recording..,Filepath:D:\Voice\WAILIAN\1010.wav
+[I] 2012-03-12 15:01:50.844 (0x0B00):ErrorCode[0]_Finish Recording!,Filepath:D:\Voice\WAILIAN\1010.wav
+[I] 2012-03-12 15:02:07.828 (0x0B00):ErrorCode[0]_Start Recording..,Filepath:D:\Voice\WAILIAN\1012.wav
+[I] 2012-03-12 15:02:11.780 (0x0B00):ErrorCode[0]_Finish Recording!,Filepath:D:\Voice\WAILIAN\1012.wav
+[I] 2012-03-12 15:02:32.468 (0x0B00):ErrorCode[0]_Start Recording..,Filepath:D:\Voice\WAILIAN\1026.wav
+[I] 2012-03-12 15:02:37.016 (0x0B00):ErrorCode[0]_Finish Recording!,Filepath:D:\Voice\WAILIAN\1026.wav
+[I] 2012-03-12 15:02:56.656 (0x0B00):ErrorCode[0]_Start Recording..,Filepath:D:\Voice\WAILIAN\1022.wav
+[I] 2012-03-12 15:03:06.904 (0x0B00):ErrorCode[0]_Finish Recording!,Filepath:D:\Voice\WAILIAN\1022.wav
+[I] 2012-03-12 15:03:23.764 (0x0B00):ErrorCode[0]_Start Recording..,Filepath:D:\Voice\WAILIAN\1034.wav
+[I] 2012-03-12 15:03:32.812 (0x0B00):ErrorCode[0]_Finish Recording!,Filepath:D:\Voice\WAILIAN\1034.wav
+[I] 2012-03-12 15:03:52.860 (0x0B00):ErrorCode[0]_Update node info,Node ID:336
+[I] 2012-03-12 15:46:01.860 (0x0B00):ErrorCode[0]_Add a new node,Node Index:70
+[I] 2012-03-12 15:46:09.936 (0x0B00):ErrorCode[0]_Callflow saved successful!,Callflow ID:180
+[I] 2012-03-12 15:47:01.408 (0x0B00):ErrorCode[0]_Add a new node,Node Index:71
+[I] 2012-03-12 15:47:21.516 (0x0B00):ErrorCode[0]_Update node info,Node ID:388
+[I] 2012-03-12 15:47:34.968 (0x0B00):ErrorCode[0]_Add a new node,Node Index:72
+[I] 2012-03-12 15:47:45.500 (0x0B00):ErrorCode[0]_Add a new node,Node Index:73
+[I] 2012-03-12 15:47:49.360 (0x0B00):ErrorCode[0]_Add a new node,Node Index:74
+[I] 2012-03-12 15:48:11.420 (0x0B00):ErrorCode[0]_Update node info,Node ID:391
+[I] 2012-03-12 15:48:18.108 (0x0B00):ErrorCode[0]_Callflow saved successful!,Callflow ID:180
+[I] 2012-03-12 15:48:41.204 (0x0B00):ErrorCode[0]_Callflow Closed!,Callflow ID:180 Callflow Name:上海外联
+[I] 2012-03-12 15:48:41.248 (0x0B00):ErrorCode[0]_Visual IVR Editor Shutdown....

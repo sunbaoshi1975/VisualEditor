@@ -1,0 +1,48 @@
+[I] 2011-05-26 12:49:27.952 (0x1CF0):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.7
+[I] 2011-05-26 12:49:29.876 (0x1CF0):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2011-05-26 12:50:25.608 (0x1CF0):ErrorCode[0]_Callflow Closed!,Callflow ID:0 Callflow Name:
+[I] 2011-05-26 12:50:25.656 (0x1CF0):ErrorCode[0]_Visual IVR Editor Shutdown....
+[I] 2011-05-26 12:50:28.920 (0x05D0):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.7
+[I] 2011-05-26 12:50:29.280 (0x05D0):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2011-05-26 12:50:44.248 (0x05D0):ErrorCode[0]_Callflow Closed!,Callflow ID:0 Callflow Name:
+[I] 2011-05-26 12:50:44.280 (0x05D0):ErrorCode[0]_Option changed successful! .
+[I] 2011-05-26 12:50:46.232 (0x05D0):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=dbCallcenter;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter
+[I] 2011-05-26 12:50:55.232 (0x05D0):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:171 Callflow Name:SuZhouLR
+[I] 2011-05-26 12:50:55.296 (0x05D0):ErrorCode[0]_Open Resource Record...,Project ID:170
+[I] 2011-05-26 12:55:03.516 (0x05D0):ErrorCode[0]_Callflow Closed!,Callflow ID:171 Callflow Name:SuZhouLR
+[I] 2011-05-26 12:55:06.796 (0x05D0):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=dbCallcenter;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter
+[I] 2011-05-26 12:55:14.544 (0x05D0):ErrorCode[0]_Callflow Closed!,Callflow ID:0 Callflow Name:
+[I] 2011-05-26 12:55:14.592 (0x05D0):ErrorCode[0]_Option changed successful! .
+[I] 2011-05-26 12:55:16.048 (0x05D0):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=IVRDemo;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter
+[I] 2011-05-26 12:55:17.812 (0x05D0):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:170 Callflow Name:SuZhouFORD
+[I] 2011-05-26 12:55:17.844 (0x05D0):ErrorCode[0]_Open Resource Record...,Project ID:170
+[I] 2011-05-26 12:55:35.264 (0x05D0):ErrorCode[0]_Successful Synchronized CallFlow! CallFlow ID:170.
+[I] 2011-05-26 12:55:55.888 (0x05D0):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=IVRDemo;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter
+[I] 2011-05-26 12:55:56.016 (0x05D0):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:171 Callflow Name:SuZhouLR
+[I] 2011-05-26 12:55:56.032 (0x05D0):ErrorCode[0]_Open Resource Record...,Project ID:170
+[I] 2011-05-26 12:56:07.920 (0x05D0):ErrorCode[0]_Successful Synchronized CallFlow! CallFlow ID:171.
+[I] 2011-05-26 12:56:13.844 (0x05D0):ErrorCode[0]_Callflow Closed!,Callflow ID:170 Callflow Name:SuZhouFORD
+[I] 2011-05-26 12:56:13.876 (0x05D0):ErrorCode[0]_Callflow Closed!,Callflow ID:171 Callflow Name:SuZhouLR
+[I] 2011-05-26 12:56:13.904 (0x05D0):ErrorCode[0]_Option changed successful! .
+[I] 2011-05-26 12:56:15.764 (0x05D0):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2011-05-26 12:56:25.092 (0x05D0):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:171 Callflow Name:SuZhouLR
+[I] 2011-05-26 12:56:25.172 (0x05D0):ErrorCode[0]_Open Resource Record...,Project ID:170
+[I] 2011-05-26 12:59:37.392 (0x05D0):ErrorCode[0]_Callflow Closed!,Callflow ID:171 Callflow Name:SuZhouLR
+[I] 2011-05-26 12:59:37.408 (0x05D0):ErrorCode[0]_Option changed successful! .
+[I] 2011-05-26 12:59:40.704 (0x05D0):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=IVRDemo;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter
+[I] 2011-05-26 12:59:44.516 (0x05D0):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:170 Callflow Name:SuZhouFORD
+[I] 2011-05-26 12:59:44.544 (0x05D0):ErrorCode[0]_Open Resource Record...,Project ID:170
+[I] 2011-05-26 12:59:50.140 (0x05D0):ErrorCode[0]_Resource synchronized Successful! Project ID:170.
+[I] 2011-05-26 13:00:11.296 (0x05D0):ErrorCode[0]_Callflow Closed!,Callflow ID:170 Callflow Name:SuZhouFORD
+[I] 2011-05-26 13:00:14.188 (0x05D0):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=IVRDemo;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter
+[I] 2011-05-26 13:00:17.328 (0x05D0):ErrorCode[0]_Callflow Closed!,Callflow ID:0 Callflow Name:
+[I] 2011-05-26 13:00:17.376 (0x05D0):ErrorCode[0]_Option changed successful! .
+[I] 2011-05-26 13:00:18.780 (0x05D0):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2011-05-26 13:00:23.796 (0x05D0):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:170 Callflow Name:SuZhouFORD
+[I] 2011-05-26 13:00:23.812 (0x05D0):ErrorCode[0]_Open Resource Record...,Project ID:170
+[I] 2011-05-26 13:00:36.764 (0x05D0):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2011-05-26 13:00:36.888 (0x05D0):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:171 Callflow Name:SuZhouLR
+[I] 2011-05-26 13:00:36.888 (0x05D0):ErrorCode[0]_Open Resource Record...,Project ID:170
+[I] 2011-05-27 09:02:53.250 (0x05D0):ErrorCode[0]_Callflow Closed!,Callflow ID:170 Callflow Name:SuZhouFORD
+[I] 2011-05-27 09:02:53.360 (0x05D0):ErrorCode[0]_Callflow Closed!,Callflow ID:171 Callflow Name:SuZhouLR
+[I] 2011-05-27 09:02:53.406 (0x05D0):ErrorCode[0]_Visual IVR Editor Shutdown....

@@ -1,0 +1,15 @@
+[I] 2012-05-15 09:41:12.376 (0x0A84):ErrorCode[0]_Visual IVR Editor Started...,Version:6.10.2
+[I] 2012-05-15 09:41:13.908 (0x0A84):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=test;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter_t
+[I] 2012-05-15 09:41:30.828 (0x0A84):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=test;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter_t
+[I] 2012-05-15 09:41:32.472 (0x0A84):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:195 Callflow Name:
+[I] 2012-05-15 09:41:32.548 (0x0A84):ErrorCode[0]_Create a new Callflow,CallFlow ID:195
+[E] 2012-05-15 09:41:32.580 (0x0A84):ErrorCode[0]_Get callflow date file information failed when import a callflow!,
+[I] 2012-05-15 09:41:32.608 (0x0A84):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:195 Callflow Name:Fotile VMS
+[I] 2012-05-15 09:41:32.816 (0x0A84):ErrorCode[0]_ImportFlowData(C:\Documents and Settings\Administrator\My Documents\Call Flows\195.PVC) successful!.
+[E] 2012-05-15 09:41:32.816 (0x0A84):ErrorCode[0]_ImportFlowData(C:\Documents and Settings\Administrator\My Documents\Call Flows\195.PVC) got error,,
+[I] 2012-05-15 09:41:32.844 (0x0A84):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:195 Callflow Name:Fotile VMS
+[I] 2012-05-15 09:41:32.940 (0x0A84):ErrorCode[0]_Open Resource Record...,Project ID:195
+[I] 2012-05-15 09:41:42.736 (0x0A84):ErrorCode[0]_Open Resource Record...,Project ID:195
+[I] 2012-05-15 15:15:21.736 (0x0A84):ErrorCode[0]_Callflow saved successful!,Callflow ID:195
+[I] 2012-05-15 15:15:21.816 (0x0A84):ErrorCode[0]_Callflow Closed!,Callflow ID:195 Callflow Name:Fotile VMS
+[I] 2012-05-15 15:15:21.924 (0x0A84):ErrorCode[0]_Visual IVR Editor Shutdown....

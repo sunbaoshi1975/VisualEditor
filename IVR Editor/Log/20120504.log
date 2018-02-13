@@ -1,0 +1,10 @@
+[I] 2012-05-04 09:53:46.688 (0x0F3C):ErrorCode[0]_Visual IVR Editor Started...,Version:6.10.1
+[I] 2012-05-04 09:53:50.864 (0x0F3C):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=test;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter_t
+[I] 2012-05-04 09:53:54.300 (0x0F3C):ErrorCode[0]_Callflow Closed!,Callflow ID:0 Callflow Name:
+[I] 2012-05-04 09:53:54.536 (0x0F3C):ErrorCode[0]_Visual IVR Editor Shutdown....
+[I] 2012-05-04 13:52:32.416 (0x0898):ErrorCode[0]_Visual IVR Editor Started...,Version:6.10.1
+[I] 2012-05-04 13:52:44.292 (0x0898):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=test;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter_t
+[I] 2012-05-04 13:53:21.120 (0x0898):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:180 Callflow Name:上海外联
+[I] 2012-05-04 13:53:21.340 (0x0898):ErrorCode[0]_Open Resource Record...,Project ID:180
+[I] 2012-05-04 13:53:34.152 (0x0898):ErrorCode[0]_Update node info,Node ID:358
+[I] 2012-05-04 13:53:35.840 (0x0898):ErrorCode[0]_Callflow saved successful!,Callflow ID:180

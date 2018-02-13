@@ -1,0 +1,32 @@
+[I] 2011-12-16 13:36:35.764 (0x0EFC):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.7
+[E] 2011-12-16 13:36:47.264 (0x0EFC):ErrorCode[-2147467259]_Connect to Database failed! ConnectionString:DSN=t;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter_t,[Microsoft][ODBC 驱动程序管理器] 未发现数据源名称并且未指定默认驱动程序
+[I] 2011-12-16 13:38:18.752 (0x0EFC):ErrorCode[0]_Callflow Closed!,Callflow ID:0 Callflow Name:
+[I] 2011-12-16 13:38:18.780 (0x0EFC):ErrorCode[0]_Option changed successful! .
+[I] 2011-12-16 13:38:21.752 (0x0EFC):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2011-12-16 13:38:43.904 (0x0EFC):ErrorCode[0]_Callflow Closed!,Callflow ID:0 Callflow Name:
+[I] 2011-12-16 13:38:43.936 (0x0EFC):ErrorCode[0]_Visual IVR Editor Shutdown....
+[I] 2011-12-16 13:44:16.752 (0x0B0C):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.7
+[I] 2011-12-16 13:44:24.640 (0x0B0C):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2011-12-16 13:44:47.544 (0x0B0C):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2011-12-16 13:44:51.000 (0x0B0C):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:20 Callflow Name:中国电信
+[I] 2011-12-16 13:44:54.080 (0x0B0C):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:21 Callflow Name:
+[I] 2011-12-16 13:44:54.248 (0x0B0C):ErrorCode[0]_Create a new Callflow,CallFlow ID:21
+[E] 2011-12-16 13:44:54.516 (0x0B0C):ErrorCode[0]_Get callflow date file information failed when import a callflow!,
+[I] 2011-12-16 13:44:54.560 (0x0B0C):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:21 Callflow Name:TAOBAO
+[I] 2011-12-16 13:44:54.796 (0x0B0C):ErrorCode[0]_ImportFlowData(D:\My Works\Debug\Taobao\TAOBAO.PVC) successful!.
+[E] 2011-12-16 13:44:54.812 (0x0B0C):ErrorCode[0]_ImportFlowData(D:\My Works\Debug\Taobao\TAOBAO.PVC) got error,,
+[I] 2011-12-16 13:44:54.844 (0x0B0C):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:21 Callflow Name:TAOBAO
+[I] 2011-12-16 13:44:55.016 (0x0B0C):ErrorCode[0]_Open Resource Record...,Project ID:17
+[I] 2011-12-16 13:45:05.844 (0x0B0C):ErrorCode[0]_Open Resource Record...,Project ID:17
+[I] 2011-12-16 14:22:53.704 (0x0B0C):ErrorCode[0]_Add a new node,Node Index:30
+[I] 2011-12-16 14:23:00.232 (0x0B0C):ErrorCode[0]_Delete a node,Node Index:30
+[I] 2011-12-19 09:07:26.446 (0x0B0C):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2011-12-19 09:07:29.336 (0x0B0C):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:227 Callflow Name:Fotile BC
+[I] 2011-12-19 09:07:29.760 (0x0B0C):ErrorCode[0]_Open Resource Record...,Project ID:227
+[I] 2011-12-19 09:08:10.588 (0x0B0C):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2011-12-19 09:08:10.760 (0x0B0C):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:226 Callflow Name:NB Fotile
+[I] 2011-12-19 09:08:10.806 (0x0B0C):ErrorCode[0]_Open Resource Record...,Project ID:226
+[I] 2011-12-20 09:42:38.288 (0x0B0C):ErrorCode[0]_Callflow Closed!,Callflow ID:21 Callflow Name:TAOBAO
+[I] 2011-12-20 09:42:39.428 (0x0B0C):ErrorCode[0]_Callflow Closed!,Callflow ID:227 Callflow Name:Fotile BC
+[I] 2011-12-20 09:42:39.976 (0x0B0C):ErrorCode[0]_Callflow Closed!,Callflow ID:226 Callflow Name:NB Fotile
+[I] 2011-12-20 09:42:40.068 (0x0B0C):ErrorCode[0]_Visual IVR Editor Shutdown....

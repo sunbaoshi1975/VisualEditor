@@ -1,0 +1,37 @@
+[I] 2012-11-28 17:25:12.616 (0x0EC4):ErrorCode[0]_Visual IVR Editor Started...,Version:6.10.4
+[I] 2012-11-28 17:25:14.224 (0x0EC4):ErrorCode[0]_Connect to Database successful! ,ConnectionString:DSN=test;UID=sa;PWD=pcs123456;Initial Catalog=dbCallcenter_Avaya
+[I] 2012-11-28 17:25:35.488 (0x0EC4):ErrorCode[0]_Callflow Closed!,Callflow ID:0 Callflow Name:
+[I] 2012-11-28 17:25:35.520 (0x0EC4):ErrorCode[0]_Option changed successful! .
+[I] 2012-11-28 17:25:37.488 (0x0EC4):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2012-11-28 17:26:11.848 (0x0EC4):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:226 Callflow Name:NB Fotile
+[I] 2012-11-28 17:26:11.960 (0x0EC4):ErrorCode[0]_Open Resource Record...,Project ID:226
+[I] 2012-11-28 17:26:27.600 (0x0EC4):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2012-11-28 17:26:27.740 (0x0EC4):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:12 Callflow Name:ACCSOB
+[E] 2012-11-28 17:26:27.756 (0x0EC4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 12,使用 Null 无效
+[I] 2012-11-28 17:26:27.756 (0x0EC4):ErrorCode[0]_Open Resource Record...,Project ID:11
+[E] 2012-11-28 17:26:27.772 (0x0EC4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 12,使用 Null 无效
+[E] 2012-11-28 17:26:27.772 (0x0EC4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 12,使用 Null 无效
+[E] 2012-11-28 17:26:27.788 (0x0EC4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 12,使用 Null 无效
+[E] 2012-11-28 17:26:27.800 (0x0EC4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 12,使用 Null 无效
+[E] 2012-11-28 17:26:27.800 (0x0EC4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 12,使用 Null 无效
+[E] 2012-11-28 17:26:27.816 (0x0EC4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 12,使用 Null 无效
+[E] 2012-11-28 17:26:27.816 (0x0EC4):ErrorCode[94]_Show Call flow on Screen got error, Callflow ID: 12,使用 Null 无效
+[I] 2012-11-28 17:26:31.756 (0x0EC4):ErrorCode[0]_Callflow Closed!,Callflow ID:226 Callflow Name:NB Fotile
+[I] 2012-11-28 17:26:31.788 (0x0EC4):ErrorCode[0]_Callflow Closed!,Callflow ID:12 Callflow Name:ACCSOB
+[I] 2012-11-28 17:26:31.880 (0x0EC4):ErrorCode[0]_Visual IVR Editor Shutdown....
+[I] 2012-11-28 17:26:50.584 (0x02D8):ErrorCode[0]_Visual IVR Editor Started...,Version:6.10.4
+[I] 2012-11-28 17:26:51.472 (0x02D8):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2012-11-28 17:27:04.224 (0x02D8):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2012-11-28 17:27:06.208 (0x02D8):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:2 Callflow Name:分机传真
+[I] 2012-11-28 17:27:07.944 (0x02D8):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:3 Callflow Name:SCB_Demo
+[I] 2012-11-28 17:27:08.632 (0x02D8):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:4 Callflow Name:CME Demo
+[I] 2012-11-28 17:27:09.132 (0x02D8):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:5 Callflow Name:
+[I] 2012-11-28 17:27:09.256 (0x02D8):ErrorCode[0]_Create a new Callflow,CallFlow ID:5
+[E] 2012-11-28 17:27:09.304 (0x02D8):ErrorCode[0]_Get callflow date file information failed when import a callflow!,
+[I] 2012-11-28 17:27:09.336 (0x02D8):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:5 Callflow Name:HerbalifeFAX
+[I] 2012-11-28 17:27:09.396 (0x02D8):ErrorCode[0]_ImportFlowData(C:\Documents and Settings\Administrator\桌面\Asyn Play\2.PVC) successful!.
+[E] 2012-11-28 17:27:09.396 (0x02D8):ErrorCode[0]_ImportFlowData(C:\Documents and Settings\Administrator\桌面\Asyn Play\2.PVC) got error,,
+[I] 2012-11-28 17:27:09.444 (0x02D8):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:5 Callflow Name:HerbalifeFAX
+[I] 2012-11-28 17:27:09.460 (0x02D8):ErrorCode[0]_Open Resource Record...,Project ID:2
+[I] 2012-11-28 19:54:02.160 (0x02D8):ErrorCode[0]_Callflow Closed!,Callflow ID:5 Callflow Name:HerbalifeFAX
+[I] 2012-11-28 19:54:02.240 (0x02D8):ErrorCode[0]_Visual IVR Editor Shutdown....

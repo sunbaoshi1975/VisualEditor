@@ -1,0 +1,40 @@
+[I] 2012-01-17 16:38:48.968 (0x0EEC):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.7
+[I] 2012-01-17 16:38:51.408 (0x0EEC):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2012-01-17 16:38:56.904 (0x0EEC):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:1 Callflow Name:Test Demo
+[I] 2012-01-17 16:38:56.984 (0x0EEC):ErrorCode[0]_Open Resource Record...,Project ID:1
+[I] 2012-01-17 16:39:16.092 (0x0EEC):ErrorCode[0]_Add a new node,Node Index:29
+[I] 2012-01-17 17:07:01.000 (0x0EEC):ErrorCode[0]_Callflow Closed!,Callflow ID:1 Callflow Name:Test Demo
+[I] 2012-01-17 17:07:01.048 (0x0EEC):ErrorCode[0]_Visual IVR Editor Shutdown....
+[I] 2012-01-17 17:15:37.812 (0x0EA8):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.7
+[I] 2012-01-17 17:15:38.640 (0x0EA8):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2012-01-17 17:15:42.360 (0x0EA8):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:1 Callflow Name:Test Demo
+[I] 2012-01-17 17:15:42.376 (0x0EA8):ErrorCode[0]_Open Resource Record...,Project ID:1
+[I] 2012-01-17 17:15:46.812 (0x0EA8):ErrorCode[0]_Add a new node,Node Index:29
+[I] 2012-01-17 17:15:53.752 (0x0EA8):ErrorCode[0]_Callflow Closed!,Callflow ID:1 Callflow Name:Test Demo
+[I] 2012-01-17 17:15:53.780 (0x0EA8):ErrorCode[0]_Visual IVR Editor Shutdown....
+[I] 2012-01-17 17:23:12.232 (0x0F60):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.8
+[I] 2012-01-17 17:23:13.232 (0x0F60):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2012-01-17 17:23:15.688 (0x0F60):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:1 Callflow Name:Test Demo
+[I] 2012-01-17 17:23:15.704 (0x0F60):ErrorCode[0]_Open Resource Record...,Project ID:1
+[I] 2012-01-17 17:23:20.764 (0x0F60):ErrorCode[0]_Add a new node,Node Index:29
+[I] 2012-01-17 17:23:27.704 (0x0F60):ErrorCode[0]_Callflow Closed!,Callflow ID:1 Callflow Name:Test Demo
+[I] 2012-01-17 17:23:27.736 (0x0F60):ErrorCode[0]_Visual IVR Editor Shutdown....
+[I] 2012-01-17 17:25:23.796 (0x0EF8):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.8
+[I] 2012-01-17 17:25:24.796 (0x0EF8):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2012-01-17 17:25:27.624 (0x0EF8):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:1 Callflow Name:Test Demo
+[I] 2012-01-17 17:25:27.640 (0x0EF8):ErrorCode[0]_Open Resource Record...,Project ID:1
+[I] 2012-01-17 17:25:30.736 (0x0EF8):ErrorCode[0]_Add a new node,Node Index:29
+[I] 2012-01-17 17:25:34.064 (0x0EF8):ErrorCode[0]_Update node info,Node ID:285
+[I] 2012-01-17 17:25:37.624 (0x0EF8):ErrorCode[0]_Callflow saved successful!,Callflow ID:1
+[I] 2012-01-17 17:25:38.544 (0x0EF8):ErrorCode[0]_Callflow Closed!,Callflow ID:1 Callflow Name:Test Demo
+[I] 2012-01-17 17:25:39.704 (0x0EF8):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2012-01-17 17:25:40.860 (0x0EF8):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:1 Callflow Name:Test Demo
+[I] 2012-01-17 17:25:40.876 (0x0EF8):ErrorCode[0]_Open Resource Record...,Project ID:1
+[I] 2012-01-17 17:25:46.232 (0x0EF8):ErrorCode[0]_Callflow Closed!,Callflow ID:1 Callflow Name:Test Demo
+[I] 2012-01-17 17:25:46.264 (0x0EF8):ErrorCode[0]_Visual IVR Editor Shutdown....
+[I] 2012-01-17 17:26:13.264 (0x0FBC):ErrorCode[0]_Visual IVR Editor Started...,Version:6.9.8
+[I] 2012-01-17 17:26:14.172 (0x0FBC):ErrorCode[0]_Connect to Database successful! ,ConnectionString:Provider=SQLOLEDB;Integrated Security=SSPI;Data Source=127.0.0.1;Initial Catalog=dbCallcenter
+[I] 2012-01-17 17:26:16.920 (0x0FBC):ErrorCode[0]_Open CallFlow and Nodes Record...,Callflow ID:1 Callflow Name:Test Demo
+[I] 2012-01-17 17:26:16.936 (0x0FBC):ErrorCode[0]_Open Resource Record...,Project ID:1
+[I] 2012-01-17 17:26:20.888 (0x0FBC):ErrorCode[0]_Callflow Closed!,Callflow ID:1 Callflow Name:Test Demo
+[I] 2012-01-17 17:26:20.920 (0x0FBC):ErrorCode[0]_Visual IVR Editor Shutdown....
